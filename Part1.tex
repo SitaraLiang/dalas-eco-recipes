@@ -1,0 +1,66 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+
+\geometry{margin=2cm}
+
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Project DALAS}}\\[0.3cm]
+    {\large Partie 1 : Définition du problème}\\[0.5cm]
+    Mathilde GAUTEUR (21500128) --  Xinyi LIANG (xxxxxxx)\\
+    Septembre 2025
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent\textbf{Problématique :}  \\
+Les recettes végétariennes ont-elles un impact écologique moindre que les recettes à base de viande en France ?  
+
+\vspace{0.3cm}
+\noindent\textbf{Contexte :}  \\
+La consommation de viande est régulièrement citée comme une source importante d’émissions de CO\textsubscript{2}. Dans un contexte où la communauté végétarienne est grandissante et où les enjeux climatiques se retrouvent au cœur de tous les débats, comparer l’empreinte carbone des recettes végétariennes et carnées apparaît pertinent et sociétalement fort.
+
+\vspace{0.3cm}
+\noindent\textbf{Données :} 
+\begin{itemize}[leftmargin=1.2cm, itemsep=0pt]
+    \item \textbf{Recettes} filtrées par catégorie (végé vs non-végé) et par popularité (likes, commentaires) pour obtenir les plus réalisées qui ont donc un impact : site \href{https://www.marmiton.org/}{Marmiton}.
+    \item \textbf{Empreinte carbone} : associée à chaque ingrédient : base \href{https://agribalyse.ademe.fr/app}{Agribalyse}.
+\end{itemize}
+
+\vspace{0.3cm}
+\noindent\textbf{Analyses envisagées :}
+\begin{itemize}[leftmargin=1.2cm, itemsep=0pt]
+    \item \textbf{Exploratoires} : visualisations, statistiques descriptives.  
+    \item \textbf{Comparaison} : moyenne des émissions CO\textsubscript{2} végé vs non-végé, tests de significativité.  
+    \item \textbf{Clustering} : regroupement des recettes selon leur empreinte carbone et composition en ingrédients (PCA, t-SNE).  
+    \item \textbf{Modèles prédictifs :}  
+    \begin{itemize}[leftmargin=0.8cm, itemsep=0pt]
+        \item \textit{Régression linéaire / Ridge / Lasso} : adaptées pour estimer l’empreinte carbone totale en fonction des ingrédients, tout en gardant un modèle simple et interprétable.  
+        \item \textit{Forêts aléatoires (Random Forest)} : utiles pour capturer les interactions complexes entre ingrédients et émissions, là où les modèles linéaires pourraient être limités.  
+        \item Encodage des ingrédients en variables binaires (one-hot) pour transformer chaque recette en vecteur d’ingrédients.  
+    \end{itemize}
+    Ces modèles permettent à la fois d’évaluer les facteurs les plus polluants et de prédire l’impact d’une nouvelle recette.  
+    \item (Optionnel) \textbf{Recommandations de substitution} : suggérer des alternatives moins émettrices pour certains ingrédients.  
+\end{itemize}
+
+\vspace{0.3cm}
+\noindent\textbf{Étapes techniques :}
+\begin{enumerate}[leftmargin=1.2cm, itemsep=0pt]
+    \item \textbf{Scraping} des données Marmiton et Agribalyse (Python, BeautifulSoup/Selenium).  
+    \item \textbf{Nettoyage} : normalisation des ingrédients, classification végé/non-végé.  
+    \item \textbf{Analyse} : calcul des émissions totales, visualisations, modèles prédictifs.  
+\end{enumerate}
+
+\vspace{0.3cm}
+\noindent\textbf{Résultats attendus :}  \\
+Les recettes végétariennes devraient présenter une empreinte carbone moyenne significativement plus faible que celles à base de viande.
+
+\end{document}
