@@ -22,7 +22,7 @@ pip install -r requirements.txt
 To verify that your environment is working correctly:
 
 ```bash
-python test_scraper.py
+python tests/test_scraper.py
 ```
 
 This will scrape a few sample recipes (e.g., for “cake”) and save them to:
@@ -36,7 +36,7 @@ data/test_recipes.json
 Once the test works, run the full scraper:
 
 ```bash
-python run_scraper.py
+python scripts/run_scraper.py
 ```
 
 This script will:
