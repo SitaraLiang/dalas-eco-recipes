@@ -18,12 +18,12 @@ from src.recipe_scraper import (
 
 if __name__ == "__main__":
     # Collect vegetarian recipes via search query
-    #vege_links = get_recipe_links_query("vege")
-    #collect_recipes(vege_links, "recipes_vege.json")
+    vege_links = get_recipe_links_query("vege")
+    collect_recipes(vege_links, "recipes_vege.json")
 
     # Collect meat recipes via category
     meat_links = get_recipe_links_category("viande")
-    collect_recipes(meat_links, "recipes_meat.json", limit=2000)
+    collect_recipes(meat_links, "recipes_non_vege.json", limit=2000)
 
 
     print("\n✅ All scraping tasks completed successfully.")

@@ -1,5 +1,1748 @@
 [
   {
+    "title": "Sauté de veau à l'estragon et aux champignons",
+    "url": "https://www.marmiton.org/recettes/recette_saute-de-veau-a-l-estragon-et-aux-champignons_171096.aspx",
+    "rating": "5",
+    "ingredients": [
+      {
+        "ingredient_name": "sauté de veau",
+        "quantity": "600",
+        "unit": "g",
+        "complement": "",
+        "ecv": 13.502792
+      }
+    ]
+  },
+  {
+    "title": "Riz, légumes, boulettes de boeuf à la crème légère",
+    "url": "https://www.marmiton.org/recettes/recette_riz-legumes-boulettes-de-boeuf-a-la-creme-legere_58438.aspx",
+    "rating": "4.5",
+    "ingredients": [
+      {
+        "ingredient_name": "courgettes",
+        "quantity": "2",
+        "unit": "250",
+        "complement": "de petit calibre",
+        "ecv": 0.249254
+      },
+      {
+        "ingredient_name": "tomates",
+        "quantity": "2",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.18768
+      },
+      {
+        "ingredient_name": "riz",
+        "quantity": "200",
+        "unit": "g",
+        "complement": "(2 sachets)",
+        "ecv": 0.402917
+      },
+      {
+        "ingredient_name": "boeuf",
+        "quantity": "8",
+        "unit": "60",
+        "complement": "surgelé",
+        "ecv": 13.444402
+      }
+    ]
+  },
+  {
+    "title": "Boeuf à la Guinness façon Isa",
+    "url": "https://www.marmiton.org/recettes/recette_boeuf-a-la-guinness-facon-isa_342872.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "bouillon de boeuf",
+        "quantity": "2",
+        "unit": "60",
+        "complement": "",
+        "ecv": 3.3611
+      },
+      {
+        "ingredient_name": "boeuf",
+        "quantity": "1.4",
+        "unit": "60",
+        "complement": "à bourguignon",
+        "ecv": 2.35277
+      }
+    ]
+  },
+    {
+    "title": "Boeuf à ma façon",
+    "url": "https://www.marmiton.org/recettes/recette_boeuf-a-ma-facon_82328.aspx",
+    "rating": "4.3",
+    "ingredients": [
+      {
+        "ingredient_name": "beurre",
+        "quantity": "1",
+        "unit": "noix",
+        "complement": "",
+        "ecv": 0.672633
+      },
+      {
+        "ingredient_name": "boeuf",
+        "quantity": "1",
+        "unit": "60",
+        "complement": "",
+        "ecv": 1.68055
+      },
+      {
+        "ingredient_name": "pommes de terre",
+        "quantity": "10",
+        "unit": "80",
+        "complement": "",
+        "ecv": 0.326556
+      }
+    ]
+  },
+  {
+    "title": "Pabellon criollo (Venezuela)",
+    "url": "https://www.marmiton.org/recettes/recette_pabellon-criollo-venezuela_32673.aspx",
+    "rating": "5",
+    "ingredients": [
+      {
+        "ingredient_name": "beurre",
+        "quantity": "",
+        "unit": "",
+        "complement": "",
+        "ecv": 0.672633
+      },
+      {
+        "ingredient_name": "poireau",
+        "quantity": "1",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.091707
+      },
+      {
+        "ingredient_name": "riz",
+        "quantity": "2",
+        "unit": "verres",
+        "complement": "",
+        "ecv": 2.014586
+      },
+      {
+        "ingredient_name": "bouillon de boeuf",
+        "quantity": "2",
+        "unit": "60",
+        "complement": "",
+        "ecv": 3.3611
+      },
+      {
+        "ingredient_name": "boeuf",
+        "quantity": "1",
+        "unit": "60",
+        "complement": "(macreuse ou jarret)",
+        "ecv": 1.68055
+      },
+      {
+        "ingredient_name": "bananes plantain",
+        "quantity": "6",
+        "unit": "120",
+        "complement": "(les acheter plusieurs jours à l'avance pour qu'elles soient bien mûres au moment de les cuisiner !)",
+        "ecv": 0.654137
+      },
+      {
+        "ingredient_name": "tomates pelées",
+        "quantity": "750",
+        "unit": "150",
+        "complement": "en conserve",
+        "ecv": 70.38
+      }
+    ]
+  },
+  {
+    "title": "Blanquette de veau facile et légère",
+    "url": "https://www.marmiton.org/recettes/recette_blanquette-de-veau-facile-et-legere_91330.aspx",
+    "rating": "3.9",
+    "ingredients": [
+      {
+        "ingredient_name": "carottes",
+        "quantity": "2",
+        "unit": "125",
+        "complement": "(selon les goûts)",
+        "ecv": 0.099017
+      },
+      {
+        "ingredient_name": "beurre",
+        "quantity": "30",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.2374
+      },
+      {
+        "ingredient_name": "blanquette de veau",
+        "quantity": "1",
+        "unit": "kg",
+        "complement": "",
+        "ecv": 22.504653
+      }
+    ]
+  },
+  {
+    "title": "Pot-au-feu du Vénézuéla",
+    "url": "https://www.marmiton.org/recettes/recette_pot-au-feu-du-venezuela_28658.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "carotte",
+        "quantity": "500",
+        "unit": "125",
+        "complement": "",
+        "ecv": 24.754156
+      },
+      {
+        "ingredient_name": "banane",
+        "quantity": "1",
+        "unit": "120",
+        "complement": "vertes",
+        "ecv": 0.109023
+      },
+      {
+        "ingredient_name": "poulet",
+        "quantity": "1",
+        "unit": "",
+        "complement": "en morceaux",
+        "ecv": 4.56043
+      },
+      {
+        "ingredient_name": "jarret de veau",
+        "quantity": "1",
+        "unit": "kg",
+        "complement": "",
+        "ecv": 22.504653
+      },
+      {
+        "ingredient_name": "pomme de terre",
+        "quantity": "500",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.204097
+      },
+      {
+        "ingredient_name": "potiron",
+        "quantity": "500",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.319117
+      },
+      {
+        "ingredient_name": "tomates pelées",
+        "quantity": "500",
+        "unit": "150",
+        "complement": "(1 grosse boîte, si l'on préfère)",
+        "ecv": 46.92
+      }
+    ]
+  },
+  {
+    "title": "Gâteau à la banane léger et simple d'Anaïs",
+    "url": "https://www.marmiton.org/recettes/recette_gateau-a-la-banane-leger-et-simple-d-anais_57785.aspx",
+    "rating": "4.8",
+    "ingredients": [
+      {
+        "ingredient_name": "beurre",
+        "quantity": "150",
+        "unit": "g",
+        "complement": "",
+        "ecv": 1.186999
+      },
+      {
+        "ingredient_name": "bananes",
+        "quantity": "7",
+        "unit": "120",
+        "complement": "bien mûres",
+        "ecv": 0.763159
+      },
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "4",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.450722
+      },
+      {
+        "ingredient_name": "moules",
+        "quantity": "1",
+        "unit": "",
+        "complement": "à tarte",
+        "ecv": 5.328231
+      }
+    ]
+  },
+  {
+    "title": "Tarte au café et au sucre roux (vergeoise, cassonade)",
+    "url": "https://www.marmiton.org/recettes/recette_tarte-au-cafe-et-au-sucre-roux-vergeoise-cassonade_85835.aspx",
+    "rating": "3",
+    "ingredients": [
+      {
+        "ingredient_name": "beurre",
+        "quantity": "0.5",
+        "unit": "cuillère à soupe",
+        "complement": "",
+        "ecv": 0.672633
+      },
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "2",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.225361
+      },
+      {
+        "ingredient_name": "moules",
+        "quantity": "1",
+        "unit": "",
+        "complement": "à tarte de diamètre 28 centimètres",
+        "ecv": 5.328231
+      }
+    ]
+  },
+  {
+    "title": "Danois",
+    "url": "https://www.marmiton.org/recettes/recette_danois_36742.aspx",
+    "rating": "4",
+    "ingredients": [
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "2",
+        "unit": "60",
+        "complement": "entiers",
+        "ecv": 0.225361
+      },
+      {
+        "ingredient_name": "petit beurre",
+        "quantity": "250",
+        "unit": "g",
+        "complement": "",
+        "ecv": 1.978332
+      },
+      {
+        "ingredient_name": "moules",
+        "quantity": "1",
+        "unit": "",
+        "complement": "à cake chemisé de papier sulfurisé",
+        "ecv": 5.328231
+      }
+    ]
+  },
+  {
+    "title": "Préparation pour muffins légers et fondants",
+    "url": "https://www.marmiton.org/recettes/recette_preparation-pour-muffins-legers-et-fondants_86795.aspx",
+    "rating": "3.8",
+    "ingredients": [
+      {
+        "ingredient_name": "beurre",
+        "quantity": "50",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.395666
+      },
+      {
+        "ingredient_name": "moules",
+        "quantity": "10",
+        "unit": "",
+        "complement": "à muffins en silicone",
+        "ecv": 5.328231
+      },
+      {
+        "ingredient_name": "oeuf",
+        "quantity": "1",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.112681
+      }
+    ]
+  },
+  {
+    "title": "Lasagnes aux fruits de mer légères",
+    "url": "https://www.marmiton.org/recettes/recette_lasagnes-aux-fruits-de-mer-legeres_45766.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "moules",
+        "quantity": "150",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.799235
+      }
+    ]
+  },
+  {
+    "title": "Crème aux oeufs légère de Paquita",
+    "url": "https://www.marmiton.org/recettes/recette_creme-aux-oeufs-legere-de-paquita_64761.aspx",
+    "rating": "3.5",
+    "ingredients": [
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "4",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.450722
+      },
+      {
+        "ingredient_name": "moules",
+        "quantity": "1",
+        "unit": "",
+        "complement": "à charlotte ou un moule à cake",
+        "ecv": 5.328231
+      },
+      {
+        "ingredient_name": "moules",
+        "quantity": "1",
+        "unit": "",
+        "complement": "choisi pour faire un bain-marie",
+        "ecv": 5.328231
+      }
+    ]
+  },
+  {
+    "title": "Lasagnes légères de la mer",
+    "url": "https://www.marmiton.org/recettes/recette_lasagnes-legeres-de-la-mer_60335.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "courgette",
+        "quantity": "500",
+        "unit": "250",
+        "complement": "",
+        "ecv": 62.313375
+      },
+      {
+        "ingredient_name": "moules",
+        "quantity": "1",
+        "unit": "kg",
+        "complement": "",
+        "ecv": 5.328231
+      }
+    ]
+  },
+  {
+    "title": "Salade légère et rafraîchissante",
+    "url": "https://www.marmiton.org/recettes/recette_salade-legere-et-rafraichissante_112851.aspx",
+    "rating": "5",
+    "ingredients": [
+      {
+        "ingredient_name": "tomates cerise",
+        "quantity": "10",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.9384
+      },
+      {
+        "ingredient_name": "crevettes roses",
+        "quantity": "10",
+        "unit": "",
+        "complement": "",
+        "ecv": 20.345228
+      },
+      {
+        "ingredient_name": "avocat",
+        "quantity": "1",
+        "unit": "",
+        "complement": "",
+        "ecv": 1.552523
+      }
+    ]
+  },
+  {
+    "title": "Tourte sucrée-salée à l'asiatique",
+    "url": "https://www.marmiton.org/recettes/recette_tourte-sucree-salee-a-l-asiatique_48517.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "crevettes",
+        "quantity": "300",
+        "unit": "g",
+        "complement": "",
+        "ecv": 6.103568
+      },
+      {
+        "ingredient_name": "riz blanc",
+        "quantity": "",
+        "unit": "",
+        "complement": "",
+        "ecv": 2.014586
+      }
+    ]
+  },
+  {
+    "title": "Carbonara aux crevettes sans gluten et sans lactose",
+    "url": "https://www.marmiton.org/recettes/recette_carbonara-aux-crevettes-sans-gluten-et-sans-lactose_82431.aspx",
+    "rating": "5",
+    "ingredients": [
+      {
+        "ingredient_name": "riz",
+        "quantity": "",
+        "unit": "",
+        "complement": "ou maïs",
+        "ecv": 2.014586
+      },
+      {
+        "ingredient_name": "oeuf",
+        "quantity": "1",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.112681
+      },
+      {
+        "ingredient_name": "crevettes",
+        "quantity": "400",
+        "unit": "g",
+        "complement": "cuites décortiquées",
+        "ecv": 8.138091
+      }
+    ]
+  },
+  {
+    "title": "tarte légère aux crevettes",
+    "url": "https://www.marmiton.org/recettes/recette_tarte-legere-aux-crevettes_70549.aspx",
+    "rating": "3.5",
+    "ingredients": [
+      {
+        "ingredient_name": "crevettes",
+        "quantity": "300",
+        "unit": "g",
+        "complement": "",
+        "ecv": 6.103568
+      },
+      {
+        "ingredient_name": "feta",
+        "quantity": "1",
+        "unit": "pot",
+        "complement": "en cubes aux herbes",
+        "ecv": 6.30563
+      },
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "2",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.225361
+      }
+    ]
+  },
+  {
+    "title": "Mousse de crevettes légère",
+    "url": "https://www.marmiton.org/recettes/recette_mousse-de-crevettes-legere_86913.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "2",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.225361
+      },
+      {
+        "ingredient_name": "crevettes",
+        "quantity": "200",
+        "unit": "g",
+        "complement": "cuites",
+        "ecv": 4.069046
+      }
+    ]
+  },
+  {
+    "title": "Salade légère crevettes et oranges",
+    "url": "https://www.marmiton.org/recettes/recette_salade-legere-crevettes-et-oranges_46196.aspx",
+    "rating": "4.5",
+    "ingredients": [
+      {
+        "ingredient_name": "yaourt",
+        "quantity": "1",
+        "unit": "",
+        "complement": "0%",
+        "ecv": 1.89473
+      },
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "4",
+        "unit": "60",
+        "complement": "durs",
+        "ecv": 0.450722
+      },
+      {
+        "ingredient_name": "avocats",
+        "quantity": "2",
+        "unit": "",
+        "complement": "",
+        "ecv": 1.552523
+      },
+      {
+        "ingredient_name": "jaune d'oeuf",
+        "quantity": "1",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.112681
+      }
+    ]
+  },
+  {
+    "title": "Wok de crevettes aux légumes légèrement relevé",
+    "url": "https://www.marmiton.org/recettes/recette_wok-de-crevettes-aux-legumes-legerement-releve_63238.aspx",
+    "rating": "4.7",
+    "ingredients": [
+      {
+        "ingredient_name": "tomates",
+        "quantity": "4",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.37536
+      },
+      {
+        "ingredient_name": "crevettes",
+        "quantity": "1",
+        "unit": "kg",
+        "complement": "surgelées (pas nécéssaire qu'elles soient décortiquées)",
+        "ecv": 20.345228
+      },
+      {
+        "ingredient_name": "riz basmati",
+        "quantity": "500",
+        "unit": "g",
+        "complement": "",
+        "ecv": 1.007293
+      }
+    ]
+  },
+  {
+    "title": "travers de porc  à la vergeoise brune",
+    "url": "https://www.marmiton.org/recettes/recette_travers-de-porc-a-la-vergeoise-brune_70346.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "travers de porc",
+        "quantity": "4",
+        "unit": "",
+        "complement": "de 300g environ",
+        "ecv": 6.671305
+      }
+    ]
+  },
+  {
+    "title": "Nouilles asiatiques croquantes",
+    "url": "https://www.marmiton.org/recettes/recette_nouilles-asiatiques-croquantes_29569.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "vermicelles de riz",
+        "quantity": "4",
+        "unit": "paquets",
+        "complement": "(chinois ou thaïlandais)",
+        "ecv": 2.014586
+      },
+      {
+        "ingredient_name": "crevettes",
+        "quantity": "3",
+        "unit": "bouquets",
+        "complement": "décortiquées",
+        "ecv": 20.345228
+      },
+      {
+        "ingredient_name": "porc",
+        "quantity": "2",
+        "unit": "cuillères à soupe",
+        "complement": "",
+        "ecv": 6.671305
+      },
+      {
+        "ingredient_name": "poulet",
+        "quantity": "",
+        "unit": "",
+        "complement": "et crabe en tout petits morceaux",
+        "ecv": 4.56043
+      },
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "4",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.450722
+      }
+    ]
+  },
+  {
+    "title": "Porc à la sichuanaise",
+    "url": "https://www.marmiton.org/recettes/recette_porc-a-la-sichuanaise_535008.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "porc",
+        "quantity": "200",
+        "unit": "g",
+        "complement": "palette",
+        "ecv": 1.334261
+      },
+      {
+        "ingredient_name": "oignons nouveaux",
+        "quantity": "2",
+        "unit": "",
+        "complement": "",
+        "ecv": 22.504653
+      }
+    ]
+  },
+  {
+    "title": "Sandwich japonais au porc pané (katsu sando)",
+    "url": "https://www.marmiton.org/recettes/recette_sandwich-de-porc-pane-katsu-sando_535322.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "beurre",
+        "quantity": "",
+        "unit": "",
+        "complement": "",
+        "ecv": "0.672633"
+      },
+      {
+        "ingredient_name": "escalopes de porc",
+        "quantity": "4",
+        "unit": "",
+        "complement": "désossées",
+        "ecv": 6.671305
+      },
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "3",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.338042
+      }
+    ]
+  },
+ {
+    "title": "Nems au airfryer",
+    "url": "https://www.marmiton.org/recettes/recette_nems-au-airfryer_536751.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "vermicelles de riz",
+        "quantity": "50",
+        "unit": "g",
+        "complement": "secs",
+        "ecv": 0.100729
+      },
+      {
+        "ingredient_name": "porc",
+        "quantity": "250",
+        "unit": "g",
+        "complement": "haché finement",
+        "ecv": 1.667826
+      },
+      {
+        "ingredient_name": "carottes râpées",
+        "quantity": "100",
+        "unit": "125",
+        "complement": "",
+        "ecv": 4.950831
+      },
+      {
+        "ingredient_name": "oeuf",
+        "quantity": "1",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.112681
+      },
+      {
+        "ingredient_name": "galettes de riz",
+        "quantity": "12",
+        "unit": "",
+        "complement": "séchées (bánh tráng)",
+        "ecv": 2.014586
+      }
+    ]
+  },
+  {
+    "title": "Rôti de porc en sauce légère",
+    "url": "https://www.marmiton.org/recettes/recette_roti-de-porc-en-sauce-legere_73593.aspx",
+    "rating": "4",
+    "ingredients": [
+      {
+        "ingredient_name": "beurre",
+        "quantity": "",
+        "unit": "",
+        "complement": "",
+        "ecv": 0.672633
+      },
+      {
+        "ingredient_name": "carottes",
+        "quantity": "2",
+        "unit": "125",
+        "complement": "",
+        "ecv": 0.099017
+      },
+      {
+        "ingredient_name": "courgette",
+        "quantity": "",
+        "unit": "250",
+        "complement": "coupées en biseau",
+        "ecv": 0.124627
+      },
+      {
+        "ingredient_name": "rôti de porc",
+        "quantity": "1",
+        "unit": "",
+        "complement": "(saumuré si possible)",
+        "ecv": 6.671305
+      },
+      {
+        "ingredient_name": "oignons nouveaux",
+        "quantity": "4",
+        "unit": "",
+        "complement": "",
+        "ecv": 22.504653
+      },
+      {
+        "ingredient_name": "pomme de terre",
+        "quantity": "",
+        "unit": "",
+        "complement": "",
+        "ecv": 0.408195
+      }
+    ]
+  },
+  {
+    "title": "lapin au citron : délicieux, facile, rapide et léger",
+    "url": "https://www.marmiton.org/recettes/recette_lapin-au-citron_335126.aspx",
+    "rating": "5",
+    "ingredients": [
+      {
+        "ingredient_name": "lapin",
+        "quantity": "4",
+        "unit": "morceaux",
+        "complement": "(rables, cuisses ou gigolettes)",
+        "ecv": 5.7829
+      }
+    ]
+  },
+  {
+    "title": "Lapin léger en cocotte",
+    "url": "https://www.marmiton.org/recettes/recette_lapin-leger-en-cocotte_253914.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "carottes",
+        "quantity": "3",
+        "unit": "125",
+        "complement": "",
+        "ecv": 0.148525
+      },
+      {
+        "ingredient_name": "cuisses de lapin",
+        "quantity": "4",
+        "unit": "",
+        "complement": "",
+        "ecv": 5.7829
+      },
+      {
+        "ingredient_name": "tomates pelées",
+        "quantity": "1",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.09384
+      }
+    ]
+  }, 
+  {
+    "title": "Lapin 'con salcetta di Venezia'",
+    "url": "https://www.marmiton.org/recettes/recette_lapin-con-salcetta-di-venezia_21265.aspx",
+    "rating": "5",
+    "ingredients": [
+      {
+        "ingredient_name": "lapin",
+        "quantity": "",
+        "unit": "",
+        "complement": "découpé en morceaux + abats",
+        "ecv": 5.7829
+      },
+      {
+        "ingredient_name": "blanc de poireau",
+        "quantity": "1",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.091707
+      },
+      {
+        "ingredient_name": "thon",
+        "quantity": "1",
+        "unit": "petite boîte",
+        "complement": "à l'huile",
+        "ecv": 4.98343
+      }
+    ]
+  },
+  {
+    "title": "Lasagnes sans lactose et sans gluten des Cantoches",
+    "url": "https://www.marmiton.org/recettes/recette_lasagnes-sans-lactose-et-sans-gluten-des-cantoches_342673.aspx",
+    "rating": "4.8",
+    "ingredients": [
+      {
+        "ingredient_name": "tomates",
+        "quantity": "4",
+        "unit": "150",
+        "complement": "fraîches",
+        "ecv": 0.37536
+      },
+      {
+        "ingredient_name": "carotte",
+        "quantity": "1",
+        "unit": "125",
+        "complement": "",
+        "ecv": 0.049508
+      },
+      {
+        "ingredient_name": "boeuf haché",
+        "quantity": "400",
+        "unit": "60",
+        "complement": "",
+        "ecv": 672.22008
+      },
+      {
+        "ingredient_name": "pulpe de tomate",
+        "quantity": "1",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.09384
+      },
+      {
+        "ingredient_name": "tofu soyeux",
+        "quantity": "200",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.20086
+      }
+    ]
+  },
+  {
+    "title": "Moussaka légère (à ma façon)",
+    "url": "https://www.marmiton.org/recettes/recette_moussaka-legere-a-ma-facon_224015.aspx",
+    "rating": "4.3",
+    "ingredients": [
+      {
+        "ingredient_name": "boeuf haché",
+        "quantity": "500",
+        "unit": "60",
+        "complement": "(5% matière grasse) ou bien d'agneau",
+        "ecv": 840.2751
+      }
+    ]
+  },
+  {
+    "title": "Lasagnes légères au boeuf",
+    "url": "https://www.marmiton.org/recettes/recette_lasagnes-legeres-au-boeuf_41350.aspx",
+    "rating": "4.4",
+    "ingredients": [
+      {
+        "ingredient_name": "tomates",
+        "quantity": "14",
+        "unit": "150",
+        "complement": "",
+        "ecv": 1.31376
+      },
+      {
+        "ingredient_name": "boeuf haché",
+        "quantity": "350",
+        "unit": "60",
+        "complement": "à 5% de mg",
+        "ecv": 588.19257
+      }
+    ]
+  },
+  {
+    "title": "moussaka légère à la façon paula",
+    "url": "https://www.marmiton.org/recettes/recette_moussaka-legere-a-la-facon-paula_58371.aspx",
+    "rating": "5",
+    "ingredients": [
+      {
+        "ingredient_name": "courgettes",
+        "quantity": "2",
+        "unit": "250",
+        "complement": "",
+        "ecv": 0.249254
+      },
+      {
+        "ingredient_name": "boeuf haché",
+        "quantity": "500",
+        "unit": "60",
+        "complement": "",
+        "ecv": 840.2751
+      },
+      {
+        "ingredient_name": "tomates pelées",
+        "quantity": "250",
+        "unit": "150",
+        "complement": "",
+        "ecv": 23.46
+      }
+    ]
+  },
+  {
+    "title": "Les lasagnes de Titi",
+    "url": "https://www.marmiton.org/recettes/recette_les-lasagnes-de-titi_307595.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "carottes",
+        "quantity": "4",
+        "unit": "125",
+        "complement": "moyennes",
+        "ecv": 0.198033
+      },
+      {
+        "ingredient_name": "boeuf haché",
+        "quantity": "1",
+        "unit": "60",
+        "complement": "",
+        "ecv": 1.68055
+      }
+    ]
+  },
+  {
+    "title": "Magrets de canard aux saveurs orientales et son confit d'oignons",
+    "url": "https://www.marmiton.org/recettes/recette_magrets-de-canard-aux-saveurs-orientales-et-son-confit-d-oignons_22858.aspx",
+    "rating": "4.3",
+    "ingredients": [
+      {
+        "ingredient_name": "boulgour",
+        "quantity": "2",
+        "unit": "verres",
+        "complement": "",
+        "ecv": 0.9499
+      },
+      {
+        "ingredient_name": "oignon nouveau",
+        "quantity": "1",
+        "unit": "kg",
+        "complement": "",
+        "ecv": 22.504653
+      },
+      {
+        "ingredient_name": "Magrets de Canard",
+        "quantity": "3",
+        "unit": "",
+        "complement": "de canards (300 g pièce)",
+        "ecv": 8.0609
+      }
+    ]
+  },
+  {
+    "title": "CANARD LAQUÉ AUX GRAINES DE SÉSAME (Recette légère)",
+    "url": "https://www.marmiton.org/recettes/recette_canard-laque-aux-graines-de-sesame-recette-legere_25329.aspx",
+    "rating": "4.6",
+    "ingredients": [
+      {
+        "ingredient_name": "Magrets de Canard",
+        "quantity": "4",
+        "unit": "",
+        "complement": "",
+        "ecv": 8.0609
+      }
+    ]
+  },
+  {
+    "title": "Papillote de cabillaud légère",
+    "url": "https://www.marmiton.org/recettes/recette_papillote-de-cabillaud-legere_88700.aspx",
+    "rating": "4.8",
+    "ingredients": [
+      {
+        "ingredient_name": "tomate",
+        "quantity": "1",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.09384
+      },
+      {
+        "ingredient_name": "lieu noir",
+        "quantity": "4",
+        "unit": "filets",
+        "complement": "",
+        "ecv": 12.086488
+      },
+      {
+        "ingredient_name": "beurre",
+        "quantity": "20",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.158267
+      }
+    ]
+  },
+  {
+    "title": "Saumon au four facile et léger",
+    "url": "https://www.marmiton.org/recettes/recette_saumon-au-four-facile-et-leger_52158.aspx",
+    "rating": "4.5",
+    "ingredients": [
+      {
+        "ingredient_name": "tomates",
+        "quantity": "2",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.18768
+      },
+      {
+        "ingredient_name": "saumon",
+        "quantity": "2",
+        "unit": "pavés",
+        "complement": "",
+        "ecv": 5.55693
+      },
+      {
+        "ingredient_name": "tomates pelées",
+        "quantity": "1",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.09384
+      }
+    ]
+  },
+  {
+    "title": "Tarte légère fromage blanc et fines herbes",
+    "url": "https://www.marmiton.org/recettes/recette_tarte-legere-fromage-blanc-et-fines-herbes_173309.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "tomate",
+        "quantity": "1",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.09384
+      },
+      {
+        "ingredient_name": "courgette",
+        "quantity": "",
+        "unit": "250",
+        "complement": "",
+        "ecv": 0.124627
+      },
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "2",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.225361
+      },
+      {
+        "ingredient_name": "saumon",
+        "quantity": "",
+        "unit": "",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Tartare de saumon léger et rapide",
+    "url": "https://www.marmiton.org/recettes/recette_tartare-de-saumon-leger-et-rapide_231783.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon",
+        "quantity": "2",
+        "unit": "pavés",
+        "complement": "de 130 gr chacun",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Papillote de saumon légère",
+    "url": "https://www.marmiton.org/recettes/recette_papillote-de-saumon-legere_87215.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon",
+        "quantity": "4",
+        "unit": "pavés",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },  
+  {
+    "title": "lasagnes saumon brocolis légères",
+    "url": "https://www.marmiton.org/recettes/recette_lasagnes-saumon-brocolis-legeres_41474.aspx",
+    "rating": "4.6",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon",
+        "quantity": "1",
+        "unit": "filet",
+        "complement": "(300 g)",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Darnes de saumon légères et faciles",
+    "url": "https://www.marmiton.org/recettes/recette_darnes-de-saumon-legeres-et-faciles_35860.aspx",
+    "rating": "4.6",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon",
+        "quantity": "4",
+        "unit": "",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Saumon gravlax",
+    "url": "https://www.marmiton.org/recettes/recette_saumon-gravlax_533945.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon",
+        "quantity": "500",
+        "unit": "g",
+        "complement": "bio",
+        "ecv": 2.778465
+      },
+      {
+        "ingredient_name": "carottes pourpres",
+        "quantity": "2",
+        "unit": "125",
+        "complement": "",
+        "ecv": 0.099017
+      }
+    ]
+  },
+  {
+    "title": "Gravad laks de saumon et sauce d'accompagnement",
+    "url": "https://www.marmiton.org/recettes/recette_gravad-laks-de-saumon-et-sauce-d-accompagnement_70478.aspx",
+    "rating": "5",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon",
+        "quantity": "1",
+        "unit": "",
+        "complement": "d'environ 1,5 kg à 2 kg",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Endives braisées à la bière et darnes de saumon rose",
+    "url": "https://www.marmiton.org/recettes/recette_endives-braisees-a-la-biere-et-darnes-de-saumon-rose_13034.aspx",
+    "rating": "4.7",
+    "ingredients": [
+      {
+        "ingredient_name": "beurre",
+        "quantity": "",
+        "unit": "",
+        "complement": "",
+        "ecv": "0.672633"
+      },
+      {
+        "ingredient_name": "saumon",
+        "quantity": "4",
+        "unit": "",
+        "complement": "rose",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "One pot pasta saumon, épinards et tomates cerises",
+    "url": "https://www.marmiton.org/recettes/recette_one-pot-pasta-saumon-epinards-et-tomates-cerises_528391.aspx",
+    "rating": "4.3",
+    "ingredients": [
+      {
+        "ingredient_name": "tomates cerise",
+        "quantity": "15",
+        "unit": "150",
+        "complement": "",
+        "ecv": 1.4076
+      },
+      {
+        "ingredient_name": "saumon",
+        "quantity": "2",
+        "unit": "pavés",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Courge spaghetti au saumon",
+    "url": "https://www.marmiton.org/recettes/recette_courge-spaghetti-au-saumon_345919.aspx",
+    "rating": "5",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon",
+        "quantity": "3",
+        "unit": "pavés",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Lasagnes légères de saumon et courgettes (sans pâte)",
+    "url": "https://www.marmiton.org/recettes/recette_lasagnes-legeres-de-saumon-et-courgettes-sans-pate_344597.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "courgettes",
+        "quantity": "3",
+        "unit": "250",
+        "complement": "",
+        "ecv": 0.37388
+      },
+      {
+        "ingredient_name": "saumon frais",
+        "quantity": "4",
+        "unit": "pavés",
+        "complement": "",
+        "ecv": 5.55693
+      },
+      {
+        "ingredient_name": "oeuf",
+        "quantity": "1",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.112681
+      }
+    ]
+  },
+  {
+    "title": "Tarte lègère aux courgettes, saumon et tomates séchées",
+    "url": "https://www.marmiton.org/recettes/recette_tarte-legere-aux-courgettes-saumon-et-tomates-sechees_49849.aspx",
+    "rating": "3",
+    "ingredients": [
+      {
+        "ingredient_name": "tomates séchées",
+        "quantity": "8",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.75072
+      },
+      {
+        "ingredient_name": "courgettes",
+        "quantity": "3",
+        "unit": "250",
+        "complement": "",
+        "ecv": 0.37388
+      },
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "2",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.225361
+      },
+      {
+        "ingredient_name": "saumon frais",
+        "quantity": "1",
+        "unit": "filet",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Quiche saumon-poireaux légère.",
+    "url": "https://www.marmiton.org/recettes/recette_quiche-saumon-poireaux-legere_19217.aspx",
+    "rating": "4.5",
+    "ingredients": [
+      {
+        "ingredient_name": "poireau",
+        "quantity": "1",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.091707
+      },
+      {
+        "ingredient_name": "saumon frais",
+        "quantity": "1",
+        "unit": "pavé",
+        "complement": "(300 g environ)",
+        "ecv": 5.55693
+      },
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "3",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.338042
+      }
+    ]
+  },
+  {
+    "title": "Lasagnes au saumon et au fenouil",
+    "url": "https://www.marmiton.org/recettes/recette_lasagnes-au-saumon-et-au-fenouil_62730.aspx",
+    "rating": "4.9",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon frais",
+        "quantity": "500",
+        "unit": "g",
+        "complement": "",
+        "ecv": 2.778465
+      }
+    ]
+  },
+  {
+    "title": "Salade légère de pâtes au saumon fumé",
+    "url": "https://www.marmiton.org/recettes/recette_salade-legere-de-pates-au-saumon-fume_63557.aspx",
+    "rating": "4.3",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "4",
+        "unit": "belles tranches",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Gratin dauphinois léger au saumon fumé",
+    "url": "https://www.marmiton.org/recettes/recette_gratin-dauphinois-leger-au-saumon-fume_335361.aspx",
+    "rating": "4",
+    "ingredients": [
+      {
+        "ingredient_name": "pomme de terre",
+        "quantity": "500",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.204097
+      },
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "200",
+        "unit": "g",
+        "complement": "",
+        "ecv": 1.111386
+      },
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "2",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.225361
+      }
+    ]
+  },
+  {
+    "title": "Croque-monsieur léger au saumon",
+    "url": "https://www.marmiton.org/recettes/recette_croques-saumon-leger_197427.aspx",
+    "rating": "4",
+    "ingredients": [
+      {
+        "ingredient_name": "tomates",
+        "quantity": "2",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.18768
+      },
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "4",
+        "unit": "tranches",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Pizza au saumon légère",
+    "url": "https://www.marmiton.org/recettes/recette_pizza-au-saumon-legere_194874.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "3",
+        "unit": "tranches",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Tartinade légère de saumon fumé",
+    "url": "https://www.marmiton.org/recettes/recette_tartinade-legere-de-saumon-fume_232195.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "150",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.83354
+      }
+    ]
+  },
+    {
+    "title": "Tomates farcies ultra-légères au chou-fleur",
+    "url": "https://www.marmiton.org/recettes/recette_tomates-farcies-ultra-legeres-au-chou-fleur_345437.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "tomates",
+        "quantity": "6",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.56304
+      },
+      {
+        "ingredient_name": "tomates séchées",
+        "quantity": "4",
+        "unit": "150",
+        "complement": "",
+        "ecv": 0.37536
+      },
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "100",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.555693
+      },
+      {
+        "ingredient_name": "crevettes",
+        "quantity": "6",
+        "unit": "",
+        "complement": "",
+        "ecv": 20.345228
+      }
+    ]
+  },
+  {
+    "title": "Sauce légère pour faire trempette à l'apéritif",
+    "url": "https://www.marmiton.org/recettes/recette_sauce-legere-pour-faire-trempette-a-l-aperitif_66070.aspx",
+    "rating": "5",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "2",
+        "unit": "tranches",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Salade légère saumon crevettes",
+    "url": "https://www.marmiton.org/recettes/recette_salade-legere-saumon-crevettes_42345.aspx",
+    "rating": "4.7",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "4",
+        "unit": "tranches",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Quiche légère aux courgettes et au saumon",
+    "url": "https://www.marmiton.org/recettes/recette_quiche-legere-aux-courgettes-et-au-saumon_39865.aspx",
+    "rating": "4.5",
+    "ingredients": [
+      {
+        "ingredient_name": "courgette",
+        "quantity": "1",
+        "unit": "250",
+        "complement": "moyenne",
+        "ecv": 0.124627
+      },
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "1",
+        "unit": "",
+        "complement": "",
+        "ecv": 5.55693
+      },
+      {
+        "ingredient_name": "yaourt nature",
+        "quantity": "1",
+        "unit": "",
+        "complement": "à 0%",
+        "ecv": 1.89473
+      },
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "3",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.338042
+      }
+    ]
+  },
+  {
+    "title": "Wraps léger saumon basilic",
+    "url": "https://www.marmiton.org/recettes/recette_wraps-leger-samon-basilic_212065.aspx",
+    "rating": "4.8",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "4",
+        "unit": "tranches",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Roulés de poireaux légers au saumon fumé",
+    "url": "https://www.marmiton.org/recettes/recette_roules-de-poireaux-legers-au-saumon-fume_37202.aspx",
+    "rating": "4.5",
+    "ingredients": [
+      {
+        "ingredient_name": "poireaux",
+        "quantity": "4",
+        "unit": "150",
+        "complement": "(ou un bocal de blanc de poireaux en conserve)",
+        "ecv": 0.366827
+      },
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "4",
+        "unit": "belles tranches",
+        "complement": "",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Mini bagels maison au saumon fumé",
+    "url": "https://www.marmiton.org/recettes/recette_mini-bagels-maison-au-saumon-fume_538421.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "oeuf",
+        "quantity": "1",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.112681
+      },
+      {
+        "ingredient_name": "babeurre",
+        "quantity": "125",
+        "unit": "ml",
+        "complement": "",
+        "ecv": 0.672633
+      },
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "120",
+        "unit": "g",
+        "complement": "en tranches",
+        "ecv": 0.666832
+      }
+    ]
+  },
+  {
+    "title": "Quiche légère au saumon à la crème de soja",
+    "url": "https://www.marmiton.org/recettes/recette_quiche-legere-au-saumon_311226.aspx",
+    "rating": "4",
+    "ingredients": [
+      {
+        "ingredient_name": "oeufs",
+        "quantity": "3",
+        "unit": "60",
+        "complement": "",
+        "ecv": 0.338042
+      },
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "100",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.555693
+      }
+    ]
+  },
+  {
+    "title": "Gratin de céleri rave, pommes de terre et saumon fumé",
+    "url": "https://www.marmiton.org/recettes/recette_gratin-de-celeri-rave-pommes-de-terre-et-saumon-fume_174709.aspx",
+    "rating": "4.6",
+    "ingredients": [
+      {
+        "ingredient_name": "pomme de terre",
+        "quantity": "500",
+        "unit": "g",
+        "complement": "",
+        "ecv": 0.204097
+      },
+      {
+        "ingredient_name": "saumon fumé",
+        "quantity": "8",
+        "unit": "tranches",
+        "complement": "(ou autre poisson fumé type haddock ou truite)",
+        "ecv": 5.55693
+      }
+    ]
+  },
+  {
+    "title": "Saumon gravelax \"Ronald\"",
+    "url": "https://www.marmiton.org/recettes/recette_saumon-gravelax-ronald_313689.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "saumon",
+        "quantity": "800",
+        "unit": "g",
+        "complement": "(partie la plus proche de la queue afin que les arêtes ne soient pas trop nombreuses)",
+        "ecv": 4.445544
+      }
+    ]
+  },
+  {
+    "title": "Verrines poulet-mangues",
+    "url": "https://www.marmiton.org/recettes/recette_verrines-poulet-mangues_313769.aspx",
+    "rating": "0",
+    "ingredients": [
+      {
+        "ingredient_name": "poulet",
+        "quantity": "500",
+        "unit": "g",
+        "complement": "",
+        "ecv": 2.280215
+      },
+      {
+        "ingredient_name": "mangues",
+        "quantity": "2",
+        "unit": "",
+        "complement": "",
+        "ecv": 11.65551
+      }
+    ]
+  },
+  {
+    "title": "Magrets de canard sauce grand veneur",
+    "url": "https://www.marmiton.org/recettes/recette_magrets-de-canard-sauce-grand-veneur_27068.aspx",
+    "rating": "5",
+    "ingredients": [
+      {
+        "ingredient_name": "Magrets de Canard",
+        "quantity": "2",
+        "unit": "",
+        "complement": "",
+        "ecv": 8.0609
+      },
+      {
+        "ingredient_name": "carotte",
+        "quantity": "1",
+        "unit": "125",
+        "complement": "",
+        "ecv": 0.049508
+      },
+      {
+        "ingredient_name": "canard",
+        "quantity": "",
+        "unit": "",
+        "complement": "",
+        "ecv": 8.0609
+      }
+    ]
+  },
+  {
     "title": "Blanquette de veau facile au Cookeo",
     "url": "https://www.marmiton.org/recettes/recette_blanquette-de-veau-facile-au-cookeo_383136.aspx",
     "rating": "5",
@@ -48191,7 +49934,7 @@
       {
         "ingredient_name": "mangue",
         "quantity": "1",
-        "unit": "",
+        "unit": "300",
         "complement": "bien mûre"
       },
       {
