@@ -87,6 +87,13 @@
                 "unit": "g",
                 "complement": "",
                 "ecv": 0.7992346500000002
+            },
+            {
+                "ingredient_name": "crevettes roses",
+                "quantity": "150",
+                "unit": "g",
+                "complement": "",
+                "ecv": 3.0517842
             }
         ]
     },
