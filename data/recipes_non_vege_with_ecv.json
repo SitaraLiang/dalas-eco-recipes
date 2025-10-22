@@ -77,83 +77,6 @@
         ]
     },
     {
-        "title": "Gâteau à la banane léger et simple d'Anaïs",
-        "url": "https://www.marmiton.org/recettes/recette_gateau-a-la-banane-leger-et-simple-d-anais_57785.aspx",
-        "rating": "4.8",
-        "ingredients": [
-            {
-                "ingredient_name": "beurre",
-                "quantity": "150",
-                "unit": "g",
-                "complement": "",
-                "ecv": 1.1869995
-            },
-            {
-                "ingredient_name": "moules",
-                "quantity": "20.0",
-                "unit": "g",
-                "complement": "à tarte",
-                "ecv": 0.10656462000000003
-            }
-        ]
-    },
-    {
-        "title": "Tarte au café et au sucre roux (vergeoise, cassonade)",
-        "url": "https://www.marmiton.org/recettes/recette_tarte-au-cafe-et-au-sucre-roux-vergeoise-cassonade_85835.aspx",
-        "rating": "3",
-        "ingredients": [
-            {
-                "ingredient_name": "moules",
-                "quantity": "20.0",
-                "unit": "g",
-                "complement": "à tarte de diamètre 28 centimètres",
-                "ecv": 0.10656462000000003
-            }
-        ]
-    },
-    {
-        "title": "Danois",
-        "url": "https://www.marmiton.org/recettes/recette_danois_36742.aspx",
-        "rating": "4",
-        "ingredients": [
-            {
-                "ingredient_name": "petit beurre",
-                "quantity": "250",
-                "unit": "g",
-                "complement": "",
-                "ecv": 1.9783324999999998
-            },
-            {
-                "ingredient_name": "moules",
-                "quantity": "20.0",
-                "unit": "g",
-                "complement": "à cake chemisé de papier sulfurisé",
-                "ecv": 0.10656462000000003
-            }
-        ]
-    },
-    {
-        "title": "Préparation pour muffins légers et fondants",
-        "url": "https://www.marmiton.org/recettes/recette_preparation-pour-muffins-legers-et-fondants_86795.aspx",
-        "rating": "3.8",
-        "ingredients": [
-            {
-                "ingredient_name": "beurre",
-                "quantity": "50",
-                "unit": "g",
-                "complement": "",
-                "ecv": 0.3956665
-            },
-            {
-                "ingredient_name": "moules",
-                "quantity": "20.0",
-                "unit": "g",
-                "complement": "à muffins en silicone",
-                "ecv": 0.10656462000000003
-            }
-        ]
-    },
-    {
         "title": "Lasagnes aux fruits de mer légères",
         "url": "https://www.marmiton.org/recettes/recette_lasagnes-aux-fruits-de-mer-legeres_45766.aspx",
         "rating": "0",
@@ -164,27 +87,6 @@
                 "unit": "g",
                 "complement": "",
                 "ecv": 0.7992346500000002
-            }
-        ]
-    },
-    {
-        "title": "Crème aux oeufs légère de Paquita",
-        "url": "https://www.marmiton.org/recettes/recette_creme-aux-oeufs-legere-de-paquita_64761.aspx",
-        "rating": "3.5",
-        "ingredients": [
-            {
-                "ingredient_name": "moules",
-                "quantity": "20.0",
-                "unit": "g",
-                "complement": "à charlotte ou un moule à cake",
-                "ecv": 0.10656462000000003
-            },
-            {
-                "ingredient_name": "moules",
-                "quantity": "20.0",
-                "unit": "g",
-                "complement": "choisi pour faire un bain-marie",
-                "ecv": 0.10656462000000003
             }
         ]
     },

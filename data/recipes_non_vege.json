@@ -262,13 +262,6 @@
         "unit": "60",
         "complement": "",
         "ecv": 0.450722
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "1",
-        "unit": "",
-        "complement": "à tarte",
-        "ecv": 5.328231
       }
     ]
   },
@@ -290,13 +283,6 @@
         "unit": "60",
         "complement": "",
         "ecv": 0.225361
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "1",
-        "unit": "",
-        "complement": "à tarte de diamètre 28 centimètres",
-        "ecv": 5.328231
       }
     ]
   },
@@ -318,13 +304,6 @@
         "unit": "g",
         "complement": "",
         "ecv": 1.978332
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "1",
-        "unit": "",
-        "complement": "à cake chemisé de papier sulfurisé",
-        "ecv": 5.328231
       }
     ]
   },
@@ -339,13 +318,6 @@
         "unit": "g",
         "complement": "",
         "ecv": 0.395666
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "10",
-        "unit": "",
-        "complement": "à muffins en silicone",
-        "ecv": 5.328231
       },
       {
         "ingredient_name": "oeuf",
@@ -381,20 +353,6 @@
         "unit": "60",
         "complement": "",
         "ecv": 0.450722
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "1",
-        "unit": "",
-        "complement": "à charlotte ou un moule à cake",
-        "ecv": 5.328231
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "1",
-        "unit": "",
-        "complement": "choisi pour faire un bain-marie",
-        "ecv": 5.328231
       }
     ]
   },
@@ -111253,12 +111211,6 @@
         "quantity": "1",
         "unit": "tranche",
         "complement": "assez gras"
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "",
-        "unit": "",
-        "complement": "à pâté allant au four, suffisamment grand.A défaut, on peut employer une cocotte en fonte."
       }
     ]
   },

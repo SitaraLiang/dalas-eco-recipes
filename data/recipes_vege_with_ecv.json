@@ -5390,6 +5390,27 @@
         ]
     },
     {
+        "title": "Danois",
+        "url": "https://www.marmiton.org/recettes/recette_danois_36742.aspx",
+        "rating": "4",
+        "ingredients": [
+            {
+                "ingredient_name": "oeufs",
+                "quantity": "120.0",
+                "unit": "g",
+                "complement": "entiers",
+                "ecv": 0.22536123600000002
+            },
+            {
+                "ingredient_name": "petit beurre",
+                "quantity": "250",
+                "unit": "g",
+                "complement": "",
+                "ecv": 1.9783324999999998
+            }
+        ]
+    },
+    {
         "title": "Banana bread vegan aux pépites de chocolat",
         "url": "https://www.marmiton.org/recettes/recette_banana-bread-vegan-aux-pepites-de-chocolat_530057.aspx",
         "rating": "4",
@@ -6892,6 +6913,20 @@
                 "complement": "fondu",
                 "ecv": 0.9495996
             },
+            {
+                "ingredient_name": "oeufs",
+                "quantity": "120.0",
+                "unit": "g",
+                "complement": "",
+                "ecv": 0.22536123600000002
+            }
+        ]
+    },
+    {
+        "title": "Tarte au café et au sucre roux (vergeoise, cassonade)",
+        "url": "https://www.marmiton.org/recettes/recette_tarte-au-cafe-et-au-sucre-roux-vergeoise-cassonade_85835.aspx",
+        "rating": "3",
+        "ingredients": [
             {
                 "ingredient_name": "oeufs",
                 "quantity": "120.0",
@@ -9670,6 +9705,34 @@
                 "unit": "g",
                 "complement": "",
                 "ecv": 0.12512
+            }
+        ]
+    },
+    {
+        "title": "Gâteau à la banane léger et simple d'Anaïs",
+        "url": "https://www.marmiton.org/recettes/recette_gateau-a-la-banane-leger-et-simple-d-anais_57785.aspx",
+        "rating": "4.8",
+        "ingredients": [
+            {
+                "ingredient_name": "beurre",
+                "quantity": "150",
+                "unit": "g",
+                "complement": "",
+                "ecv": 1.1869995
+            },
+            {
+                "ingredient_name": "bananes",
+                "quantity": "240.0",
+                "unit": "g",
+                "complement": "bien mûres",
+                "ecv": 0.21804552
+            },
+            {
+                "ingredient_name": "oeufs",
+                "quantity": "120.0",
+                "unit": "g",
+                "complement": "",
+                "ecv": 0.22536123600000002
             }
         ]
     },
@@ -14924,6 +14987,27 @@
         ]
     },
     {
+        "title": "Lasagnes légères de la mer",
+        "url": "https://www.marmiton.org/recettes/recette_lasagnes-legeres-de-la-mer_60335.aspx",
+        "rating": "0",
+        "ingredients": [
+            {
+                "ingredient_name": "courgette",
+                "quantity": "500",
+                "unit": "g",
+                "complement": "",
+                "ecv": 0.24925350000000002
+            },
+            {
+                "ingredient_name": "coulis de tomate",
+                "quantity": "100",
+                "unit": "g",
+                "complement": "",
+                "ecv": 0.06256
+            }
+        ]
+    },
+    {
         "title": "Crème glacée légère, aux fruits et à la vanille",
         "url": "https://www.marmiton.org/recettes/recette_creme-glacee-legere-aux-fruits-et-a-la-vanille_59245.aspx",
         "rating": "0",
@@ -15130,6 +15214,20 @@
                 "unit": "g",
                 "complement": "ou un long couteau",
                 "ecv": 0.030614625
+            }
+        ]
+    },
+    {
+        "title": "Crème aux oeufs légère de Paquita",
+        "url": "https://www.marmiton.org/recettes/recette_creme-aux-oeufs-legere-de-paquita_64761.aspx",
+        "rating": "3.5",
+        "ingredients": [
+            {
+                "ingredient_name": "oeufs",
+                "quantity": "120.0",
+                "unit": "g",
+                "complement": "",
+                "ecv": 0.22536123600000002
             }
         ]
     },
@@ -15640,6 +15738,27 @@
                 "quantity": "60.0",
                 "unit": "g",
                 "complement": "battus en neige ferme",
+                "ecv": 0.11268061800000001
+            }
+        ]
+    },
+    {
+        "title": "Préparation pour muffins légers et fondants",
+        "url": "https://www.marmiton.org/recettes/recette_preparation-pour-muffins-legers-et-fondants_86795.aspx",
+        "rating": "3.8",
+        "ingredients": [
+            {
+                "ingredient_name": "beurre",
+                "quantity": "50",
+                "unit": "g",
+                "complement": "",
+                "ecv": 0.3956665
+            },
+            {
+                "ingredient_name": "oeuf",
+                "quantity": "60.0",
+                "unit": "g",
+                "complement": "",
                 "ecv": 0.11268061800000001
             }
         ]

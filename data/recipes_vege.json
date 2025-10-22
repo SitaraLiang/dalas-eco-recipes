@@ -25131,12 +25131,6 @@
         "quantity": "250",
         "unit": "g",
         "complement": ""
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "1",
-        "unit": "",
-        "complement": "à cake chemisé de papier sulfurisé"
       }
     ]
   },
@@ -35289,12 +35283,6 @@
         "quantity": "10",
         "unit": "cl",
         "complement": "fort"
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "1",
-        "unit": "",
-        "complement": "à tarte de diamètre 28 centimètres"
       }
     ]
   },
@@ -47429,12 +47417,6 @@
         "quantity": "1",
         "unit": "paquet",
         "complement": ""
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "1",
-        "unit": "",
-        "complement": "à tarte"
       }
     ]
   },
@@ -68335,12 +68317,6 @@
         "complement": ""
       },
       {
-        "ingredient_name": "moules",
-        "quantity": "1",
-        "unit": "kg",
-        "complement": ""
-      },
-      {
         "ingredient_name": "coulis de tomate",
         "quantity": "100",
         "unit": "g",
@@ -69098,18 +69074,6 @@
         "quantity": "",
         "unit": "",
         "complement": "liquide du commerce ou fait maison"
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "1",
-        "unit": "",
-        "complement": "à charlotte ou un moule à cake"
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "1",
-        "unit": "",
-        "complement": "choisi pour faire un bain-marie"
       }
     ]
   },
@@ -69872,12 +69836,6 @@
       },
       {
         "ingredient_name": "crevette rose",
-        "quantity": "150",
-        "unit": "g",
-        "complement": ""
-      },
-      {
-        "ingredient_name": "moules",
         "quantity": "150",
         "unit": "g",
         "complement": ""
@@ -71124,12 +71082,6 @@
         "quantity": "100",
         "unit": "g",
         "complement": ""
-      },
-      {
-        "ingredient_name": "moules",
-        "quantity": "10",
-        "unit": "",
-        "complement": "à muffins en silicone"
       },
       {
         "ingredient_name": "oeuf",
