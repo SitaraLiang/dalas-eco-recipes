@@ -56,7 +56,17 @@ def extract_fao_data(html):
     df["protein"] = df["protein"].apply(clean_numeric)
     df["fat"] = df["fat"].apply(clean_numeric)
 
+    # drop invalid rows
     df = df.dropna(subset=["food_name", "kcal"])
     df = df[df["food_name"].str.len() > 2]
+    
+    # Convert to per gram values
+    df["kcal_per_g"] = df["kcal"] / 100
+    df["protein_per_g"] = df["protein"] / 100
+    df["fat_per_g"] = df["fat"] / 100
+    
+    # Keep only per gram values + food name
+    df = df[["food_name", "kcal_per_g", "protein_per_g", "fat_per_g"]]
+
 
     return df
