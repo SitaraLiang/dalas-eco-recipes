@@ -1,5 +1,29 @@
 import re
 
+def convert_recipe_numbers(recipes: list) -> list:
+    """
+    Convert quantity in ingredients and rating of each recipe to float.
+    
+    Args:
+        recipes (list): List of recipe dictionaries.
+        
+    Returns:
+        list: Updated list of recipes with float quantities and ratings.
+    """
+    for recipe in recipes:
+        try:
+            recipe["rating"] = float(recipe.get("rating", 0))
+        except ValueError:
+            recipe["rating"] = 0.0
+
+        for ingredient in recipe.get("ingredients", []):
+            try:
+                ingredient["quantity"] = float(ingredient.get("quantity", 0))
+            except ValueError:
+                ingredient["quantity"] = 0.0
+
+    return recipes
+
 def get_unique_ingredients(recipes: list) -> list:
     """
     Returns a sorted list of all unique ingredient names 
@@ -122,11 +146,13 @@ def standardize_recipes(filtered_recipes, spec_ing):
 
 def scale_ecv(standalized_recipes):
     for recipe in standalized_recipes:
+        recipe["total_ecv"] = 0
         for ing in recipe.get("ingredients", []):
             ecv = ing.get("ecv", 0)
             quantity = float(ing.get("quantity", 0))
             scaled_ecv = ecv / 1000 * quantity
             ing["ecv"] = scaled_ecv
+            recipe["total_ecv"] += ing["ecv"]
     return standalized_recipes
 
 
@@ -251,3 +277,122 @@ def normalize_ingredients(filtered_recipes):
         recipe["ingredients"] = new_ingredients
 
     return filtered_recipes
+
+
+import re
+import unicodedata
+
+# Step 1: remove accents
+def strip_accents(text):
+    return ''.join(
+        c for c in unicodedata.normalize('NFD', text)
+        if unicodedata.category(c) != 'Mn'
+    )
+
+# Step 2: basic cleanup and singularization
+def linguistic_normalize(text, nlp):
+    text = text.lower().strip()
+    text = strip_accents(text)
+    text = re.sub(r"\bdes\b", "de", text)
+    text = re.sub(r"\bdu\b", "de", text)
+    text = re.sub(r"\bd'\b", "de ", text)
+    text = re.sub(r"\s+", " ", text)
+    doc = nlp(text)
+    return ' '.join([t.lemma_ for t in doc])
+
+def collapse_to_family(text, reverse_map):
+    for pattern, canonical in reverse_map.items():
+        if pattern in text:
+            return canonical
+    return text  # fallback if no match
+
+# Full pipeline
+def normalize_ingredient(ing, nlp, reverse_map):
+    ing = linguistic_normalize(ing, nlp)
+    ing = collapse_to_family(ing, reverse_map)
+    return ing
+
+def ing_to_fao_match(fao_table, normalized_ing):
+    table = {}
+
+    for ing in normalized_ing:
+        table[ing] = {
+            "kcal_per_g": [],
+            "protein_per_g": [],
+            "fat_per_g": []
+        }
+        for food in fao_table:
+            food_name = food["food_name"]
+            if ing in food_name:
+                table[ing]["kcal_per_g"].append(food["kcal_per_g"])
+                table[ing]["protein_per_g"].append(food["protein_per_g"])
+                table[ing]["fat_per_g"].append(food["fat_per_g"])
+    return table
+
+
+def get_empty_fao(ing_to_fao):
+    ing_with_empty_fao = []
+
+    for ing, nutrients in ing_to_fao.items():
+        # Check if all lists in the nested dictionary are empty
+        if all(len(values) == 0 for values in nutrients.values()):
+            ing_with_empty_fao.append(ing)
+    return ing_with_empty_fao
+
+def get_fao_info(ing_to_fao, ing_nutrition):
+    for ing, nutrients in ing_to_fao.items():
+        if all(len(values) == 0 for values in nutrients.values()):
+            fao_info = ing_nutrition[ing]
+            ing_to_fao[ing]["kcal_per_g"].append(fao_info["kcal_per_g"])
+            ing_to_fao[ing]["protein_per_g"].append(fao_info["protein_per_g"])
+            ing_to_fao[ing]["fat_per_g"].append(fao_info["fat_per_g"])
+    return ing_to_fao
+
+def normalize_fao_info(ing_to_fao):
+    for ing, nutrients in ing_to_fao.items():
+        for key, values in nutrients.items():
+            if values:
+                mean_value = sum(values) / len(values)
+                nutrients[key] = mean_value
+            else:
+                nutrients[key] = 0
+    return ing_to_fao
+
+
+def calculate_recipe_nutrients(recipes: list, ing_to_fao: dict) -> list:
+    """
+    Calculate total calories, protein, and fat for each recipe in a list.
+
+    Args:
+        recipes (list): A list of recipe dictionaries, each with an 'ingredients' key.
+        ing_to_fao (dict): A mapping of ingredient names to nutrient info 
+                           (keys: kcal_per_g, protein_per_g, fat_per_g).
+
+    Returns:
+        list: The updated list of recipes with nutrient information added.
+    """
+    for recipe in recipes:
+        ingredients = recipe.get("ingredients", [])
+        recipe["total_kcal"] = 0
+        recipe["total_protein"] = 0
+        recipe["total_fat"] = 0
+
+        for i in ingredients:
+            ing_name = i.get("ingredient_name", "")
+            qty = float(i.get("quantity", 0))
+
+            for ing, nutrients in ing_to_fao.items():
+                if ing.lower() in ing_name.lower():
+                    kcal_per_g = nutrients.get("kcal_per_g", 0)
+                    protein_per_g = nutrients.get("protein_per_g", 0)
+                    fat_per_g = nutrients.get("fat_per_g", 0)
+
+                    i["kcal_per_g"] = kcal_per_g * qty
+                    i["protein_per_g"] = protein_per_g * qty
+                    i["fat_per_g"] = fat_per_g * qty
+
+                    recipe["total_kcal"] += kcal_per_g * qty
+                    recipe["total_protein"] += protein_per_g * qty
+                    recipe["total_fat"] += fat_per_g * qty
+
+    return recipes

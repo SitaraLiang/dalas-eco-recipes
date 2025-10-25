@@ -1,2814 +1,2814 @@
 [
   {
-    "food_name": "BLÉ",
+    "food_name": "blé",
     "kcal_per_g": 3.34,
     "protein_per_g": 0.122,
     "fat_per_g": 0.023
   },
   {
-    "food_name": "AMIDON DE MAÏS",
+    "food_name": "amidon de maïs",
     "kcal_per_g": 3.62,
     "protein_per_g": 0.005,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "FARINE DE BLÉ",
+    "food_name": "farine de blé",
     "kcal_per_g": 3.64,
     "protein_per_g": 0.109,
     "fat_per_g": 0.011000000000000001
   },
   {
-    "food_name": "POPCORN",
+    "food_name": "popcorn",
     "kcal_per_g": 3.56,
     "protein_per_g": 0.095,
     "fat_per_g": 0.043
   },
   {
-    "food_name": "SON DE BLÉ",
+    "food_name": "son de blé",
     "kcal_per_g": 2.13,
     "protein_per_g": 0.121,
     "fat_per_g": 0.031
   },
   {
-    "food_name": "SEIGLE",
+    "food_name": "seigle",
     "kcal_per_g": 3.19,
     "protein_per_g": 0.11,
     "fat_per_g": 0.019
   },
   {
-    "food_name": "PÂTES ALIMENTAIRES",
+    "food_name": "pâtes alimentaires",
     "kcal_per_g": 3.67,
     "protein_per_g": 0.11,
     "fat_per_g": 0.011000000000000001
   },
   {
-    "food_name": "FARINE DE SEIGLE",
+    "food_name": "farine de seigle",
     "kcal_per_g": 3.41,
     "protein_per_g": 0.09,
     "fat_per_g": 0.018000000000000002
   },
   {
-    "food_name": "GERME DE BLÉ",
+    "food_name": "germe de blé",
     "kcal_per_g": 3.82,
     "protein_per_g": 0.29100000000000004,
     "fat_per_g": 0.107
   },
   {
-    "food_name": "AVOINE",
+    "food_name": "avoine",
     "kcal_per_g": 3.85,
     "protein_per_g": 0.13,
     "fat_per_g": 0.075
   },
   {
-    "food_name": "PAIN",
+    "food_name": "pain",
     "kcal_per_g": 2.49,
     "protein_per_g": 0.08199999999999999,
     "fat_per_g": 0.012
   },
   {
-    "food_name": "AVOINE LAMINÉE",
+    "food_name": "avoine laminée",
     "kcal_per_g": 3.84,
     "protein_per_g": 0.16,
     "fat_per_g": 0.063
   },
   {
-    "food_name": "BOULGOUR DE FARINE COMPLÈTE",
+    "food_name": "boulgour de farine complète",
     "kcal_per_g": 3.45,
     "protein_per_g": 0.12300000000000001,
     "fat_per_g": 0.02
   },
   {
-    "food_name": "MILS",
+    "food_name": "mils",
     "kcal_per_g": 3.4,
     "protein_per_g": 0.09699999999999999,
     "fat_per_g": 0.03
   },
   {
-    "food_name": "PÂTISSERIES",
+    "food_name": "pâtisseries",
     "kcal_per_g": 3.69,
     "protein_per_g": 0.07400000000000001,
     "fat_per_g": 0.17
   },
   {
-    "food_name": "FARINE DE MIL",
+    "food_name": "farine de mil",
     "kcal_per_g": 3.4,
     "protein_per_g": 0.09699999999999999,
     "fat_per_g": 0.03
   },
   {
-    "food_name": "AMIDONS ET FÉCULES DE BLÉ",
+    "food_name": "amidons et fécules de blé",
     "kcal_per_g": 3.62,
     "protein_per_g": 0.005,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "SORGHO",
+    "food_name": "sorgho",
     "kcal_per_g": 3.43,
     "protein_per_g": 0.10099999999999999,
     "fat_per_g": 0.033
   },
   {
-    "food_name": "GLUTEN DE BLÉ",
+    "food_name": "gluten de blé",
     "kcal_per_g": 3.8,
     "protein_per_g": 0.95,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "FARINE DE SORGHO",
+    "food_name": "farine de sorgho",
     "kcal_per_g": 3.43,
     "protein_per_g": 0.10099999999999999,
     "fat_per_g": 0.033
   },
   {
-    "food_name": "PADDY",
+    "food_name": "paddy",
     "kcal_per_g": 2.8,
     "protein_per_g": 0.06,
     "fat_per_g": 0.013999999999999999
   },
   {
-    "food_name": "SARRASIN, BLÉ NOIR",
+    "food_name": "sarrasin, blé noir",
     "kcal_per_g": 3.3,
     "protein_per_g": 0.11,
     "fat_per_g": 0.02
   },
   {
-    "food_name": "RIZ DÉCORTIQUÉ",
+    "food_name": "riz décortiqué",
     "kcal_per_g": 3.57,
     "protein_per_g": 0.075,
     "fat_per_g": 0.018000000000000002
   },
   {
-    "food_name": "FARINE DE SARRASIN",
+    "food_name": "farine de sarrasin",
     "kcal_per_g": 3.44,
     "protein_per_g": 0.064,
     "fat_per_g": 0.012
   },
   {
-    "food_name": "RIZ BLANCHI",
+    "food_name": "riz blanchi",
     "kcal_per_g": 3.6,
     "protein_per_g": 0.067,
     "fat_per_g": 0.006999999999999999
   },
   {
-    "food_name": "QUINOA",
+    "food_name": "quinoa",
     "kcal_per_g": 3.42,
     "protein_per_g": 0.12,
     "fat_per_g": 0.05
   },
   {
-    "food_name": "BRISURES DE RIZ",
+    "food_name": "brisures de riz",
     "kcal_per_g": 3.6,
     "protein_per_g": 0.067,
     "fat_per_g": 0.006999999999999999
   },
   {
-    "food_name": "FONIO",
+    "food_name": "fonio",
     "kcal_per_g": 3.38,
     "protein_per_g": 0.08,
     "fat_per_g": 0.03
   },
   {
-    "food_name": "FARINE DE RIZ",
+    "food_name": "farine de riz",
     "kcal_per_g": 3.66,
     "protein_per_g": 0.064,
     "fat_per_g": 0.008
   },
   {
-    "food_name": "FARINE DE FONIO",
+    "food_name": "farine de fonio",
     "kcal_per_g": 3.55,
     "protein_per_g": 0.09,
     "fat_per_g": 0.022000000000000002
   },
   {
-    "food_name": "GLUTEN DE RIZ",
+    "food_name": "gluten de riz",
     "kcal_per_g": 3.8,
     "protein_per_g": 0.95,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "TRITICALE",
+    "food_name": "triticale",
     "kcal_per_g": 3.27,
     "protein_per_g": 0.11599999999999999,
     "fat_per_g": 0.021
   },
   {
-    "food_name": "AMIDON ET FÉCULE DE RIZ",
+    "food_name": "amidon et fécule de riz",
     "kcal_per_g": 3.62,
     "protein_per_g": 0.005,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "FARINE DE TRITICALE",
+    "food_name": "farine de triticale",
     "kcal_per_g": 3.41,
     "protein_per_g": 0.114,
     "fat_per_g": 0.021
   },
   {
-    "food_name": "SON DE RIZ",
+    "food_name": "son de riz",
     "kcal_per_g": 2.76,
     "protein_per_g": 0.133,
     "fat_per_g": 0.158
   },
   {
-    "food_name": "ALPISTE",
+    "food_name": "alpiste",
     "kcal_per_g": 3.88,
     "protein_per_g": 0.16,
     "fat_per_g": 0.06
   },
   {
-    "food_name": "ORGE",
+    "food_name": "orge",
     "kcal_per_g": 3.32,
     "protein_per_g": 0.11,
     "fat_per_g": 0.018000000000000002
   },
   {
-    "food_name": "CÉRÉALES MÉLANGÉES",
+    "food_name": "céréales mélangées",
     "kcal_per_g": 3.4,
     "protein_per_g": 0.08,
     "fat_per_g": 0.015
   },
   {
-    "food_name": "GRUAU D'ORGE",
+    "food_name": "gruau d'orge",
     "kcal_per_g": 3.48,
     "protein_per_g": 0.096,
     "fat_per_g": 0.011000000000000001
   },
   {
-    "food_name": "FARINE DE CÉRÉALES\nMÉLANGÉES",
+    "food_name": "farine de céréales\nmélangées",
     "kcal_per_g": 3.64,
     "protein_per_g": 0.1,
     "fat_per_g": 0.011000000000000001
   },
   {
-    "food_name": "ORGE PERLÉ",
+    "food_name": "orge perlé",
     "kcal_per_g": 3.46,
     "protein_per_g": 0.09,
     "fat_per_g": 0.013999999999999999
   },
   {
-    "food_name": "CÉRÉALES NDA",
+    "food_name": "céréales nda",
     "kcal_per_g": 3.4,
     "protein_per_g": 0.08,
     "fat_per_g": 0.015
   },
   {
-    "food_name": "FARINE ET SEMOULE D'ORGE",
+    "food_name": "farine et semoule d'orge",
     "kcal_per_g": 3.43,
     "protein_per_g": 0.092,
     "fat_per_g": 0.017
   },
   {
-    "food_name": "GALETTES DE PAIN AZYME",
+    "food_name": "galettes de pain azyme",
     "kcal_per_g": 4.39,
     "protein_per_g": 0.092,
     "fat_per_g": 0.131
   },
   {
-    "food_name": "MALT D'ORGE",
+    "food_name": "malt d'orge",
     "kcal_per_g": 3.68,
     "protein_per_g": 0.131,
     "fat_per_g": 0.019
   },
   {
-    "food_name": "FARINE DE CÉRÉALES",
+    "food_name": "farine de céréales",
     "kcal_per_g": 3.64,
     "protein_per_g": 0.1,
     "fat_per_g": 0.011000000000000001
   },
   {
-    "food_name": "EXTRAIT DE MALT",
+    "food_name": "extrait de malt",
     "kcal_per_g": 3.67,
     "protein_per_g": 0.06,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "CÉRÉALES POUR PETIT DÉJEUNER",
+    "food_name": "céréales pour petit déjeuner",
     "kcal_per_g": 3.89,
     "protein_per_g": 0.07400000000000001,
     "fat_per_g": 0.006999999999999999
   },
   {
-    "food_name": "MAÏS",
+    "food_name": "maïs",
     "kcal_per_g": 3.56,
     "protein_per_g": 0.095,
     "fat_per_g": 0.043
   },
   {
-    "food_name": "PRÉPARATIONS DE CÉRÉALES",
+    "food_name": "préparations de céréales",
     "kcal_per_g": 3.64,
     "protein_per_g": 0.1,
     "fat_per_g": 0.011000000000000001
   },
   {
-    "food_name": "GERME DE MAÏS",
+    "food_name": "germe de maïs",
     "kcal_per_g": 3.73,
     "protein_per_g": 0.111,
     "fat_per_g": 0.385
   },
   {
-    "food_name": "MÉLANGES ET PÂTES",
+    "food_name": "mélanges et pâtes",
     "kcal_per_g": 3.93,
     "protein_per_g": 0.062,
     "fat_per_g": 0.12
   },
   {
-    "food_name": "FARINE DE MAÏS",
+    "food_name": "farine de maïs",
     "kcal_per_g": 3.63,
     "protein_per_g": 0.084,
     "fat_per_g": 0.012
   },
   {
-    "food_name": "PRÉPAR, ALIMENT, DE FARINES",
+    "food_name": "prépar, aliment, de farines",
     "kcal_per_g": 3.77,
     "protein_per_g": 0.075,
     "fat_per_g": 0.027000000000000003
   },
   {
-    "food_name": "GLUTEN DE MAÏS",
+    "food_name": "gluten de maïs",
     "kcal_per_g": 3.8,
     "protein_per_g": 0.95,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "POMMES DE TERRE",
+    "food_name": "pommes de terre",
     "kcal_per_g": 0.67,
     "protein_per_g": 0.016,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "MANIOC SÉCHÉ",
+    "food_name": "manioc séché",
     "kcal_per_g": 2.55,
     "protein_per_g": 0.027999999999999997,
     "fat_per_g": 0.006999999999999999
   },
   {
-    "food_name": "FARINE DE POMMES DE TERRE",
+    "food_name": "farine de pommes de terre",
     "kcal_per_g": 3.49,
     "protein_per_g": 0.085,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "AMIDON DE MANIOC",
+    "food_name": "amidon de manioc",
     "kcal_per_g": 3.62,
     "protein_per_g": 0.005,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "POMMES DE TERRE SURGELÉES",
+    "food_name": "pommes de terre surgelées",
     "kcal_per_g": 0.73,
     "protein_per_g": 0.012,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "CHOU CARAÏBE",
+    "food_name": "chou caraïbe",
     "kcal_per_g": 1.09,
     "protein_per_g": 0.017,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "FÉCULE DE POMMES DE TERRE",
+    "food_name": "fécule de pommes de terre",
     "kcal_per_g": 3.62,
     "protein_per_g": 0.005,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "TARO",
+    "food_name": "taro",
     "kcal_per_g": 0.86,
     "protein_per_g": 0.015,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "TAPIOCA DE POMMES DE TERRE",
+    "food_name": "tapioca de pommes de terre",
     "kcal_per_g": 3.62,
     "protein_per_g": 0.005,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "IGNAMES",
+    "food_name": "ignames",
     "kcal_per_g": 1.01,
     "protein_per_g": 0.013000000000000001,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "PATATES DOUCES",
+    "food_name": "patates douces",
     "kcal_per_g": 0.92,
     "protein_per_g": 0.006999999999999999,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "RACINES ET TUBERCULES NDA",
+    "food_name": "racines et tubercules nda",
     "kcal_per_g": 0.91,
     "protein_per_g": 0.016,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "MANIOC",
+    "food_name": "manioc",
     "kcal_per_g": 1.09,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "FARINE DE FARINE DE MANIOC",
+    "food_name": "farine de farine de manioc",
     "kcal_per_g": 3.38,
     "protein_per_g": 0.015,
     "fat_per_g": 0.006
   },
   {
-    "food_name": "RACINES ET TUBERC,",
+    "food_name": "racines et tuberc,",
     "kcal_per_g": 2.82,
     "protein_per_g": 0.05,
     "fat_per_g": 0.006
   },
   {
-    "food_name": "RACINES ET TUBERCULES SÉCHÉS",
+    "food_name": "racines et tubercules séchés",
     "kcal_per_g": 2.82,
     "protein_per_g": 0.05,
     "fat_per_g": 0.006
   },
   {
-    "food_name": "TAPIOCA DE MANIOC",
+    "food_name": "tapioca de manioc",
     "kcal_per_g": 3.62,
     "protein_per_g": 0.005,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "CANNE À SUCRE",
+    "food_name": "canne à sucre",
     "kcal_per_g": 0.3,
     "protein_per_g": 0.002,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "CONFISERIES",
+    "food_name": "confiseries",
     "kcal_per_g": 3.1,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "BETTERAVE SUCRIÈRE",
+    "food_name": "betterave sucrière",
     "kcal_per_g": 0.7,
     "protein_per_g": 0.013000000000000001,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "SUCRE VANILLÉ",
+    "food_name": "sucre vanillé",
     "kcal_per_g": 3.1,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "PLANTES SACCHARIFÈRES NDA",
+    "food_name": "plantes saccharifères nda",
     "kcal_per_g": 3.9,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "GLUCOSE ET DEXTROSE",
+    "food_name": "glucose et dextrose",
     "kcal_per_g": 3.68,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "SUCRE BRUT CENTRIFUGÉ",
+    "food_name": "sucre brut centrifugé",
     "kcal_per_g": 3.73,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "LACTOSE",
+    "food_name": "lactose",
     "kcal_per_g": 3.87,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "SUCRE RAFFINÉ",
+    "food_name": "sucre raffiné",
     "kcal_per_g": 3.87,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "ISOGLUCOSE",
+    "food_name": "isoglucose",
     "kcal_per_g": 3.18,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "SUCRE NON CENTRIFUGÉ",
+    "food_name": "sucre non centrifugé",
     "kcal_per_g": 3.51,
     "protein_per_g": 0.01,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "FRUCTOSE CHIMIQUEMENT PUR",
+    "food_name": "fructose chimiquement pur",
     "kcal_per_g": 3.75,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "MÉLASSE",
+    "food_name": "mélasse",
     "kcal_per_g": 2.32,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "AUTRES FRUCTOSES",
+    "food_name": "autres fructoses",
     "kcal_per_g": 2.98,
     "protein_per_g": 0.003,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "SUCRE ET SIROPS D'ÉRABLE",
+    "food_name": "sucre et sirops d'érable",
     "kcal_per_g": 3.48,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "MALTOSE CHIMIQUEMENT PUR",
+    "food_name": "maltose chimiquement pur",
     "kcal_per_g": 3.75,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "SUCRE ET SIROPS NDA",
+    "food_name": "sucre et sirops nda",
     "kcal_per_g": 3.1,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "MIEL",
+    "food_name": "miel",
     "kcal_per_g": 2.98,
     "protein_per_g": 0.004,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "HARICOTS SECS",
+    "food_name": "haricots secs",
     "kcal_per_g": 3.41,
     "protein_per_g": 0.221,
     "fat_per_g": 0.017
   },
   {
-    "food_name": "LENTILLES",
+    "food_name": "lentilles",
     "kcal_per_g": 3.46,
     "protein_per_g": 0.242,
     "fat_per_g": 0.018000000000000002
   },
   {
-    "food_name": "FÈVES SÈCHES",
+    "food_name": "fèves sèches",
     "kcal_per_g": 3.43,
     "protein_per_g": 0.23399999999999999,
     "fat_per_g": 0.02
   },
   {
-    "food_name": "POIS BAMBARA, VOANDZOU",
+    "food_name": "pois bambara, voandzou",
     "kcal_per_g": 3.65,
     "protein_per_g": 0.177,
     "fat_per_g": 0.063
   },
   {
-    "food_name": "POIS SECS",
+    "food_name": "pois secs",
     "kcal_per_g": 3.46,
     "protein_per_g": 0.225,
     "fat_per_g": 0.018000000000000002
   },
   {
-    "food_name": "VESCES",
+    "food_name": "vesces",
     "kcal_per_g": 3.25,
     "protein_per_g": 0.315,
     "fat_per_g": 0.019
   },
   {
-    "food_name": "POIS CHICHES",
+    "food_name": "pois chiches",
     "kcal_per_g": 3.58,
     "protein_per_g": 0.201,
     "fat_per_g": 0.045
   },
   {
-    "food_name": "LUPINS",
+    "food_name": "lupins",
     "kcal_per_g": 3.9,
     "protein_per_g": 0.4,
     "fat_per_g": 0.13
   },
   {
-    "food_name": "POIS À VACHE SECS",
+    "food_name": "pois à vache secs",
     "kcal_per_g": 3.42,
     "protein_per_g": 0.23399999999999999,
     "fat_per_g": 0.018000000000000002
   },
   {
-    "food_name": "LÉGUMINEUSES SÈCHES NDA",
+    "food_name": "légumineuses sèches nda",
     "kcal_per_g": 3.4,
     "protein_per_g": 0.22,
     "fat_per_g": 0.02
   },
   {
-    "food_name": "POIS CAJAN, AMBREVADE",
+    "food_name": "pois cajan, ambrevade",
     "kcal_per_g": 3.43,
     "protein_per_g": 0.209,
     "fat_per_g": 0.017
   },
   {
-    "food_name": "FARINE DE LÉGUMINEUSES",
+    "food_name": "farine de légumineuses",
     "kcal_per_g": 3.4,
     "protein_per_g": 0.22,
     "fat_per_g": 0.02
   },
   {
-    "food_name": "NOIX DU BRÉSIL",
+    "food_name": "noix du brésil",
     "kcal_per_g": 3.15,
     "protein_per_g": 0.069,
     "fat_per_g": 0.318
   },
   {
-    "food_name": "NOIX D'AREC",
+    "food_name": "noix d'arec",
     "kcal_per_g": 2.45,
     "protein_per_g": 0.049,
     "fat_per_g": 0.044000000000000004
   },
   {
-    "food_name": "NOIX D'ACAJOU",
+    "food_name": "noix d'acajou",
     "kcal_per_g": 2.52,
     "protein_per_g": 0.077,
     "fat_per_g": 0.20600000000000002
   },
   {
-    "food_name": "NOIX DU BRÉSIL ÉCALÉES",
+    "food_name": "noix du brésil écalées",
     "kcal_per_g": 6.56,
     "protein_per_g": 0.14300000000000002,
     "fat_per_g": 0.662
   },
   {
-    "food_name": "CHÂTAIGNES",
+    "food_name": "châtaignes",
     "kcal_per_g": 1.58,
     "protein_per_g": 0.018000000000000002,
     "fat_per_g": 0.017
   },
   {
-    "food_name": "NOIX D'ACAJOU ÉCALÉES",
+    "food_name": "noix d'acajou écalées",
     "kcal_per_g": 5.74,
     "protein_per_g": 0.153,
     "fat_per_g": 0.46399999999999997
   },
   {
-    "food_name": "AMANDES",
+    "food_name": "amandes",
     "kcal_per_g": 2.36,
     "protein_per_g": 0.08,
     "fat_per_g": 0.209
   },
   {
-    "food_name": "AMANDES ÉCALÉES",
+    "food_name": "amandes écalées",
     "kcal_per_g": 5.89,
     "protein_per_g": 0.2,
     "fat_per_g": 0.522
   },
   {
-    "food_name": "NOIX",
+    "food_name": "noix",
     "kcal_per_g": 2.89,
     "protein_per_g": 0.064,
     "fat_per_g": 0.278
   },
   {
-    "food_name": "NOIX ÉCALÉES",
+    "food_name": "noix écalées",
     "kcal_per_g": 6.42,
     "protein_per_g": 0.14300000000000002,
     "fat_per_g": 0.619
   },
   {
-    "food_name": "PISTACHES",
+    "food_name": "pistaches",
     "kcal_per_g": 2.89,
     "protein_per_g": 0.10300000000000001,
     "fat_per_g": 0.242
   },
   {
-    "food_name": "NOISETTES ÉCALÉES",
+    "food_name": "noisettes écalées",
     "kcal_per_g": 6.32,
     "protein_per_g": 0.13,
     "fat_per_g": 0.626
   },
   {
-    "food_name": "NOIX DE KOLA",
+    "food_name": "noix de kola",
     "kcal_per_g": 3.49,
     "protein_per_g": 0.09,
     "fat_per_g": 0.02
   },
   {
-    "food_name": "FRUITS À COQUE NDA",
+    "food_name": "fruits à coque nda",
     "kcal_per_g": 2.62,
     "protein_per_g": 0.07,
     "fat_per_g": 0.25
   },
   {
-    "food_name": "NOISETTES",
+    "food_name": "noisettes",
     "kcal_per_g": 2.91,
     "protein_per_g": 0.06,
     "fat_per_g": 0.28800000000000003
   },
   {
-    "food_name": "FRUITS À COQUE PRÉPARÉS",
+    "food_name": "fruits à coque préparés",
     "kcal_per_g": 6.15,
     "protein_per_g": 0.155,
     "fat_per_g": 0.562
   },
   {
-    "food_name": "SOJA",
+    "food_name": "soja",
     "kcal_per_g": 3.35,
     "protein_per_g": 0.38,
     "fat_per_g": 0.18
   },
   {
-    "food_name": "OLIVES EN CONSERVE",
+    "food_name": "olives en conserve",
     "kcal_per_g": 1.09,
     "protein_per_g": 0.011000000000000001,
     "fat_per_g": 0.111
   },
   {
-    "food_name": "SAUCE DE SOJA",
+    "food_name": "sauce de soja",
     "kcal_per_g": 0.56,
     "protein_per_g": 0.055,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "NOIX DE KARITÉ",
+    "food_name": "noix de karité",
     "kcal_per_g": 5.79,
     "protein_per_g": 0.068,
     "fat_per_g": 0.49
   },
   {
-    "food_name": "PÂTE DE SOJA",
+    "food_name": "pâte de soja",
     "kcal_per_g": 1.14,
     "protein_per_g": 0.11,
     "fat_per_g": 0.057999999999999996
   },
   {
-    "food_name": "GRAINES DE TOURNESOL",
+    "food_name": "graines de tournesol",
     "kcal_per_g": 3.08,
     "protein_per_g": 0.12300000000000001,
     "fat_per_g": 0.268
   },
   {
-    "food_name": "CAILLÉ DE SOJA",
+    "food_name": "caillé de soja",
     "kcal_per_g": 0.58,
     "protein_per_g": 0.063,
     "fat_per_g": 0.031
   },
   {
-    "food_name": "COLZA",
+    "food_name": "colza",
     "kcal_per_g": 4.94,
     "protein_per_g": 0.196,
     "fat_per_g": 0.45
   },
   {
-    "food_name": "ARACHIDES EN COQUE",
+    "food_name": "arachides en coque",
     "kcal_per_g": 4.14,
     "protein_per_g": 0.187,
     "fat_per_g": 0.359
   },
   {
-    "food_name": "ABRASIN",
+    "food_name": "abrasin",
     "kcal_per_g": 3.14,
     "protein_per_g": 0.09699999999999999,
     "fat_per_g": 0.303
   },
   {
-    "food_name": "ARACHIDES DÉCORTIQUÉES",
+    "food_name": "arachides décortiquées",
     "kcal_per_g": 5.67,
     "protein_per_g": 0.257,
     "fat_per_g": 0.49200000000000005
   },
   {
-    "food_name": "SÉSAME",
+    "food_name": "sésame",
     "kcal_per_g": 5.73,
     "protein_per_g": 0.177,
     "fat_per_g": 0.49700000000000005
   },
   {
-    "food_name": "TOURTEAUX D'ARACHIDE",
+    "food_name": "tourteaux d'arachide",
     "kcal_per_g": 3.63,
     "protein_per_g": 0.41700000000000004,
     "fat_per_g": 0.076
   },
   {
-    "food_name": "TOURTEAUX DE SÉSAME",
+    "food_name": "tourteaux de sésame",
     "kcal_per_g": 3.76,
     "protein_per_g": 0.40700000000000003,
     "fat_per_g": 0.034
   },
   {
-    "food_name": "ARACHIDES PRÉPARÉES",
+    "food_name": "arachides préparées",
     "kcal_per_g": 5.8,
     "protein_per_g": 0.268,
     "fat_per_g": 0.49200000000000005
   },
   {
-    "food_name": "MOUTARDE",
+    "food_name": "moutarde",
     "kcal_per_g": 4.69,
     "protein_per_g": 0.249,
     "fat_per_g": 0.28800000000000003
   },
   {
-    "food_name": "BEURRE D'ARACHIDE",
+    "food_name": "beurre d'arachide",
     "kcal_per_g": 5.89,
     "protein_per_g": 0.243,
     "fat_per_g": 0.5
   },
   {
-    "food_name": "FARINE DE MOUTARDE",
+    "food_name": "farine de moutarde",
     "kcal_per_g": 4.69,
     "protein_per_g": 0.264,
     "fat_per_g": 0.363
   },
   {
-    "food_name": "NOIX DE COCO",
+    "food_name": "noix de coco",
     "kcal_per_g": 1.84,
     "protein_per_g": 0.017,
     "fat_per_g": 0.174
   },
   {
-    "food_name": "OEILLETTE",
+    "food_name": "oeillette",
     "kcal_per_g": 5.33,
     "protein_per_g": 0.18,
     "fat_per_g": 0.447
   },
   {
-    "food_name": "NOIX DE COCO DESSÉCHÉES",
+    "food_name": "noix de coco desséchées",
     "kcal_per_g": 6.6,
     "protein_per_g": 0.069,
     "fat_per_g": 0.645
   },
   {
-    "food_name": "GRAINES DE MELON",
+    "food_name": "graines de melon",
     "kcal_per_g": 4.0,
     "protein_per_g": 0.182,
     "fat_per_g": 0.33899999999999997
   },
   {
-    "food_name": "COPRA",
+    "food_name": "copra",
     "kcal_per_g": 6.36,
     "protein_per_g": 0.06,
     "fat_per_g": 0.614
   },
   {
-    "food_name": "GRAINES DE COTON",
+    "food_name": "graines de coton",
     "kcal_per_g": 2.53,
     "protein_per_g": 0.17300000000000001,
     "fat_per_g": 0.179
   },
   {
-    "food_name": "NOIX DE PALME",
+    "food_name": "noix de palme",
     "kcal_per_g": 1.58,
     "protein_per_g": 0.003,
     "fat_per_g": 0.132
   },
   {
-    "food_name": "GRAINES DE LIN",
+    "food_name": "graines de lin",
     "kcal_per_g": 4.98,
     "protein_per_g": 0.18,
     "fat_per_g": 0.34
   },
   {
-    "food_name": "PALMISTES",
+    "food_name": "palmistes",
     "kcal_per_g": 5.14,
     "protein_per_g": 0.073,
     "fat_per_g": 0.434
   },
   {
-    "food_name": "GRAINES OLÉAGINEUSES NDA",
+    "food_name": "graines oléagineuses nda",
     "kcal_per_g": 3.87,
     "protein_per_g": 0.147,
     "fat_per_g": 0.317
   },
   {
-    "food_name": "OLIVES",
+    "food_name": "olives",
     "kcal_per_g": 1.75,
     "protein_per_g": 0.013000000000000001,
     "fat_per_g": 0.175
   },
   {
-    "food_name": "FARINES D'OLÉAGINEUX",
+    "food_name": "farines d'oléagineux",
     "kcal_per_g": 3.93,
     "protein_per_g": 0.37200000000000005,
     "fat_per_g": 0.156
   },
   {
-    "food_name": "CHOUX",
+    "food_name": "choux",
     "kcal_per_g": 0.19,
     "protein_per_g": 0.01,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "FÈVES FRAÎCHES",
+    "food_name": "fèves fraîches",
     "kcal_per_g": 0.23,
     "protein_per_g": 0.023,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "ARTICHAUTS",
+    "food_name": "artichauts",
     "kcal_per_g": 0.2,
     "protein_per_g": 0.011000000000000001,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "HARICOTS VERTS",
+    "food_name": "haricots verts",
     "kcal_per_g": 0.27,
     "protein_per_g": 0.016,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "ASPERGES",
+    "food_name": "asperges",
     "kcal_per_g": 0.12,
     "protein_per_g": 0.016,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "CAROTTES",
+    "food_name": "carottes",
     "kcal_per_g": 0.38,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "LAITUES",
+    "food_name": "laitues",
     "kcal_per_g": 0.12,
     "protein_per_g": 0.011000000000000001,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "GOMBO, OKRA",
+    "food_name": "gombo, okra",
     "kcal_per_g": 0.31,
     "protein_per_g": 0.016,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "ÉPINARDS",
+    "food_name": "épinards",
     "kcal_per_g": 0.16,
     "protein_per_g": 0.021,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "MAÏS FRAIS",
+    "food_name": "maïs frais",
     "kcal_per_g": 0.56,
     "protein_per_g": 0.021,
     "fat_per_g": 0.008
   },
   {
-    "food_name": "FEUILLES DE MANIOC",
+    "food_name": "feuilles de manioc",
     "kcal_per_g": 0.53,
     "protein_per_g": 0.057999999999999996,
     "fat_per_g": 0.011000000000000001
   },
   {
-    "food_name": "MAÏS DOUX CONGELÉ",
+    "food_name": "maïs doux congelé",
     "kcal_per_g": 0.54,
     "protein_per_g": 0.018000000000000002,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "TOMATES",
+    "food_name": "tomates",
     "kcal_per_g": 0.17,
     "protein_per_g": 0.008,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "MAÏS DOUX PRÉPARÉ OU EN CONSERVE",
+    "food_name": "maïs doux préparé ou en conserve",
     "kcal_per_g": 0.77,
     "protein_per_g": 0.023,
     "fat_per_g": 0.006
   },
   {
-    "food_name": "JUS DE TOMATES",
+    "food_name": "jus de tomates",
     "kcal_per_g": 0.17,
     "protein_per_g": 0.008,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "CHAMPIGNONS",
+    "food_name": "champignons",
     "kcal_per_g": 0.24,
     "protein_per_g": 0.02,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "JUS DE TOMATES CONCENTRÉ",
+    "food_name": "jus de tomates concentré",
     "kcal_per_g": 0.76,
     "protein_per_g": 0.034,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "CHAMPIGNONS EN BOÎTE",
+    "food_name": "champignons en boîte",
     "kcal_per_g": 0.24,
     "protein_per_g": 0.019,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "PURÉE DE TOMATES",
+    "food_name": "purée de tomates",
     "kcal_per_g": 0.84,
     "protein_per_g": 0.038,
     "fat_per_g": 0.009000000000000001
   },
   {
-    "food_name": "CHAMPIGNONS SECS",
+    "food_name": "champignons secs",
     "kcal_per_g": 2.96,
     "protein_per_g": 0.096,
     "fat_per_g": 0.01
   },
   {
-    "food_name": "TOMATES PELÉES",
+    "food_name": "tomates pelées",
     "kcal_per_g": 0.19,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "LÉGUMES FRAIS NDA",
+    "food_name": "légumes frais nda",
     "kcal_per_g": 0.22,
     "protein_per_g": 0.013999999999999999,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "CHOUX-FLEURS",
+    "food_name": "choux-fleurs",
     "kcal_per_g": 0.09,
     "protein_per_g": 0.008,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "LÉGUMES SÉCHÉS NDA",
+    "food_name": "légumes séchés nda",
     "kcal_per_g": 1.76,
     "protein_per_g": 0.11199999999999999,
     "fat_per_g": 0.016
   },
   {
-    "food_name": "COURGES, POTIRONS, CITROUILLES",
+    "food_name": "courges, potirons, citrouilles",
     "kcal_per_g": 0.19,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "LÉGUMES EN CONSERVE NDA",
+    "food_name": "légumes en conserve nda",
     "kcal_per_g": 0.36,
     "protein_per_g": 0.013999999999999999,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "CONCOMBRES, CORNICHONS",
+    "food_name": "concombres, cornichons",
     "kcal_per_g": 0.13,
     "protein_per_g": 0.005,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "JUS DE LÉGUMES NDA",
+    "food_name": "jus de légumes nda",
     "kcal_per_g": 0.19,
     "protein_per_g": 0.006,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "AUBERGINES",
+    "food_name": "aubergines",
     "kcal_per_g": 0.21,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "LÉGUMES DÉSHYDRATÉS",
+    "food_name": "légumes déshydratés",
     "kcal_per_g": 3.41,
     "protein_per_g": 0.066,
     "fat_per_g": 0.013000000000000001
   },
   {
-    "food_name": "PIMENTS FORTS ET DOUX, FRAIS",
+    "food_name": "piments forts et doux, frais",
     "kcal_per_g": 0.25,
     "protein_per_g": 0.011000000000000001,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "LÉGUMES AU VINAIGRE",
+    "food_name": "légumes au vinaigre",
     "kcal_per_g": 0.29,
     "protein_per_g": 0.013999999999999999,
     "fat_per_g": 0.013000000000000001
   },
   {
-    "food_name": "OIGNONS, ÉCHALOTES, FRAIS",
+    "food_name": "oignons, échalotes, frais",
     "kcal_per_g": 0.24,
     "protein_per_g": 0.017,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "PRÉPARATION DE LÉGUMES NDA",
+    "food_name": "préparation de légumes nda",
     "kcal_per_g": 0.38,
     "protein_per_g": 0.021,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "OIGNONS SECS",
+    "food_name": "oignons secs",
     "kcal_per_g": 0.31,
     "protein_per_g": 0.011000000000000001,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "LÉGUMES SURGELÉS",
+    "food_name": "légumes surgelés",
     "kcal_per_g": 0.71,
     "protein_per_g": 0.033,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "AIL",
+    "food_name": "ail",
     "kcal_per_g": 1.3,
     "protein_per_g": 0.055,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "LÉGUMES PROVISOIREMENT CONSERVÉS",
+    "food_name": "légumes provisoirement conservés",
     "kcal_per_g": 0.65,
     "protein_per_g": 0.033,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "POIREAUX ET AUTRES ALLIACÉS",
+    "food_name": "poireaux et autres alliacés",
     "kcal_per_g": 0.37,
     "protein_per_g": 0.006999999999999999,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "LÉGUMES EN CONSERVE SURGELÉS",
+    "food_name": "légumes en conserve surgelés",
     "kcal_per_g": 0.54,
     "protein_per_g": 0.024,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "HARICOTS FRAIS",
+    "food_name": "haricots frais",
     "kcal_per_g": 0.5,
     "protein_per_g": 0.03,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "PRÉPARATION DE LÉGUMES\nHOMOGÉNÉISÉS",
+    "food_name": "préparation de légumes\nhomogénéisés",
     "kcal_per_g": 0.41,
     "protein_per_g": 0.012,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "POIS FRAIS",
+    "food_name": "pois frais",
     "kcal_per_g": 0.31,
     "protein_per_g": 0.021,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "BANANES",
+    "food_name": "bananes",
     "kcal_per_g": 0.6,
     "protein_per_g": 0.006999999999999999,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "FRUITS À PÉPINS NDA",
+    "food_name": "fruits à pépins nda",
     "kcal_per_g": 0.48,
     "protein_per_g": 0.004,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "PLANTAINS",
+    "food_name": "plantains",
     "kcal_per_g": 0.75,
     "protein_per_g": 0.008,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "CAROUBES",
+    "food_name": "caroubes",
     "kcal_per_g": 1.11,
     "protein_per_g": 0.016,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "ORANGES",
+    "food_name": "oranges",
     "kcal_per_g": 0.34,
     "protein_per_g": 0.006999999999999999,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "FRAISES",
+    "food_name": "fraises",
     "kcal_per_g": 0.28,
     "protein_per_g": 0.006,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "JUS D'ORANGE",
+    "food_name": "jus d'orange",
     "kcal_per_g": 0.42,
     "protein_per_g": 0.006,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "FRAMBOISES",
+    "food_name": "framboises",
     "kcal_per_g": 0.47,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "JUS D'ORANGE CONCENTRÉ",
+    "food_name": "jus d'orange concentré",
     "kcal_per_g": 1.59,
     "protein_per_g": 0.004,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "GROSEILLES À MAQUEREAU",
+    "food_name": "groseilles à maquereau",
     "kcal_per_g": 0.44,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.006
   },
   {
-    "food_name": "TANGERINES, MANDARINES,",
+    "food_name": "tangerines, mandarines,",
     "kcal_per_g": 0.32,
     "protein_per_g": 0.005,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "CASSIS ET GROSEILLES",
+    "food_name": "cassis et groseilles",
     "kcal_per_g": 0.59,
     "protein_per_g": 0.013999999999999999,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "MYRTILLES",
+    "food_name": "myrtilles",
     "kcal_per_g": 0.55,
     "protein_per_g": 0.006999999999999999,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "JUS DE TANGERINE",
+    "food_name": "jus de tangerine",
     "kcal_per_g": 0.43,
     "protein_per_g": 0.005,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "AIRELLES",
+    "food_name": "airelles",
     "kcal_per_g": 0.47,
     "protein_per_g": 0.004,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "CITRONS ET LIMES",
+    "food_name": "citrons et limes",
     "kcal_per_g": 0.15,
     "protein_per_g": 0.006,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "BAIES NDA",
+    "food_name": "baies nda",
     "kcal_per_g": 0.49,
     "protein_per_g": 0.01,
     "fat_per_g": 0.006999999999999999
   },
   {
-    "food_name": "JUS DE CITRON",
+    "food_name": "jus de citron",
     "kcal_per_g": 0.22,
     "protein_per_g": 0.005,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "RAISINS",
+    "food_name": "raisins",
     "kcal_per_g": 0.53,
     "protein_per_g": 0.005,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "JUS DE CITRON CONCENTRÉ",
+    "food_name": "jus de citron concentré",
     "kcal_per_g": 1.16,
     "protein_per_g": 0.023,
     "fat_per_g": 0.009000000000000001
   },
   {
-    "food_name": "JUS DE RAISIN",
+    "food_name": "jus de raisin",
     "kcal_per_g": 0.61,
     "protein_per_g": 0.006,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "PAMPLEMOUSSES ET POMELOS",
+    "food_name": "pamplemousses et pomelos",
     "kcal_per_g": 0.16,
     "protein_per_g": 0.003,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "PASTÈQUES",
+    "food_name": "pastèques",
     "kcal_per_g": 0.17,
     "protein_per_g": 0.003,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "JUS DE PAMPLEMOUSSE",
+    "food_name": "jus de pamplemousse",
     "kcal_per_g": 0.39,
     "protein_per_g": 0.005,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "MELONS",
+    "food_name": "melons",
     "kcal_per_g": 0.17,
     "protein_per_g": 0.004,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "JUS DE PAMPLEMOUSSE",
+    "food_name": "jus de pamplemousse",
     "kcal_per_g": 1.46,
     "protein_per_g": 0.02,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "FIGUES",
+    "food_name": "figues",
     "kcal_per_g": 0.73,
     "protein_per_g": 0.008,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "MANGUES",
+    "food_name": "mangues",
     "kcal_per_g": 0.45,
     "protein_per_g": 0.004,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "AGRUMES NDA",
+    "food_name": "agrumes nda",
     "kcal_per_g": 0.26,
     "protein_per_g": 0.005,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "JUS DE MANGUE",
+    "food_name": "jus de mangue",
     "kcal_per_g": 0.62,
     "protein_per_g": 0.003,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "JUS D'AGRUMES NDA",
+    "food_name": "jus d'agrumes nda",
     "kcal_per_g": 0.47,
     "protein_per_g": 0.006,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "PULPE DE MANGUE",
+    "food_name": "pulpe de mangue",
     "kcal_per_g": 0.65,
     "protein_per_g": 0.005,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "FRUITS CUITS",
+    "food_name": "fruits cuits",
     "kcal_per_g": 0.59,
     "protein_per_g": 0.003,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "AVOCAT",
+    "food_name": "avocat",
     "kcal_per_g": 1.19,
     "protein_per_g": 0.015,
     "fat_per_g": 0.113
   },
   {
-    "food_name": "ANANAS",
+    "food_name": "ananas",
     "kcal_per_g": 0.26,
     "protein_per_g": 0.002,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "JUS D'AGRUMES CONCENTRÉS",
+    "food_name": "jus d'agrumes concentrés",
     "kcal_per_g": 1.57,
     "protein_per_g": 0.021,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "ANANAS EN BOÎTE",
+    "food_name": "ananas en boîte",
     "kcal_per_g": 0.78,
     "protein_per_g": 0.004,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "POMMES",
+    "food_name": "pommes",
     "kcal_per_g": 0.48,
     "protein_per_g": 0.001,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "JUS D'ANANAS",
+    "food_name": "jus d'ananas",
     "kcal_per_g": 0.56,
     "protein_per_g": 0.003,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "JUS DE POMME",
+    "food_name": "jus de pomme",
     "kcal_per_g": 0.47,
     "protein_per_g": 0.001,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "JUS D'ANANAS CONCENTRÉ",
+    "food_name": "jus d'ananas concentré",
     "kcal_per_g": 1.79,
     "protein_per_g": 0.013000000000000001,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "JUS DE POMME CONCENTRÉ",
+    "food_name": "jus de pomme concentré",
     "kcal_per_g": 1.66,
     "protein_per_g": 0.005,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "KAKI",
+    "food_name": "kaki",
     "kcal_per_g": 0.82,
     "protein_per_g": 0.006,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "POIRES",
+    "food_name": "poires",
     "kcal_per_g": 0.54,
     "protein_per_g": 0.004,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "POMME D'ACAJOU",
+    "food_name": "pomme d'acajou",
     "kcal_per_g": 0.43,
     "protein_per_g": 0.008,
     "fat_per_g": 0.006
   },
   {
-    "food_name": "COINGS",
+    "food_name": "coings",
     "kcal_per_g": 0.35,
     "protein_per_g": 0.002,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "KIWI",
+    "food_name": "kiwi",
     "kcal_per_g": 0.52,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "ABRICOTS",
+    "food_name": "abricots",
     "kcal_per_g": 0.45,
     "protein_per_g": 0.013000000000000001,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "PAPAYE",
+    "food_name": "papaye",
     "kcal_per_g": 0.26,
     "protein_per_g": 0.004,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "GRIOTTES",
+    "food_name": "griottes",
     "kcal_per_g": 0.45,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "FRUITS TROPICAUX NDA",
+    "food_name": "fruits tropicaux nda",
     "kcal_per_g": 0.41,
     "protein_per_g": 0.005,
     "fat_per_g": 0.006999999999999999
   },
   {
-    "food_name": "CERISES",
+    "food_name": "cerises",
     "kcal_per_g": 0.65,
     "protein_per_g": 0.011000000000000001,
     "fat_per_g": 0.009000000000000001
   },
   {
-    "food_name": "FRUITS FRAIS NDA",
+    "food_name": "fruits frais nda",
     "kcal_per_g": 0.45,
     "protein_per_g": 0.005,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "PÊCHES ET NECTARINES",
+    "food_name": "pêches et nectarines",
     "kcal_per_g": 0.33,
     "protein_per_g": 0.005,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "JUS DE FRUITS NDA",
+    "food_name": "jus de fruits nda",
     "kcal_per_g": 0.48,
     "protein_per_g": 0.005,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "PRUNES",
+    "food_name": "prunes",
     "kcal_per_g": 0.52,
     "protein_per_g": 0.006999999999999999,
     "fat_per_g": 0.006
   },
   {
-    "food_name": "FRUITS PRÉPARÉS NDA",
+    "food_name": "fruits préparés nda",
     "kcal_per_g": 0.36,
     "protein_per_g": 0.005,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "JUS DE PRUNE",
+    "food_name": "jus de prune",
     "kcal_per_g": 0.71,
     "protein_per_g": 0.006,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "FARINE DE FRUITS",
+    "food_name": "farine de fruits",
     "kcal_per_g": 3.46,
     "protein_per_g": 0.039,
     "fat_per_g": 0.018000000000000002
   },
   {
-    "food_name": "JUS DE PRUNE CONCENTRÉ",
+    "food_name": "jus de prune concentré",
     "kcal_per_g": 2.15,
     "protein_per_g": 0.02,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "FRUITS, NOIX, ÉCORCES CONFITS",
+    "food_name": "fruits, noix, écorces confits",
     "kcal_per_g": 2.12,
     "protein_per_g": 0.006,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "FRUITS À NOYAU NDA",
+    "food_name": "fruits à noyau nda",
     "kcal_per_g": 0.52,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "ABRICOTS SÉCHÉS",
+    "food_name": "abricots séchés",
     "kcal_per_g": 2.38,
     "protein_per_g": 0.037000000000000005,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "DATTES",
+    "food_name": "dattes",
     "kcal_per_g": 1.56,
     "protein_per_g": 0.015,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "PRUNES SÉCHÉES",
+    "food_name": "prunes séchées",
     "kcal_per_g": 2.08,
     "protein_per_g": 0.023,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "FRUITS TROPICAUX SÉCHÉS NDA",
+    "food_name": "fruits tropicaux séchés nda",
     "kcal_per_g": 2.67,
     "protein_per_g": 0.027999999999999997,
     "fat_per_g": 0.006
   },
   {
-    "food_name": "RAISINS SECS",
+    "food_name": "raisins secs",
     "kcal_per_g": 2.99,
     "protein_per_g": 0.032,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "FRUITS SÉCHÉS NDA",
+    "food_name": "fruits séchés nda",
     "kcal_per_g": 2.67,
     "protein_per_g": 0.027999999999999997,
     "fat_per_g": 0.006
   },
   {
-    "food_name": "FIGUES SÉCHÉES",
+    "food_name": "figues séchées",
     "kcal_per_g": 2.53,
     "protein_per_g": 0.03,
     "fat_per_g": 0.012
   },
   {
-    "food_name": "CAFÉ VERT",
+    "food_name": "café vert",
     "kcal_per_g": 0.47,
     "protein_per_g": 0.067,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "BEURRE DE CACAO",
+    "food_name": "beurre de cacao",
     "kcal_per_g": 7.11,
     "protein_per_g": 0.0,
     "fat_per_g": 0.85
   },
   {
-    "food_name": "CAFÉ TORRÉFIÉ",
+    "food_name": "café torréfié",
     "kcal_per_g": 0.56,
     "protein_per_g": 0.08,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "POUDRE DE CACAO",
+    "food_name": "poudre de cacao",
     "kcal_per_g": 2.61,
     "protein_per_g": 0.17300000000000001,
     "fat_per_g": 0.19
   },
   {
-    "food_name": "SUCCÉDANÉS DU CAFÉ",
+    "food_name": "succédanés du café",
     "kcal_per_g": 0.56,
     "protein_per_g": 0.08,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "PRODUITS CACAOTÉS NDA",
+    "food_name": "produits cacaotés nda",
     "kcal_per_g": 3.93,
     "protein_per_g": 0.042,
     "fat_per_g": 0.35700000000000004
   },
   {
-    "food_name": "EXTRAITS DE CAFÉ",
+    "food_name": "extraits de café",
     "kcal_per_g": 1.29,
     "protein_per_g": 0.04,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "THÉ",
+    "food_name": "thé",
     "kcal_per_g": 0.4,
     "protein_per_g": 0.1,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "RACINES DE CHICORÉE",
+    "food_name": "racines de chicorée",
     "kcal_per_g": 0.6,
     "protein_per_g": 0.011000000000000001,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "EXTRAITS DE THÉ",
+    "food_name": "extraits de thé",
     "kcal_per_g": 0.18,
     "protein_per_g": 0.045,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "FÈVES DE CACAO",
+    "food_name": "fèves de cacao",
     "kcal_per_g": 4.14,
     "protein_per_g": 0.04,
     "fat_per_g": 0.4
   },
   {
-    "food_name": "INFUSIONS NDA",
+    "food_name": "infusions nda",
     "kcal_per_g": 0.4,
     "protein_per_g": 0.1,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "PÂTE DE CACAO",
+    "food_name": "pâte de cacao",
     "kcal_per_g": 4.72,
     "protein_per_g": 0.017,
     "fat_per_g": 0.44
   },
   {
-    "food_name": "MATE",
+    "food_name": "mate",
     "kcal_per_g": 0.4,
     "protein_per_g": 0.1,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "POIVRE BLANC, POIVRE NOIR,",
+    "food_name": "poivre blanc, poivre noir,",
     "kcal_per_g": 2.76,
     "protein_per_g": 0.107,
     "fat_per_g": 0.027000000000000003
   },
   {
-    "food_name": "MUSCADE",
+    "food_name": "muscade",
     "kcal_per_g": 5.25,
     "protein_per_g": 0.057999999999999996,
     "fat_per_g": 0.363
   },
   {
-    "food_name": "ANIS",
+    "food_name": "anis",
     "kcal_per_g": 3.45,
     "protein_per_g": 0.158,
     "fat_per_g": 0.149
   },
   {
-    "food_name": "PIMENTS",
+    "food_name": "piments",
     "kcal_per_g": 3.18,
     "protein_per_g": 0.12,
     "fat_per_g": 0.17300000000000001
   },
   {
-    "food_name": "GINGEMBRE",
+    "food_name": "gingembre",
     "kcal_per_g": 3.47,
     "protein_per_g": 0.091,
     "fat_per_g": 0.06
   },
   {
-    "food_name": "CANNELLE",
+    "food_name": "cannelle",
     "kcal_per_g": 2.61,
     "protein_per_g": 0.039,
     "fat_per_g": 0.032
   },
   {
-    "food_name": "ÉPICES NDA",
+    "food_name": "épices nda",
     "kcal_per_g": 3.37,
     "protein_per_g": 0.113,
     "fat_per_g": 0.155
   },
   {
-    "food_name": "GIROFLES",
+    "food_name": "girofles",
     "kcal_per_g": 3.23,
     "protein_per_g": 0.06,
     "fat_per_g": 0.201
   },
   {
-    "food_name": "BOISSONS OBTENUES PAR",
+    "food_name": "boissons obtenues par",
     "kcal_per_g": 0.6,
     "protein_per_g": 0.019,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "BIÈRE DE SORGHO",
+    "food_name": "bière de sorgho",
     "kcal_per_g": 0.4,
     "protein_per_g": 0.004,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "BOISSONS FERMENTÉES, CIDRE",
+    "food_name": "boissons fermentées, cidre",
     "kcal_per_g": 0.47,
     "protein_per_g": 0.001,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "BOISSONS OBTENUES PAR",
+    "food_name": "boissons obtenues par",
     "kcal_per_g": 1.33,
     "protein_per_g": 0.003,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "MOÛT DE RAISIN",
+    "food_name": "moût de raisin",
     "kcal_per_g": 0.61,
     "protein_per_g": 0.006,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "VIN",
+    "food_name": "vin",
     "kcal_per_g": 0.68,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "BIÈRE D'ORGE",
+    "food_name": "bière d'orge",
     "kcal_per_g": 0.49,
     "protein_per_g": 0.005,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "VERMOUTHS, ETC,",
+    "food_name": "vermouths, etc,",
     "kcal_per_g": 1.37,
     "protein_per_g": 0.001,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "BIÈRE DE MAÏS",
+    "food_name": "bière de maïs",
     "kcal_per_g": 0.4,
     "protein_per_g": 0.004,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "BOISSONS ALCOOLISÉES DISTILLÉES",
+    "food_name": "boissons alcoolisées distillées",
     "kcal_per_g": 2.95,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "BIÈRE DE MIL",
+    "food_name": "bière de mil",
     "kcal_per_g": 0.4,
     "protein_per_g": 0.004,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "BŒUF DÉSOSSÉ",
+    "food_name": "boeuf désossé",
     "kcal_per_g": 1.5,
     "protein_per_g": 0.185,
     "fat_per_g": 0.079
   },
   {
-    "food_name": "VIANDE DE CANARD",
+    "food_name": "viande de canard",
     "kcal_per_g": 2.91,
     "protein_per_g": 0.083,
     "fat_per_g": 0.28300000000000003
   },
   {
-    "food_name": "BŒUF\nSÉCHÉ/SALÉ/FUMÉ",
+    "food_name": "boeuf\nséché/salé/fumé",
     "kcal_per_g": 2.03,
     "protein_per_g": 0.34299999999999997,
     "fat_per_g": 0.063
   },
   {
-    "food_name": "ABATS ET FOIES DE CANARD",
+    "food_name": "abats et foies de canard",
     "kcal_per_g": 1.36,
     "protein_per_g": 0.187,
     "fat_per_g": 0.046
   },
   {
-    "food_name": "EXTRAITS DE VIANDE",
+    "food_name": "extraits de viande",
     "kcal_per_g": 2.38,
     "protein_per_g": 0.16,
     "fat_per_g": 0.08900000000000001
   },
   {
-    "food_name": "VIANDE D'OIE",
+    "food_name": "viande d'oie",
     "kcal_per_g": 3.01,
     "protein_per_g": 0.129,
     "fat_per_g": 0.272
   },
   {
-    "food_name": "SAUCISSES DE BŒUF",
+    "food_name": "saucisses de boeuf",
     "kcal_per_g": 3.13,
     "protein_per_g": 0.11699999999999999,
     "fat_per_g": 0.284
   },
   {
-    "food_name": "ABATS ET FOIES D'OIE",
+    "food_name": "abats et foies d'oie",
     "kcal_per_g": 1.33,
     "protein_per_g": 0.16399999999999998,
     "fat_per_g": 0.043
   },
   {
-    "food_name": "PRÉPARATIONS DE BŒUF",
+    "food_name": "préparations de boeuf",
     "kcal_per_g": 2.33,
     "protein_per_g": 0.25,
     "fat_per_g": 0.14
   },
   {
-    "food_name": "VIANDE DE DINDE",
+    "food_name": "viande de dinde",
     "kcal_per_g": 1.26,
     "protein_per_g": 0.161,
     "fat_per_g": 0.063
   },
   {
-    "food_name": "BŒUF EN CONSERVE",
+    "food_name": "boeuf en conserve",
     "kcal_per_g": 2.33,
     "protein_per_g": 0.25,
     "fat_per_g": 0.14
   },
   {
-    "food_name": "ABATS ET FOIES DE DINDE",
+    "food_name": "abats et foies de dinde",
     "kcal_per_g": 1.37,
     "protein_per_g": 0.2,
     "fat_per_g": 0.04
   },
   {
-    "food_name": "PRÉPAR. DE BŒUF\nHOMOGÉNÉISÉES",
+    "food_name": "prépar. de boeuf\nhomogénéisées",
     "kcal_per_g": 1.1,
     "protein_per_g": 0.13699999999999998,
     "fat_per_g": 0.057
   },
   {
-    "food_name": "VIANDE DE PIGEON",
+    "food_name": "viande de pigeon",
     "kcal_per_g": 2.26,
     "protein_per_g": 0.142,
     "fat_per_g": 0.183
   },
   {
-    "food_name": "PRÉPARATIONS DE FOIE DE BŒUF",
+    "food_name": "préparations de foie de boeuf",
     "kcal_per_g": 3.15,
     "protein_per_g": 0.136,
     "fat_per_g": 0.027999999999999997
   },
   {
-    "food_name": "AUTRE VIANDE DE VOLAILLE",
+    "food_name": "autre viande de volaille",
     "kcal_per_g": 1.85,
     "protein_per_g": 0.171,
     "fat_per_g": 0.124
   },
   {
-    "food_name": "ABATS DE BOVINS",
+    "food_name": "abats de bovins",
     "kcal_per_g": 1.05,
     "protein_per_g": 0.184,
     "fat_per_g": 0.025
   },
   {
-    "food_name": "VIANDE DE CHEVAL",
+    "food_name": "viande de cheval",
     "kcal_per_g": 0.85,
     "protein_per_g": 0.155,
     "fat_per_g": 0.02
   },
   {
-    "food_name": "VIANDE DE BUFFLE",
+    "food_name": "viande de buffle",
     "kcal_per_g": 0.77,
     "protein_per_g": 0.113,
     "fat_per_g": 0.031
   },
   {
-    "food_name": "ABATS DE CHEVAL",
+    "food_name": "abats de cheval",
     "kcal_per_g": 1.05,
     "protein_per_g": 0.184,
     "fat_per_g": 0.025
   },
   {
-    "food_name": "ABATS DE BUFFLE",
+    "food_name": "abats de buffle",
     "kcal_per_g": 1.05,
     "protein_per_g": 0.184,
     "fat_per_g": 0.025
   },
   {
-    "food_name": "VIANDE D'ÂNE",
+    "food_name": "viande d'âne",
     "kcal_per_g": 0.94,
     "protein_per_g": 0.15,
     "fat_per_g": 0.03
   },
   {
-    "food_name": "VIANDE D'OVINS",
+    "food_name": "viande d'ovins",
     "kcal_per_g": 2.63,
     "protein_per_g": 0.135,
     "fat_per_g": 0.228
   },
   {
-    "food_name": "VIANDE DE MULET",
+    "food_name": "viande de mulet",
     "kcal_per_g": 0.94,
     "protein_per_g": 0.15,
     "fat_per_g": 0.03
   },
   {
-    "food_name": "ABATS D'OVINS",
+    "food_name": "abats d'ovins",
     "kcal_per_g": 1.17,
     "protein_per_g": 0.146,
     "fat_per_g": 0.057
   },
   {
-    "food_name": "VIANDE DE CAMÉLIDÉS",
+    "food_name": "viande de camélidés",
     "kcal_per_g": 1.74,
     "protein_per_g": 0.127,
     "fat_per_g": 0.132
   },
   {
-    "food_name": "VIANDE DE CAPRINS",
+    "food_name": "viande de caprins",
     "kcal_per_g": 1.23,
     "protein_per_g": 0.14,
     "fat_per_g": 0.07
   },
   {
-    "food_name": "ABATS DE CAMÉLIDÉS",
+    "food_name": "abats de camélidés",
     "kcal_per_g": 1.05,
     "protein_per_g": 0.184,
     "fat_per_g": 0.025
   },
   {
-    "food_name": "ABATS DE CAPRINS",
+    "food_name": "abats de caprins",
     "kcal_per_g": 1.17,
     "protein_per_g": 0.146,
     "fat_per_g": 0.057
   },
   {
-    "food_name": "VIANDE DE LÉPORIDÉS",
+    "food_name": "viande de léporidés",
     "kcal_per_g": 1.18,
     "protein_per_g": 0.17,
     "fat_per_g": 0.05
   },
   {
-    "food_name": "VIANDE DE PORCINS",
+    "food_name": "viande de porcins",
     "kcal_per_g": 3.26,
     "protein_per_g": 0.11,
     "fat_per_g": 0.31
   },
   {
-    "food_name": "VIANDE D'AUTRES RONGEURS",
+    "food_name": "viande d'autres rongeurs",
     "kcal_per_g": 0.81,
     "protein_per_g": 0.162,
     "fat_per_g": 0.013999999999999999
   },
   {
-    "food_name": "PORC",
+    "food_name": "porc",
     "kcal_per_g": 2.2,
     "protein_per_g": 0.134,
     "fat_per_g": 0.18
   },
   {
-    "food_name": "VIANDE D'AUTRES CAMÉLIDÉS",
+    "food_name": "viande d'autres camélidés",
     "kcal_per_g": 1.43,
     "protein_per_g": 0.146,
     "fat_per_g": 0.09
   },
   {
-    "food_name": "BACON ET JAMBON DE PORC",
+    "food_name": "bacon et jambon de porc",
     "kcal_per_g": 3.62,
     "protein_per_g": 0.131,
     "fat_per_g": 0.341
   },
   {
-    "food_name": "ABATS D'AUTRES CAMÉLIDÉS",
+    "food_name": "abats d'autres camélidés",
     "kcal_per_g": 1.05,
     "protein_per_g": 0.184,
     "fat_per_g": 0.025
   },
   {
-    "food_name": "SAUCISSES DE PORC",
+    "food_name": "saucisses de porc",
     "kcal_per_g": 4.17,
     "protein_per_g": 0.11699999999999999,
     "fat_per_g": 0.40299999999999997
   },
   {
-    "food_name": "VIANDE DE GIBIER",
+    "food_name": "viande de gibier",
     "kcal_per_g": 1.04,
     "protein_per_g": 0.18,
     "fat_per_g": 0.03
   },
   {
-    "food_name": "PRÉPARATIONS DE PORC",
+    "food_name": "préparations de porc",
     "kcal_per_g": 2.39,
     "protein_per_g": 0.161,
     "fat_per_g": 0.188
   },
   {
-    "food_name": "VIANDES NDA",
+    "food_name": "viandes nda",
     "kcal_per_g": 1.26,
     "protein_per_g": 0.16399999999999998,
     "fat_per_g": 0.06
   },
   {
-    "food_name": "ABATS DE PORC",
+    "food_name": "abats de porc",
     "kcal_per_g": 1.13,
     "protein_per_g": 0.183,
     "fat_per_g": 0.035
   },
   {
-    "food_name": "VIANDE SÉCHÉE NDA",
+    "food_name": "viande séchée nda",
     "kcal_per_g": 2.5,
     "protein_per_g": 0.5539999999999999,
     "fat_per_g": 0.015
   },
   {
-    "food_name": "VIANDE DE VOLAILLE",
+    "food_name": "viande de volaille",
     "kcal_per_g": 1.22,
     "protein_per_g": 0.12300000000000001,
     "fat_per_g": 0.077
   },
   {
-    "food_name": "VIANDES PRÉPARÉES NDA",
+    "food_name": "viandes préparées nda",
     "kcal_per_g": 2.42,
     "protein_per_g": 0.20600000000000002,
     "fat_per_g": 0.16899999999999998
   },
   {
-    "food_name": "VIANDE DE POULET EN BOÎTE",
+    "food_name": "viande de poulet en boîte",
     "kcal_per_g": 1.65,
     "protein_per_g": 0.218,
     "fat_per_g": 0.08
   },
   {
-    "food_name": "ABATS NDA",
+    "food_name": "abats nda",
     "kcal_per_g": 1.05,
     "protein_per_g": 0.184,
     "fat_per_g": 0.025
   },
   {
-    "food_name": "ABATS DE VOLAILLE",
+    "food_name": "abats de volaille",
     "kcal_per_g": 1.25,
     "protein_per_g": 0.18,
     "fat_per_g": 0.039
   },
   {
-    "food_name": "ESCARGOTS (DE MER EXCLUS)",
+    "food_name": "escargots (de mer exclus)",
     "kcal_per_g": 0.42,
     "protein_per_g": 0.063,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "PRÉPARATIONS DE FOIE GRAS",
+    "food_name": "préparations de foie gras",
     "kcal_per_g": 4.62,
     "protein_per_g": 0.114,
     "fat_per_g": 0.43799999999999994
   },
   {
-    "food_name": "LAIT DE VACHE ENTIER, FRAIS",
+    "food_name": "lait de vache entier, frais",
     "kcal_per_g": 0.61,
     "protein_per_g": 0.033,
     "fat_per_g": 0.033
   },
   {
-    "food_name": "FROMAGE DE SÉRUM",
+    "food_name": "fromage de sérum",
     "kcal_per_g": 0.72,
     "protein_per_g": 0.124,
     "fat_per_g": 0.01
   },
   {
-    "food_name": "LAIT STANDARDISÉ",
+    "food_name": "lait standardisé",
     "kcal_per_g": 0.48,
     "protein_per_g": 0.033,
     "fat_per_g": 0.015
   },
   {
-    "food_name": "FROMAGE FONDU",
+    "food_name": "fromage fondu",
     "kcal_per_g": 1.03,
     "protein_per_g": 0.125,
     "fat_per_g": 0.045
   },
   {
-    "food_name": "CRÈME FRAÎCHE",
+    "food_name": "crème fraîche",
     "kcal_per_g": 1.95,
     "protein_per_g": 0.027000000000000003,
     "fat_per_g": 0.193
   },
   {
-    "food_name": "SÉRUM FRAIS",
+    "food_name": "sérum frais",
     "kcal_per_g": 0.26,
     "protein_per_g": 0.008,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "LAIT ENTIER DE VACHE",
+    "food_name": "lait entier de vache",
     "kcal_per_g": 1.34,
     "protein_per_g": 0.068,
     "fat_per_g": 0.076
   },
   {
-    "food_name": "SÉRUM CONDENSÉ",
+    "food_name": "sérum condensé",
     "kcal_per_g": 0.26,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.003
   },
   {
-    "food_name": "SÉRUM EN POUDRE",
+    "food_name": "sérum en poudre",
     "kcal_per_g": 3.46,
     "protein_per_g": 0.12300000000000001,
     "fat_per_g": 0.008
   },
   {
-    "food_name": "LAIT ENTIER DE VACHE",
+    "food_name": "lait entier de vache",
     "kcal_per_g": 3.21,
     "protein_per_g": 0.079,
     "fat_per_g": 0.087
   },
   {
-    "food_name": "CASÉINE",
+    "food_name": "caséine",
     "kcal_per_g": 4.27,
     "protein_per_g": 1.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "LAIT DE BUFFLESSE",
+    "food_name": "lait de bufflesse",
     "kcal_per_g": 0.97,
     "protein_per_g": 0.038,
     "fat_per_g": 0.069
   },
   {
-    "food_name": "LAIT ENTIER DE VACHE EN POUDRE",
+    "food_name": "lait entier de vache en poudre",
     "kcal_per_g": 4.96,
     "protein_per_g": 0.263,
     "fat_per_g": 0.267
   },
   {
-    "food_name": "LAIT ÉCRÉMÉ DE BUFFLESSE",
+    "food_name": "lait écrémé de bufflesse",
     "kcal_per_g": 0.41,
     "protein_per_g": 0.043,
     "fat_per_g": 0.001
   },
   {
-    "food_name": "LAIT ÉCRÉMÉ DE VACHE",
+    "food_name": "lait écrémé de vache",
     "kcal_per_g": 0.35,
     "protein_per_g": 0.034,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "FROMAGE DE BUFFLESSE",
+    "food_name": "fromage de bufflesse",
     "kcal_per_g": 2.69,
     "protein_per_g": 0.16899999999999998,
     "fat_per_g": 0.22
   },
   {
-    "food_name": "LAIT ÉCRÉMÉ CONCENTRÉ",
+    "food_name": "lait écrémé concentré",
     "kcal_per_g": 0.78,
     "protein_per_g": 0.076,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "LAIT DE BREBIS",
+    "food_name": "lait de brebis",
     "kcal_per_g": 0.94,
     "protein_per_g": 0.059000000000000004,
     "fat_per_g": 0.06
   },
   {
-    "food_name": "FROMAGE DE BREBIS",
+    "food_name": "fromage de brebis",
     "kcal_per_g": 3.1,
     "protein_per_g": 0.23199999999999998,
     "fat_per_g": 0.228
   },
   {
-    "food_name": "LAIT ÉCRÉMÉ CONCENTRÉ\nSUCRÉ",
+    "food_name": "lait écrémé concentré\nsucré",
     "kcal_per_g": 2.71,
     "protein_per_g": 0.1,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "LAIT DE BREBIS ÉCRÉMÉ",
+    "food_name": "lait de brebis écrémé",
     "kcal_per_g": 0.48,
     "protein_per_g": 0.061,
     "fat_per_g": 0.004
   },
   {
-    "food_name": "LAIT ÉCRÉMÉ EN POUDRE",
+    "food_name": "lait écrémé en poudre",
     "kcal_per_g": 3.62,
     "protein_per_g": 0.36200000000000004,
     "fat_per_g": 0.008
   },
   {
-    "food_name": "LAIT DE CHÈVRE",
+    "food_name": "lait de chèvre",
     "kcal_per_g": 0.69,
     "protein_per_g": 0.036000000000000004,
     "fat_per_g": 0.040999999999999995
   },
   {
-    "food_name": "BABEURRE, LAIT CAILLÉ",
+    "food_name": "babeurre, lait caillé",
     "kcal_per_g": 0.75,
     "protein_per_g": 0.03,
     "fat_per_g": 0.052000000000000005
   },
   {
-    "food_name": "FROMAGE DE CHÈVRE",
+    "food_name": "fromage de chèvre",
     "kcal_per_g": 2.8,
     "protein_per_g": 0.16,
     "fat_per_g": 0.15
   },
   {
-    "food_name": "BABEURRE EN POUDRE",
+    "food_name": "babeurre en poudre",
     "kcal_per_g": 3.87,
     "protein_per_g": 0.34299999999999997,
     "fat_per_g": 0.057999999999999996
   },
   {
-    "food_name": "LAIT ÉCRÉMÉ DE CHÈVRE",
+    "food_name": "lait écrémé de chèvre",
     "kcal_per_g": 0.35,
     "protein_per_g": 0.034,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "LAIT RECONSTITUÉ",
+    "food_name": "lait reconstitué",
     "kcal_per_g": 0.61,
     "protein_per_g": 0.018000000000000002,
     "fat_per_g": 0.034
   },
   {
-    "food_name": "LAIT DE CHAMELLE",
+    "food_name": "lait de chamelle",
     "kcal_per_g": 0.73,
     "protein_per_g": 0.038,
     "fat_per_g": 0.045
   },
   {
-    "food_name": "FROMAGE DE VACHE ENTIER",
+    "food_name": "fromage de vache entier",
     "kcal_per_g": 3.87,
     "protein_per_g": 0.25,
     "fat_per_g": 0.31
   },
   {
-    "food_name": "YAOURT",
+    "food_name": "yaourt",
     "kcal_per_g": 0.61,
     "protein_per_g": 0.035,
     "fat_per_g": 0.033
   },
   {
-    "food_name": "FROMAGE DE VACHE ÉCRÉMÉ",
+    "food_name": "fromage de vache écrémé",
     "kcal_per_g": 2.47,
     "protein_per_g": 0.46,
     "fat_per_g": 0.04
   },
   {
-    "food_name": "YAOURT CONCENTRÉ",
+    "food_name": "yaourt concentré",
     "kcal_per_g": 0.82,
     "protein_per_g": 0.047,
     "fat_per_g": 0.015
   },
   {
-    "food_name": "ŒUFS DE POULE",
+    "food_name": "oeufs de poule",
     "kcal_per_g": 1.39,
     "protein_per_g": 0.107,
     "fat_per_g": 0.098
   },
   {
-    "food_name": "OVALBUMINE",
+    "food_name": "ovalbumine",
     "kcal_per_g": 0.49,
     "protein_per_g": 0.10099999999999999,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "ŒUFS LIQUIDES DE POULE",
+    "food_name": "oeufs liquides de poule",
     "kcal_per_g": 1.58,
     "protein_per_g": 0.121,
     "fat_per_g": 0.11199999999999999
   },
   {
-    "food_name": "ŒUFS (DE POULE EXCLUS)",
+    "food_name": "oeufs (de poule exclus)",
     "kcal_per_g": 1.63,
     "protein_per_g": 0.113,
     "fat_per_g": 0.121
   },
   {
-    "food_name": "POUDRE D'ŒUFS DE POULE",
+    "food_name": "poudre d'oeufs de poule",
     "kcal_per_g": 5.94,
     "protein_per_g": 0.45799999999999996,
     "fat_per_g": 0.9179999999999999
   },
   {
-    "food_name": "POISSON DIADROME D'EAU DOUCE, FRAIS",
+    "food_name": "poisson diadrome d'eau douce, frais",
     "kcal_per_g": 0.69,
     "protein_per_g": 0.109,
     "fat_per_g": 0.025
   },
   {
-    "food_name": "POISSON PÉLAGIQUE\nSÉCHÉ/SALÉ",
+    "food_name": "poisson pélagique\nséché/salé",
     "kcal_per_g": 1.56,
     "protein_per_g": 0.264,
     "fat_per_g": 0.045
   },
   {
-    "food_name": "POISSON DIADROME D'EAU DOUCE, FILETS",
+    "food_name": "poisson diadrome d'eau douce, filets",
     "kcal_per_g": 1.27,
     "protein_per_g": 0.203,
     "fat_per_g": 0.045
   },
   {
-    "food_name": "POISSON PÉLAGIQUE EN CONSERVE",
+    "food_name": "poisson pélagique en conserve",
     "kcal_per_g": 1.85,
     "protein_per_g": 0.20800000000000002,
     "fat_per_g": 0.102
   },
   {
-    "food_name": "POISSON DIADROME D'EAU DOUCE,\nSÉCHÉ/SALÉ",
+    "food_name": "poisson diadrome d'eau douce,\nséché/salé",
     "kcal_per_g": 1.99,
     "protein_per_g": 0.313,
     "fat_per_g": 0.07200000000000001
   },
   {
-    "food_name": "POISSON PÉLAG, PRÉPARÉ NDA",
+    "food_name": "poisson pélag, préparé nda",
     "kcal_per_g": 3.18,
     "protein_per_g": 0.442,
     "fat_per_g": 0.136
   },
   {
-    "food_name": "POISSON DIADROME D'EAU DOUCE, EN CONSERVE",
+    "food_name": "poisson diadrome d'eau douce, en conserve",
     "kcal_per_g": 1.61,
     "protein_per_g": 0.198,
     "fat_per_g": 0.084
   },
   {
-    "food_name": "POISSON DE MER FRAIS NDA",
+    "food_name": "poisson de mer frais nda",
     "kcal_per_g": 0.64,
     "protein_per_g": 0.10300000000000001,
     "fat_per_g": 0.022000000000000002
   },
   {
-    "food_name": "POISSON DIADROME D'EAU DOUCE, PRÉPARÉ\nNDA",
+    "food_name": "poisson diadrome d'eau douce, préparé\nnda",
     "kcal_per_g": 2.62,
     "protein_per_g": 0.26899999999999996,
     "fat_per_g": 0.15
   },
   {
-    "food_name": "POISSON DE MER, FILETS NDA",
+    "food_name": "poisson de mer, filets nda",
     "kcal_per_g": 1.15,
     "protein_per_g": 0.19,
     "fat_per_g": 0.038
   },
   {
-    "food_name": "POISSON DÉMERSAL, FRAIS",
+    "food_name": "poisson démersal, frais",
     "kcal_per_g": 0.42,
     "protein_per_g": 0.083,
     "fat_per_g": 0.008
   },
   {
-    "food_name": "POISSON DE MER SÉCHÉ/SALÉ",
+    "food_name": "poisson de mer séché/salé",
     "kcal_per_g": 1.69,
     "protein_per_g": 0.321,
     "fat_per_g": 0.032
   },
   {
-    "food_name": "POISSON DÉMERSAL, FILETS",
+    "food_name": "poisson démersal, filets",
     "kcal_per_g": 0.9,
     "protein_per_g": 0.179,
     "fat_per_g": 0.016
   },
   {
-    "food_name": "POISSON DE MER EN CONSERVE",
+    "food_name": "poisson de mer en conserve",
     "kcal_per_g": 1.79,
     "protein_per_g": 0.22899999999999998,
     "fat_per_g": 0.08199999999999999
   },
   {
-    "food_name": "POISSON DÉMERSAL\nSÉCHÉ/SALÉ",
+    "food_name": "poisson démersal\nséché/salé",
     "kcal_per_g": 1.86,
     "protein_per_g": 0.379,
     "fat_per_g": 0.019
   },
   {
-    "food_name": "POISSON DE MER PRÉPARÉ NDA",
+    "food_name": "poisson de mer préparé nda",
     "kcal_per_g": 1.32,
     "protein_per_g": 0.175,
     "fat_per_g": 0.05
   },
   {
-    "food_name": "POISSON DÉMERSAL EN CONSERVE",
+    "food_name": "poisson démersal en conserve",
     "kcal_per_g": 1.73,
     "protein_per_g": 0.25,
     "fat_per_g": 0.063
   },
   {
-    "food_name": "CRUSTACÉS FRAIS",
+    "food_name": "crustacés frais",
     "kcal_per_g": 0.47,
     "protein_per_g": 0.09300000000000001,
     "fat_per_g": 0.005
   },
   {
-    "food_name": "POISSON DÉMERSAL PRÉPARÉ NDA",
+    "food_name": "poisson démersal préparé nda",
     "kcal_per_g": 3.2,
     "protein_per_g": 0.25,
     "fat_per_g": 0.235
   },
   {
-    "food_name": "CRUSTACÉS SURGELÉS",
+    "food_name": "crustacés surgelés",
     "kcal_per_g": 0.91,
     "protein_per_g": 0.184,
     "fat_per_g": 0.008
   },
   {
-    "food_name": "POISSON PÉLAGIQUE FRAIS",
+    "food_name": "poisson pélagique frais",
     "kcal_per_g": 0.86,
     "protein_per_g": 0.126,
     "fat_per_g": 0.036000000000000004
   },
   {
-    "food_name": "CRUSTACÉS SÉCHÉS/SALÉS",
+    "food_name": "crustacés séchés/salés",
     "kcal_per_g": 1.49,
     "protein_per_g": 0.254,
     "fat_per_g": 0.013000000000000001
   },
   {
-    "food_name": "POISSON PÉLAGIQUE, FILETS",
+    "food_name": "poisson pélagique, filets",
     "kcal_per_g": 1.41,
     "protein_per_g": 0.20199999999999999,
     "fat_per_g": 0.06
   },
   {
-    "food_name": "CRUSTACÉS EN CONSERVE",
+    "food_name": "crustacés en conserve",
     "kcal_per_g": 0.98,
     "protein_per_g": 0.198,
     "fat_per_g": 0.011000000000000001
   },
   {
-    "food_name": "CRUSTACÉS PRÉPARÉS NDA",
+    "food_name": "crustacés préparés nda",
     "kcal_per_g": 1.13,
     "protein_per_g": 0.195,
     "fat_per_g": 0.018000000000000002
   },
   {
-    "food_name": "MOLLUSQUES FRAIS",
+    "food_name": "mollusques frais",
     "kcal_per_g": 0.15,
     "protein_per_g": 0.023,
     "fat_per_g": 0.002
   },
   {
-    "food_name": "MOLLUSQUES SURGELÉS",
+    "food_name": "mollusques surgelés",
     "kcal_per_g": 0.71,
     "protein_per_g": 0.105,
     "fat_per_g": 0.012
   },
   {
-    "food_name": "MOLLUSQUES SÉCHÉS/SALÉS",
+    "food_name": "mollusques séchés/salés",
     "kcal_per_g": 3.45,
     "protein_per_g": 0.494,
     "fat_per_g": 0.047
   },
   {
-    "food_name": "HUILE DE SON DE RIZ",
+    "food_name": "huile de son de riz",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE CARTHAME",
+    "food_name": "huile de carthame",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE MAÏS",
+    "food_name": "huile de maïs",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE SÉSAME",
+    "food_name": "huile de sésame",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE SOJA",
+    "food_name": "huile de soja",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE MOUTARDE",
+    "food_name": "huile de moutarde",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE D'ARACHIDE",
+    "food_name": "huile d'arachide",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE D'OEILLETTE",
+    "food_name": "huile d'oeillette",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE COCO",
+    "food_name": "huile de coco",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE STILLINGIA",
+    "food_name": "huile de stillingia",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE PALME",
+    "food_name": "huile de palme",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE KAPOK",
+    "food_name": "huile de kapok",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE PALMISTE",
+    "food_name": "huile de palmiste",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE COTON",
+    "food_name": "huile de coton",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE D'OLIVE",
+    "food_name": "huile d'olive",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE LIN",
+    "food_name": "huile de lin",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "BEURRE DE KARITÉ",
+    "food_name": "beurre de karité",
     "kcal_per_g": 7.11,
     "protein_per_g": 0.0,
     "fat_per_g": 0.85
   },
   {
-    "food_name": "HUILE DE CHÈNEVIS",
+    "food_name": "huile de chènevis",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE RICIN",
+    "food_name": "huile de ricin",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILES VÉGÉTALES NDA",
+    "food_name": "huiles végétales nda",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE TOURNESOL",
+    "food_name": "huile de tournesol",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "MARGARINE",
+    "food_name": "margarine",
     "kcal_per_g": 7.2,
     "protein_per_g": 0.006,
     "fat_per_g": 0.81
   },
   {
-    "food_name": "HUILE DE COLZA",
+    "food_name": "huile de colza",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILES CUITES",
+    "food_name": "huiles cuites",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE GRIGNONS D'OLIVES",
+    "food_name": "huile de grignons d'olives",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILES HYDROGÉNÉES",
+    "food_name": "huiles hydrogénées",
     "kcal_per_g": 7.2,
     "protein_per_g": 0.006,
     "fat_per_g": 0.81
   },
   {
-    "food_name": "HUILE D'ABRASIN",
+    "food_name": "huile d'abrasin",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "GRAISSES DE BOVINS",
+    "food_name": "graisses de bovins",
     "kcal_per_g": 8.47,
     "protein_per_g": 0.02,
     "fat_per_g": 0.93
   },
   {
-    "food_name": "GRAISSES DE CAMÉLIDÉS",
+    "food_name": "graisses de camélidés",
     "kcal_per_g": 8.47,
     "protein_per_g": 0.02,
     "fat_per_g": 0.93
   },
   {
-    "food_name": "GRAISSE DE DÉCOUPE DE BOVINS",
+    "food_name": "graisse de découpe de bovins",
     "kcal_per_g": 8.47,
     "protein_per_g": 0.02,
     "fat_per_g": 0.93
   },
   {
-    "food_name": "GRAISSE D'AUTRES CAMÉLIDÉS",
+    "food_name": "graisse d'autres camélidés",
     "kcal_per_g": 8.47,
     "protein_per_g": 0.02,
     "fat_per_g": 0.93
   },
   {
-    "food_name": "BEURRE DE LAIT DE VACHE",
+    "food_name": "beurre de lait de vache",
     "kcal_per_g": 7.17,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.8109999999999999
   },
   {
-    "food_name": "HUILE ET GRAISSE ANIMALE NDA",
+    "food_name": "huile et graisse animale nda",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "GHEE DE LAIT DE VACHE",
+    "food_name": "ghee de lait de vache",
     "kcal_per_g": 8.73,
     "protein_per_g": 0.003,
     "fat_per_g": 0.991
   },
   {
-    "food_name": "SUIF",
+    "food_name": "suif",
     "kcal_per_g": 8.84,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "GRAISSE DE BUFFLE",
+    "food_name": "graisse de buffle",
     "kcal_per_g": 8.47,
     "protein_per_g": 0.02,
     "fat_per_g": 0.93
   },
   {
-    "food_name": "PRÉPAR, DE GRAISSES NDA",
+    "food_name": "prépar, de graisses nda",
     "kcal_per_g": 7.2,
     "protein_per_g": 0.006,
     "fat_per_g": 0.81
   },
   {
-    "food_name": "BEURRE DE LAIT DE BUFFLESSE",
+    "food_name": "beurre de lait de bufflesse",
     "kcal_per_g": 7.17,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.8109999999999999
   },
   {
-    "food_name": "HUILE DE POISSON DIADROME D'EAU DOUCE",
+    "food_name": "huile de poisson diadrome d'eau douce",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "GHEE DE LAIT DE BUFFLESSE",
+    "food_name": "ghee de lait de bufflesse",
     "kcal_per_g": 8.73,
     "protein_per_g": 0.003,
     "fat_per_g": 0.991
   },
   {
-    "food_name": "HUILE DE FOIE DE POISSON DIADROME D'EAU DOUCE",
+    "food_name": "huile de foie de poisson diadrome d'eau douce",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "GRAISSE D'OVINS",
+    "food_name": "graisse d'ovins",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "HUILE DE POISSON DÉMERSAL",
+    "food_name": "huile de poisson démersal",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "BEURRE DE LAIT DE BREBIS",
+    "food_name": "beurre de lait de brebis",
     "kcal_per_g": 7.16,
     "protein_per_g": 0.006,
     "fat_per_g": 0.81
   },
   {
-    "food_name": "HUILE DE FOIE DE POISSON DÉM,",
+    "food_name": "huile de foie de poisson dém,",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "GRAISSE DE CAPRINS",
+    "food_name": "graisse de caprins",
     "kcal_per_g": 8.47,
     "protein_per_g": 0.02,
     "fat_per_g": 0.93
   },
   {
-    "food_name": "HUILE DE POISSON PÉLAGIQUE",
+    "food_name": "huile de poisson pélagique",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "BEURRE DE LAIT DE CHÈVRE",
+    "food_name": "beurre de lait de chèvre",
     "kcal_per_g": 7.17,
     "protein_per_g": 0.009000000000000001,
     "fat_per_g": 0.8109999999999999
   },
   {
-    "food_name": "HUILE DE FOIE DE POISSON PÉLAGIQUE",
+    "food_name": "huile de foie de poisson pélagique",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "GRAISSE DE PORCINS",
+    "food_name": "graisse de porcins",
     "kcal_per_g": 7.12,
     "protein_per_g": 0.047,
     "fat_per_g": 0.767
   },
   {
-    "food_name": "HUILE DE POISSON DE MER NDA",
+    "food_name": "huile de poisson de mer nda",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "GRAISSE DE DÉCOUPE DE PORC",
+    "food_name": "graisse de découpe de porc",
     "kcal_per_g": 7.12,
     "protein_per_g": 0.047,
     "fat_per_g": 0.767
   },
   {
-    "food_name": "HUILE DE FOIE DE POISSON DE MER NDA",
+    "food_name": "huile de foie de poisson de mer nda",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "GRAISSE DE VOLAILLE",
+    "food_name": "graisse de volaille",
     "kcal_per_g": 6.29,
     "protein_per_g": 0.037000000000000005,
     "fat_per_g": 0.68
   },
   {
-    "food_name": "HUILES D'ANIMAUX AQUATIQUES",
+    "food_name": "huiles d'animaux aquatiques",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "GRAISSE FONDUE DE VOLAILLE",
+    "food_name": "graisse fondue de volaille",
     "kcal_per_g": 9.01,
     "protein_per_g": 0.0,
     "fat_per_g": 0.998
   },
   {
-    "food_name": "LARD DE PORC DIVERS",
+    "food_name": "lard de porc divers",
     "kcal_per_g": 9.02,
     "protein_per_g": 0.0,
     "fat_per_g": 1.0
   },
   {
-    "food_name": "ALIMENTS POUR BÉBÉS",
+    "food_name": "aliments pour bébés",
     "kcal_per_g": 3.68,
     "protein_per_g": 0.152,
     "fat_per_g": 0.028999999999999998
   },
   {
-    "food_name": "CRÈME GLACÉE",
+    "food_name": "crème glacée",
     "kcal_per_g": 1.49,
     "protein_per_g": 0.02,
     "fat_per_g": 0.067
   },
   {
-    "food_name": "BOISSONS NON ALCOOLISÉES",
+    "food_name": "boissons non alcoolisées",
     "kcal_per_g": 0.39,
     "protein_per_g": 0.0,
     "fat_per_g": 0.0
   },
   {
-    "food_name": "PRÉPARAT, ALIMENTAIRES NDA",
+    "food_name": "préparat, alimentaires nda",
     "kcal_per_g": 0.41,
     "protein_per_g": 0.012,
     "fat_per_g": 0.005

@@ -51,7 +51,7 @@ def extract_fao_data(html):
     df = pd.DataFrame(data, columns=["food_name", "kcal", "protein", "fat"])
 
     # Clean data
-    df["food_name"] = df["food_name"].astype(str).str.strip().str.upper()
+    df["food_name"] = df["food_name"].astype(str).str.strip().str.lower()
     df["kcal"] = df["kcal"].apply(clean_numeric)
     df["protein"] = df["protein"].apply(clean_numeric)
     df["fat"] = df["fat"].apply(clean_numeric)
