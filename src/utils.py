@@ -1,5 +1,85 @@
 import re
 
+
+def handle_empty_quantity(recipes, ing_empty_quantity):
+    from statistics import mean  # built-in for averaging
+
+    ing_with_quantity = {}
+
+    # Step 1: collect (quantity, unit) pairs
+    for ing in ing_empty_quantity:
+        for recipe in recipes:
+            for ingredient in recipe.get("ingredients", []):
+                if ing == ingredient.get("ingredient_name"):
+                    quantity = ingredient.get("quantity")
+                    unit = ingredient.get("unit")
+
+                    # Skip if quantity/unit missing or empty
+                    if quantity not in [None, ""] and unit not in [None, ""]:
+                        try:
+                            quantity = float(quantity)
+                        except (ValueError, TypeError):
+                            continue  # skip non-numeric
+                        if ing not in ing_with_quantity:
+                            ing_with_quantity[ing] = []
+                        ing_with_quantity[ing].append((quantity, unit))
+
+    # Step 2: summarize — prefer "g" over "kg"
+    summarized = {}
+
+    for ing, values in ing_with_quantity.items():
+        # Separate quantities by unit
+        g_values = [q for q, u in values if u == "g"]
+        kg_values = [q for q, u in values if u == "kg"]
+
+        if g_values:
+            summarized[ing] = (mean(g_values), "g")
+        elif kg_values:
+            summarized[ing] = (mean(kg_values), "kg")
+        else:
+            # If neither, you can choose to skip or pick the first
+            summarized[ing] = values[0] if values else (0.0, None)
+
+    return summarized
+
+def update_recipes_with_quantities(recipes, ing_with_quantity):
+    """
+    Update all ingredients in recipes that have quantity == 0.0 and unit == ""
+    using the summarized ing_with_quantity dictionary.
+
+    Args:
+        recipes (list): list of recipe dicts
+        ing_with_quantity (dict): {ingredient_name: (mean_quantity, unit)}
+
+    Returns:
+        list: updated recipes (same object, modified in place)
+    """
+    for recipe in recipes:
+        for ingredient in recipe.get("ingredients", []):
+            name = ingredient.get("ingredient_name")
+            quantity = ingredient.get("quantity")
+            unit = ingredient.get("unit")
+
+            # Check for missing/empty quantity
+            if (quantity in [0, 0.0, None, ""]):
+                if name in ing_with_quantity:
+                    mean_qty, mean_unit = ing_with_quantity[name]
+                    ingredient["quantity"] = mean_qty
+                    ingredient["unit"] = mean_unit
+    return recipes
+
+
+
+def get_empty_quantity(recipes):
+    ing = set()
+    for recipe in recipes:
+        for ingredient in recipe.get("ingredients", []):
+            quantity = ingredient.get("quantity")
+            if quantity == 0:
+                ing.add(ingredient["ingredient_name"])
+
+    return list(ing)
+
 def convert_recipe_numbers(recipes: list) -> list:
     """
     Convert quantity in ingredients and rating of each recipe to float.
@@ -11,9 +91,9 @@ def convert_recipe_numbers(recipes: list) -> list:
         list: Updated list of recipes with float quantities and ratings.
     """
     for recipe in recipes:
-        rating = recipe.get("rating", 0)
+        rating = recipe.get("rating")
         if rating is None:  # Handle NoneType values
-            recipe["rating"] = 0.0
+            recipe["rating"] = None
         else:
             try:
                 recipe["rating"] = float(rating)
@@ -104,14 +184,44 @@ def filter_recipes(recipes: list, ecv_data: dict, is_vege: bool) -> list:
 
 
 def add_weights(spec_ing, spec_ing_weights):
+    """
+    Add total_weight to each ingredient in spec_ing by multiplying its quantity 
+    by the corresponding average weight from spec_ing_weights.
+
+    Handles small naming variations (plurals, case, partial matches).
+
+    Args:
+        spec_ing (list): list of ingredient dicts, each with 'ingredient_name' and 'quantity'
+        spec_ing_weights (dict): {ingredient_name: avg_weight}
+
+    Returns:
+        list: updated spec_ing with 'total_weight' added
+    """
     for ing in spec_ing:
-        name = ing["ingredient_name"]
-        quantity = ing["quantity"]
-        avg_weight = spec_ing_weights.get(name, 1)
-        total_weight = avg_weight * quantity
+        name = ing.get("ingredient_name", "").strip().lower()
+        quantity = ing.get("quantity")
+        avg_weight = 1
+
+        # Try direct match first
+        for key in spec_ing_weights:
+            key_norm = key.strip().lower()
+            # Handle plural forms and partial matches
+            if key_norm == name:
+                avg_weight = spec_ing_weights[key]
+                break
+            elif (key_norm.rstrip('s') == name.rstrip('s')  # singular/plural tolerance
+                or key_norm in name
+                or name in key_norm
+            ):
+                avg_weight = spec_ing_weights[key]
+
+        # Compute total weight
+        total_weight = quantity * avg_weight if quantity != 0 else avg_weight
+
         ing["total_weight"] = total_weight
 
     return spec_ing
+
 
 
 def standardize_recipes(filtered_recipes, spec_ing):
@@ -145,7 +255,7 @@ def standardize_recipes(filtered_recipes, spec_ing):
 
             # If ingredient matches and recipe title is in its list
             if ing_name in spec_lookup and title in spec_lookup[ing_name]["recipes"]:
-                ing["quantity"] = str(spec_lookup[ing_name]["total_weight"])
+                ing["quantity"] = spec_lookup[ing_name]["total_weight"]
                 ing["unit"] = "g"  # ensure consistent units
 
     return filtered_recipes
@@ -228,12 +338,7 @@ def normalize_ingredients(filtered_recipes):
         new_ingredients = []
         for ing in recipe.get("ingredients", []):
             unit = ing.get("unit", "").strip().lower()
-            quantity = ing.get("quantity", 0)
-
-            try:
-                quantity = float(quantity)
-            except (ValueError, TypeError):
-                continue  # skip invalid quantities
+            quantity = float(ing.get("quantity", 0))
 
             # If no unit, assume grams
             if unit == "":
@@ -242,13 +347,13 @@ def normalize_ingredients(filtered_recipes):
 
             # Convert kg or L → g (assuming 1 L ≈ 1 kg for simplicity)
             elif unit in ("kg", "l"):
-                ing["quantity"] = str(quantity * 1000)
+                ing["quantity"] = quantity * 1000
                 ing["unit"] = "g"
                 new_ingredients.append(ing)
 
             # Convert centiliters → grams (approx. 1 cl = 10 g for water-like density)
             elif unit == "cl":
-                ing["quantity"] = str(quantity * 10)
+                ing["quantity"] = quantity * 10
                 ing["unit"] = "g"
                 new_ingredients.append(ing)
 
@@ -274,7 +379,7 @@ def normalize_ingredients(filtered_recipes):
                         comp_unit = "g"
 
                     # Update ingredient with parsed complement info
-                    ing["quantity"] = str(comp_quantity)
+                    ing["quantity"] = comp_quantity
                     ing["unit"] = comp_unit
 
                     # Ensure this ingredient stays in the final list
