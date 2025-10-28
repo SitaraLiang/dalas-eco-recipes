@@ -11,14 +11,21 @@ def convert_recipe_numbers(recipes: list) -> list:
         list: Updated list of recipes with float quantities and ratings.
     """
     for recipe in recipes:
-        try:
-            recipe["rating"] = float(recipe.get("rating", 0))
-        except ValueError:
+        rating = recipe.get("rating", 0)
+        if rating is None:  # Handle NoneType values
             recipe["rating"] = 0.0
+        else:
+            try:
+                recipe["rating"] = float(rating)
+            except (ValueError, TypeError):
+                recipe["rating"] = 0.0
 
         for ingredient in recipe.get("ingredients", []):
             try:
-                ingredient["quantity"] = float(ingredient.get("quantity", 0))
+                quantity = float(ingredient.get("quantity", 0))
+                if quantity < 0:
+                    quantity *= -1
+                ingredient["quantity"] = quantity
             except ValueError:
                 ingredient["quantity"] = 0.0
 
