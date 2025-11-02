@@ -770,7 +770,7 @@
     "total_ecv": 0.319439618,
     "total_kcal": 744.7292929292929,
     "total_protein": 23.03939393939394,
-    "total_fat": 12.402828282828283,
+    "total_fat": 14.402828282828283,
     "is_vege": 1
   },
   {
@@ -1330,7 +1330,7 @@
     "total_ecv": 0.56541865,
     "total_kcal": 2232.644444444444,
     "total_protein": 31.626666666666665,
-    "total_fat": 2.8022222222222224,
+    "total_fat": 10.802222222222223,
     "is_vege": 1
   },
   {
@@ -1362,7 +1362,7 @@
     "total_ecv": 0.46364430999999995,
     "total_kcal": 2638.7555555555555,
     "total_protein": 36.593333333333334,
-    "total_fat": 3.057777777777778,
+    "total_fat": 13.057777777777776,
     "is_vege": 1
   },
   {
@@ -1616,7 +1616,7 @@
     "total_ecv": 0.6839864660000001,
     "total_kcal": 951.769696969697,
     "total_protein": 39.55545454545455,
-    "total_fat": 24.54121212121212,
+    "total_fat": 26.04121212121212,
     "is_vege": 1
   },
   {
@@ -1787,7 +1787,10 @@
         "quantity": 400.0,
         "unit": "g",
         "complement": "",
-        "ecv": 1.43976
+        "ecv": 1.43976,
+        "kcal_per_g": 1028.0,
+        "protein_per_g": 92.0,
+        "fat_per_g": 184.0
       },
       {
         "ingredient_name": "courgette",
@@ -1811,9 +1814,9 @@
       }
     ],
     "total_ecv": 1.59545229667662,
-    "total_kcal": 517.6666654666666,
-    "total_protein": 5.933333200000001,
-    "total_fat": 1.0999999733333334,
+    "total_kcal": 1545.6666654666665,
+    "total_protein": 97.93333319999999,
+    "total_fat": 185.09999997333335,
     "is_vege": 1
   },
   {
@@ -2163,7 +2166,7 @@
     "total_ecv": 0.5183930007692308,
     "total_kcal": 2006.1444444444446,
     "total_protein": 69.36589743589744,
-    "total_fat": 5.730683760683761,
+    "total_fat": 10.2691452991453,
     "is_vege": 1
   },
   {
@@ -3269,7 +3272,7 @@
     "total_ecv": 0.46968280250000005,
     "total_kcal": 787.9708333333333,
     "total_protein": 28.713749999999997,
-    "total_fat": 15.950416666666666,
+    "total_fat": 17.450416666666666,
     "is_vege": 1
   },
   {
@@ -3545,7 +3548,7 @@
     "total_ecv": 0.40428949999999997,
     "total_kcal": 1429.0977777777775,
     "total_protein": 23.874666666666666,
-    "total_fat": 2.540888888888889,
+    "total_fat": 7.5408888888888885,
     "is_vege": 1
   },
   {
@@ -3789,7 +3792,7 @@
     "total_ecv": 0.13252617,
     "total_kcal": 314.05555555555554,
     "total_protein": 4.583333333333333,
-    "total_fat": 0.4277777777777778,
+    "total_fat": 1.4277777777777776,
     "is_vege": 1
   },
   {
@@ -4364,7 +4367,10 @@
         "quantity": 250.0,
         "unit": "g",
         "complement": "",
-        "ecv": 0.89985
+        "ecv": 0.89985,
+        "kcal_per_g": 642.5,
+        "protein_per_g": 57.5,
+        "fat_per_g": 115.0
       },
       {
         "ingredient_name": "sauce tomate",
@@ -4378,9 +4384,9 @@
       }
     ],
     "total_ecv": 1.0896153333333334,
-    "total_kcal": 129.22,
-    "total_protein": 5.884666666666666,
-    "total_fat": 1.092,
+    "total_kcal": 771.72,
+    "total_protein": 63.38466666666667,
+    "total_fat": 116.092,
     "is_vege": 1
   },
   {
@@ -4422,7 +4428,7 @@
     "total_ecv": 0.9209691500000001,
     "total_kcal": 1961.3333333333333,
     "total_protein": 43.5,
-    "total_fat": 6.2666666666666675,
+    "total_fat": 12.266666666666667,
     "is_vege": 1
   },
   {
@@ -4724,7 +4730,7 @@
     "total_ecv": 0.205189868,
     "total_kcal": 551.5515151515151,
     "total_protein": 18.362727272727273,
-    "total_fat": 11.723939393939393,
+    "total_fat": 13.223939393939393,
     "is_vege": 1
   },
   {
@@ -4800,7 +4806,7 @@
     "total_ecv": 0.11667856,
     "total_kcal": 441.0333333333333,
     "total_protein": 6.5600000000000005,
-    "total_fat": 0.6966666666666668,
+    "total_fat": 2.1966666666666668,
     "is_vege": 1
   },
   {
@@ -4940,7 +4946,7 @@
     "total_ecv": 0.16593950000000002,
     "total_kcal": 343.75555555555553,
     "total_protein": 7.413333333333333,
-    "total_fat": 0.9977777777777779,
+    "total_fat": 1.9977777777777779,
     "is_vege": 1
   },
   {
@@ -5204,7 +5210,7 @@
     "total_ecv": 0.47981119999999994,
     "total_kcal": 1271.5555555555557,
     "total_protein": 17.017777777777777,
-    "total_fat": 25.79111111111111,
+    "total_fat": 29.79111111111111,
     "is_vege": 1
   },
   {
@@ -5334,7 +5340,7 @@
     "total_ecv": 0.0750915775,
     "total_kcal": 401.1333333333333,
     "total_protein": 5.615,
-    "total_fat": 0.4866666666666667,
+    "total_fat": 1.9866666666666668,
     "is_vege": 1
   },
   {
@@ -5578,7 +5584,7 @@
     "total_ecv": 0.06122925,
     "total_kcal": 387.8333333333333,
     "total_protein": 5.300000000000001,
-    "total_fat": 0.4166666666666667,
+    "total_fat": 1.9166666666666667,
     "is_vege": 1
   },
   {
@@ -5974,7 +5980,7 @@
     "total_ecv": 0.46269253267662,
     "total_kcal": 1589.6141402141413,
     "total_protein": 43.18545441212121,
-    "total_fat": 23.910100983434344,
+    "total_fat": 28.910100983434344,
     "is_vege": 1
   },
   {
@@ -6031,7 +6037,10 @@
         "quantity": 400.0,
         "unit": "g",
         "complement": "",
-        "ecv": 1.43976
+        "ecv": 1.43976,
+        "kcal_per_g": 1028.0,
+        "protein_per_g": 92.0,
+        "fat_per_g": 184.0
       },
       {
         "ingredient_name": "sauce tomate",
@@ -6055,9 +6064,9 @@
       }
     ],
     "total_ecv": 1.68866925,
-    "total_kcal": 515.6333333333333,
-    "total_protein": 11.120000000000001,
-    "total_fat": 1.4966666666666668,
+    "total_kcal": 1543.6333333333332,
+    "total_protein": 103.11999999999999,
+    "total_fat": 186.99666666666667,
     "is_vege": 1
   },
   {
@@ -6124,7 +6133,10 @@
         "quantity": 400.0,
         "unit": "g",
         "complement": "",
-        "ecv": 1.43976
+        "ecv": 1.43976,
+        "kcal_per_g": 1028.0,
+        "protein_per_g": 92.0,
+        "fat_per_g": 184.0
       },
       {
         "ingredient_name": "feta",
@@ -6138,9 +6150,9 @@
       }
     ],
     "total_ecv": 1.91268225,
-    "total_kcal": 198.0,
-    "total_protein": 15.75,
-    "total_fat": 15.75,
+    "total_kcal": 1226.0,
+    "total_protein": 107.75,
+    "total_fat": 199.75,
     "is_vege": 1
   },
   {
@@ -6824,7 +6836,7 @@
     "total_ecv": 0.10832537417662,
     "total_kcal": 413.1333321333333,
     "total_protein": 6.9483332,
-    "total_fat": 0.7533333066666666,
+    "total_fat": 2.2533333066666668,
     "is_vege": 1
   },
   {
@@ -6856,7 +6868,7 @@
     "total_ecv": 0.46364430999999995,
     "total_kcal": 2638.7555555555555,
     "total_protein": 36.593333333333334,
-    "total_fat": 3.057777777777778,
+    "total_fat": 13.057777777777776,
     "is_vege": 1
   },
   {
@@ -7550,7 +7562,7 @@
     "total_ecv": 0.29580417000000003,
     "total_kcal": 1348.2777777777778,
     "total_protein": 18.71666666666667,
-    "total_fat": 1.5388888888888888,
+    "total_fat": 6.53888888888889,
     "is_vege": 1
   },
   {
@@ -9201,14 +9213,14 @@
         "complement": "",
         "ecv": 0.02452527,
         "kcal_per_g": 73.4,
-        "protein_per_g": 0.0,
-        "fat_per_g": 0.0
+        "protein_per_g": 0.02,
+        "fat_per_g": 0.02
       }
     ],
     "total_ecv": 0.145400415,
     "total_kcal": 324.27500000000003,
-    "total_protein": 10.2075,
-    "total_fat": 9.0075,
+    "total_protein": 10.2275,
+    "total_fat": 9.0275,
     "is_vege": 1
   },
   {
@@ -10185,14 +10197,14 @@
         "complement": "",
         "ecv": 0.36787905,
         "kcal_per_g": 1101.0,
-        "protein_per_g": 0.0,
-        "fat_per_g": 0.0
+        "protein_per_g": 0.3,
+        "fat_per_g": 0.3
       }
     ],
     "total_ecv": 0.6192533375,
     "total_kcal": 1434.5625,
-    "total_protein": 20.50625,
-    "total_fat": 15.45625,
+    "total_protein": 20.806250000000002,
+    "total_fat": 15.756250000000001,
     "is_vege": 1
   },
   {
@@ -10452,7 +10464,7 @@
     "total_ecv": 0.1224585,
     "total_kcal": 775.6666666666666,
     "total_protein": 10.600000000000001,
-    "total_fat": 0.8333333333333334,
+    "total_fat": 3.8333333333333335,
     "is_vege": 1
   },
   {
@@ -11591,14 +11603,14 @@
         "complement": "ou de Liège",
         "ecv": 0.26977797,
         "kcal_per_g": 807.4,
-        "protein_per_g": 0.0,
-        "fat_per_g": 0.0
+        "protein_per_g": 0.22,
+        "fat_per_g": 0.22
       }
     ],
     "total_ecv": 0.26977797,
     "total_kcal": 807.4,
-    "total_protein": 0.0,
-    "total_fat": 0.0,
+    "total_protein": 0.22,
+    "total_fat": 0.22,
     "is_vege": 1
   },
   {
@@ -11732,15 +11744,15 @@
         "unit": "g",
         "complement": "(manzana)",
         "ecv": 0.020409749999999997,
-        "kcal_per_g": 183.5,
-        "protein_per_g": 0.0,
-        "fat_per_g": 0.0
+        "kcal_per_g": 84.27777777777777,
+        "protein_per_g": 0.7666666666666667,
+        "fat_per_g": 0.1388888888888889
       }
     ],
     "total_ecv": 0.020409749999999997,
     "total_kcal": 267.77777777777777,
-    "total_protein": 0.7666666666666667,
-    "total_fat": 0.1388888888888889,
+    "total_protein": 0.8166666666666668,
+    "total_fat": 0.18888888888888888,
     "is_vege": 1
   },
   {
@@ -13377,14 +13389,14 @@
         "complement": "(soit 1/2 verre)",
         "ecv": 0.1532829375,
         "kcal_per_g": 458.75,
-        "protein_per_g": 0.0,
-        "fat_per_g": 0.0
+        "protein_per_g": 0.125,
+        "fat_per_g": 0.125
       }
     ],
     "total_ecv": 0.1532829375,
     "total_kcal": 458.75,
-    "total_protein": 0.0,
-    "total_fat": 0.0,
+    "total_protein": 0.125,
+    "total_fat": 0.125,
     "is_vege": 1
   },
   {
@@ -14027,14 +14039,14 @@
         "complement": "",
         "ecv": 0.036787904999999996,
         "kcal_per_g": 110.1,
-        "protein_per_g": 0.0,
-        "fat_per_g": 0.0
+        "protein_per_g": 0.03,
+        "fat_per_g": 0.03
       }
     ],
     "total_ecv": 0.44214849100000003,
     "total_kcal": 462.86136363636365,
-    "total_protein": 28.080454545454547,
-    "total_fat": 24.534545454545455,
+    "total_protein": 28.110454545454548,
+    "total_fat": 24.564545454545456,
     "is_vege": 1
   },
   {
@@ -15720,7 +15732,7 @@
     "total_ecv": 0.06122925,
     "total_kcal": 387.8333333333333,
     "total_protein": 5.300000000000001,
-    "total_fat": 0.4166666666666667,
+    "total_fat": 1.9166666666666667,
     "is_vege": 1
   },
   {
@@ -17792,7 +17804,7 @@
     "total_ecv": 0.7978114049999999,
     "total_kcal": 2069.35,
     "total_protein": 27.109333333333336,
-    "total_fat": 42.597,
+    "total_fat": 48.597,
     "is_vege": 1
   },
   {
@@ -21591,13 +21603,16 @@
         "quantity": 400.0,
         "unit": "g",
         "complement": "(une pâte brisée allégée convient très bien)",
-        "ecv": 1.43976
+        "ecv": 1.43976,
+        "kcal_per_g": 1028.0,
+        "protein_per_g": 92.0,
+        "fat_per_g": 184.0
       }
     ],
     "total_ecv": 1.43976,
-    "total_kcal": 0,
-    "total_protein": 0,
-    "total_fat": 0,
+    "total_kcal": 1028.0,
+    "total_protein": 92.0,
+    "total_fat": 184.0,
     "is_vege": 1
   },
   {
@@ -22862,13 +22877,16 @@
         "quantity": 400.0,
         "unit": "g",
         "complement": "",
-        "ecv": 1.43976
+        "ecv": 1.43976,
+        "kcal_per_g": 1028.0,
+        "protein_per_g": 92.0,
+        "fat_per_g": 184.0
       }
     ],
     "total_ecv": 1.43976,
-    "total_kcal": 0,
-    "total_protein": 0,
-    "total_fat": 0,
+    "total_kcal": 1028.0,
+    "total_protein": 92.0,
+    "total_fat": 184.0,
     "is_vege": 1
   },
   {
@@ -25394,7 +25412,7 @@
     "total_ecv": 0.32655599999999996,
     "total_kcal": 2068.4444444444443,
     "total_protein": 28.266666666666666,
-    "total_fat": 2.2222222222222223,
+    "total_fat": 10.222222222222221,
     "is_vege": 1
   },
   {
@@ -25554,7 +25572,7 @@
     "total_ecv": 0.06122925,
     "total_kcal": 387.8333333333333,
     "total_protein": 5.300000000000001,
-    "total_fat": 0.4166666666666667,
+    "total_fat": 1.9166666666666667,
     "is_vege": 1
   },
   {
@@ -25660,7 +25678,7 @@
     "total_ecv": 0.3223395,
     "total_kcal": 450.25555555555553,
     "total_protein": 12.263333333333334,
-    "total_fat": 1.8977777777777778,
+    "total_fat": 2.897777777777778,
     "is_vege": 1
   },
   {
@@ -25734,7 +25752,7 @@
     "total_ecv": 0.12950260667662,
     "total_kcal": 323.75555435555555,
     "total_protein": 6.126666533333333,
-    "total_fat": 0.8244444177777778,
+    "total_fat": 1.8244444177777779,
     "is_vege": 1
   },
   {
@@ -25788,7 +25806,7 @@
     "total_ecv": 0.429458736,
     "total_kcal": 1577.6141414141414,
     "total_protein": 41.85212121212122,
-    "total_fat": 23.643434343434343,
+    "total_fat": 28.643434343434343,
     "is_vege": 1
   },
   {
@@ -25929,7 +25947,10 @@
         "quantity": 400.0,
         "unit": "g",
         "complement": "",
-        "ecv": 1.43976
+        "ecv": 1.43976,
+        "kcal_per_g": 1028.0,
+        "protein_per_g": 92.0,
+        "fat_per_g": 184.0
       },
       {
         "ingredient_name": "purée de tomate",
@@ -25943,9 +25964,9 @@
       }
     ],
     "total_ecv": 1.56488,
-    "total_kcal": 85.2,
-    "total_protein": 3.88,
-    "total_fat": 0.7200000000000001,
+    "total_kcal": 1113.2,
+    "total_protein": 95.88,
+    "total_fat": 184.72,
     "is_vege": 1
   },
   {
@@ -27387,7 +27408,7 @@
     "total_ecv": 0.17390986800000002,
     "total_kcal": 530.2515151515152,
     "total_protein": 17.392727272727274,
-    "total_fat": 11.543939393939393,
+    "total_fat": 13.043939393939393,
     "is_vege": 1
   },
   {
@@ -27937,7 +27958,7 @@
     "total_ecv": 0.25850491750000004,
     "total_kcal": 512.1333333333333,
     "total_protein": 7.715,
-    "total_fat": 0.7866666666666666,
+    "total_fat": 2.2866666666666666,
     "is_vege": 1
   },
   {
@@ -28174,7 +28195,10 @@
         "quantity": 400.0,
         "unit": "g",
         "complement": "(déjà prête ou à faire soi-même)",
-        "ecv": 1.43976
+        "ecv": 1.43976,
+        "kcal_per_g": 1028.0,
+        "protein_per_g": 92.0,
+        "fat_per_g": 184.0
       },
       {
         "ingredient_name": "courgette",
@@ -28188,9 +28212,9 @@
       }
     ],
     "total_ecv": 1.47299379667662,
-    "total_kcal": 11.999998799999998,
-    "total_protein": 1.3333332,
-    "total_fat": 0.26666663999999995,
+    "total_kcal": 1039.9999988,
+    "total_protein": 93.3333332,
+    "total_fat": 184.26666664,
     "is_vege": 1
   },
   {
@@ -28721,14 +28745,14 @@
         "complement": "ou d'agave",
         "ecv": 0.087371274375,
         "kcal_per_g": 261.4875,
-        "protein_per_g": 0.0,
-        "fat_per_g": 0.0
+        "protein_per_g": 0.07125000000000001,
+        "fat_per_g": 0.07125000000000001
       }
     ],
     "total_ecv": 0.31273251037500005,
     "total_kcal": 546.3238636363636,
-    "total_protein": 24.185454545454547,
-    "total_fat": 22.254545454545454,
+    "total_protein": 24.256704545454546,
+    "total_fat": 22.325795454545453,
     "is_vege": 1
   },
   {
@@ -29318,7 +29342,7 @@
     "total_ecv": 23.962171833333333,
     "total_kcal": 2975.677777777778,
     "total_protein": 272.4266666666667,
-    "total_fat": 46.12888888888888,
+    "total_fat": 51.12888888888888,
     "is_vege": 0
   },
   {
@@ -29756,7 +29780,7 @@
     "total_ecv": 14.45136682682186,
     "total_kcal": 9907.481781376518,
     "total_protein": 240.72493949617632,
-    "total_fat": 835.0146443994602,
+    "total_fat": 840.3041180836707,
     "is_vege": 0
   },
   {
@@ -30148,7 +30172,7 @@
     "total_ecv": 1.3154835000000002,
     "total_kcal": 1704.7777777777778,
     "total_protein": 61.66666666666667,
-    "total_fat": 27.38888888888889,
+    "total_fat": 32.388888888888886,
     "is_vege": 0
   },
   {
@@ -31056,7 +31080,7 @@
     "total_ecv": 68.92285074249999,
     "total_kcal": 6762.722222222223,
     "total_protein": 680.2333333333333,
-    "total_fat": 161.69444444444446,
+    "total_fat": 171.69444444444446,
     "is_vege": 0
   },
   {
@@ -32432,7 +32456,7 @@
     "total_ecv": 2.9213306297692307,
     "total_kcal": 4292.503418803419,
     "total_protein": 71.8474658119658,
-    "total_fat": 174.17734615384614,
+    "total_fat": 184.17734615384614,
     "is_vege": 0
   },
   {
@@ -33086,7 +33110,7 @@
     "total_ecv": 12.416543909999998,
     "total_kcal": 10591.555555555555,
     "total_protein": 221.33333333333334,
-    "total_fat": 800.9777777777779,
+    "total_fat": 810.9777777777779,
     "is_vege": 0
   },
   {
@@ -34008,7 +34032,7 @@
     "total_ecv": 5.552957631052631,
     "total_kcal": 4925.8450292397665,
     "total_protein": 101.3561403508772,
-    "total_fat": 356.2248538011696,
+    "total_fat": 361.51432748538014,
     "is_vege": 0
   },
   {
@@ -35444,7 +35468,7 @@
     "total_ecv": 1.296357,
     "total_kcal": 4125.833333333333,
     "total_protein": 85.7,
-    "total_fat": 16.166666666666668,
+    "total_fat": 31.166666666666668,
     "is_vege": 0
   },
   {
@@ -36214,7 +36238,7 @@
     "total_ecv": 1.0922595,
     "total_kcal": 2833.0555555555557,
     "total_protein": 68.03333333333333,
-    "total_fat": 14.777777777777779,
+    "total_fat": 24.77777777777778,
     "is_vege": 0
   },
   {
@@ -36300,7 +36324,7 @@
     "total_ecv": 1.6098935710526316,
     "total_kcal": 1895.6228070175437,
     "total_protein": 83.65280701754385,
-    "total_fat": 34.17929824561403,
+    "total_fat": 39.468771929824555,
     "is_vege": 0
   },
   {
@@ -38019,7 +38043,10 @@
         "quantity": 400.0,
         "unit": "g",
         "complement": "",
-        "ecv": 1.43976
+        "ecv": 1.43976,
+        "kcal_per_g": 1028.0,
+        "protein_per_g": 92.0,
+        "fat_per_g": 184.0
       },
       {
         "ingredient_name": "tomate",
@@ -38043,9 +38070,9 @@
       }
     ],
     "total_ecv": 2.1551044999999998,
-    "total_kcal": 268.8,
-    "total_protein": 33.67,
-    "total_fat": 12.18,
+    "total_kcal": 1296.8,
+    "total_protein": 125.67,
+    "total_fat": 196.18,
     "is_vege": 0
   },
   {
@@ -38107,7 +38134,7 @@
     "total_ecv": 41.33454020999999,
     "total_kcal": 5007.955555555555,
     "total_protein": 420.27666666666664,
-    "total_fat": 77.72777777777777,
+    "total_fat": 87.72777777777777,
     "is_vege": 0
   },
   {
@@ -39215,7 +39242,7 @@
     "total_ecv": 11.429707500000001,
     "total_kcal": 9613.888888888889,
     "total_protein": 653.5333333333334,
-    "total_fat": 134.74444444444444,
+    "total_fat": 159.74444444444444,
     "is_vege": 0
   },
   {
@@ -40195,7 +40222,7 @@
     "total_ecv": 12.334904909999999,
     "total_kcal": 10074.444444444445,
     "total_protein": 214.26666666666668,
-    "total_fat": 800.4222222222222,
+    "total_fat": 808.4222222222222,
     "is_vege": 0
   },
   {
@@ -40365,7 +40392,7 @@
     "total_ecv": 2.781875234,
     "total_kcal": 4173.044444444445,
     "total_protein": 71.75999999999999,
-    "total_fat": 145.26000000000002,
+    "total_fat": 155.26000000000002,
     "is_vege": 0
   },
   {
@@ -40857,7 +40884,7 @@
     "total_ecv": 12.794861955769228,
     "total_kcal": 10875.214529914529,
     "total_protein": 224.78079914529914,
-    "total_fat": 830.475123931624,
+    "total_fat": 840.475123931624,
     "is_vege": 0
   },
   {
@@ -41583,7 +41610,7 @@
     "total_ecv": 10.081274999999998,
     "total_kcal": 5147.555555555556,
     "total_protein": 197.33333333333334,
-    "total_fat": 200.17777777777778,
+    "total_fat": 210.17777777777778,
     "is_vege": 0
   },
   {
@@ -42415,7 +42442,7 @@
     "total_ecv": 2.643511109033401,
     "total_kcal": 2334.0266531713896,
     "total_protein": 131.038512145749,
-    "total_fat": 42.2135290148448,
+    "total_fat": 47.50300269905533,
     "is_vege": 0
   },
   {
@@ -44591,7 +44618,7 @@
     "total_ecv": 6.330740833333332,
     "total_kcal": 1926.0777777777776,
     "total_protein": 85.63666666666667,
-    "total_fat": 11.96888888888889,
+    "total_fat": 16.968888888888888,
     "is_vege": 0
   },
   {
@@ -44887,7 +44914,7 @@
     "total_ecv": 1.6448668137500002,
     "total_kcal": 889.2833333333333,
     "total_protein": 88.9275,
-    "total_fat": 19.18166666666667,
+    "total_fat": 20.68166666666667,
     "is_vege": 0
   },
   {
@@ -45123,7 +45150,7 @@
     "total_ecv": 12.870152019033398,
     "total_kcal": 9695.02665317139,
     "total_protein": 228.038512145749,
-    "total_fat": 804.4135290148448,
+    "total_fat": 809.7030026990553,
     "is_vege": 0
   },
   {
@@ -45523,7 +45550,7 @@
     "total_ecv": 9.874911979999998,
     "total_kcal": 4221.369408369408,
     "total_protein": 160.02922077922076,
-    "total_fat": 253.38030303030305,
+    "total_fat": 258.3803030303031,
     "is_vege": 0
   },
   {
@@ -47049,7 +47076,7 @@
     "total_ecv": 10.304351509999998,
     "total_kcal": 2661.833333333333,
     "total_protein": 209.11333333333332,
-    "total_fat": 28.426666666666666,
+    "total_fat": 34.42666666666666,
     "is_vege": 0
   },
   {
@@ -48901,7 +48928,7 @@
     "total_ecv": 2.1238499849999997,
     "total_kcal": 2110.0,
     "total_protein": 41.6,
-    "total_fat": 133.86666666666667,
+    "total_fat": 136.86666666666667,
     "is_vege": 0
   },
   {
@@ -49223,7 +49250,7 @@
     "total_ecv": 14.412779999999998,
     "total_kcal": 4884.5165945165945,
     "total_protein": 237.3917748917749,
-    "total_fat": 152.00505050505052,
+    "total_fat": 162.00505050505052,
     "is_vege": 0
   },
   {
@@ -50559,7 +50586,7 @@
     "total_ecv": 12.416543909999998,
     "total_kcal": 10591.555555555555,
     "total_protein": 221.33333333333334,
-    "total_fat": 800.9777777777779,
+    "total_fat": 810.9777777777779,
     "is_vege": 0
   },
   {
@@ -50633,7 +50660,7 @@
     "total_ecv": 3.2682859799999995,
     "total_kcal": 3368.5555555555557,
     "total_protein": 62.605555555555554,
-    "total_fat": 209.61666666666667,
+    "total_fat": 214.61666666666667,
     "is_vege": 0
   },
   {
@@ -51221,7 +51248,7 @@
     "total_ecv": 2.913771236,
     "total_kcal": 3695.3919191919194,
     "total_protein": 168.5187878787879,
-    "total_fat": 65.03232323232324,
+    "total_fat": 75.03232323232324,
     "is_vege": 0
   },
   {
@@ -51657,7 +51684,7 @@
     "total_ecv": 1.4879259999999999,
     "total_kcal": 3129.722222222222,
     "total_protein": 71.63888888888889,
-    "total_fat": 45.62777777777778,
+    "total_fat": 55.62777777777778,
     "is_vege": 0
   },
   {
@@ -52297,7 +52324,7 @@
     "total_ecv": 10.867832370769229,
     "total_kcal": 8734.658974358974,
     "total_protein": 185.0474658119658,
-    "total_fat": 697.5306794871796,
+    "total_fat": 703.5306794871796,
     "is_vege": 0
   },
   {
@@ -55449,7 +55476,7 @@
     "total_ecv": 1.5714990999999998,
     "total_kcal": 1731.6944444444446,
     "total_protein": 39.358888888888885,
-    "total_fat": 38.403888888888886,
+    "total_fat": 43.403888888888886,
     "is_vege": 0
   },
   {
@@ -55811,7 +55838,7 @@
     "total_ecv": 11.715970976666664,
     "total_kcal": 3223.7555555555555,
     "total_protein": 141.49333333333334,
-    "total_fat": 18.45777777777778,
+    "total_fat": 28.45777777777778,
     "is_vege": 0
   },
   {
@@ -56057,7 +56084,7 @@
     "total_ecv": 1.296357,
     "total_kcal": 4125.833333333333,
     "total_protein": 85.7,
-    "total_fat": 16.166666666666668,
+    "total_fat": 31.166666666666668,
     "is_vege": 0
   },
   {
@@ -56141,7 +56168,7 @@
     "total_ecv": 2.4034627024999997,
     "total_kcal": 2467.3527777777776,
     "total_protein": 74.33966666666667,
-    "total_fat": 16.264388888888888,
+    "total_fat": 24.264388888888888,
     "is_vege": 0
   },
   {
@@ -57001,7 +57028,7 @@
     "total_ecv": 9.936914539999998,
     "total_kcal": 3111.733333333334,
     "total_protein": 170.87,
-    "total_fat": 198.52666666666667,
+    "total_fat": 200.02666666666667,
     "is_vege": 0
   },
   {
@@ -57611,7 +57638,7 @@
     "total_ecv": 12.565854662435894,
     "total_kcal": 6153.770085470085,
     "total_protein": 181.71413247863248,
-    "total_fat": 51.05290170940171,
+    "total_fat": 71.05290170940171,
     "is_vege": 0
   },
   {
@@ -57769,7 +57796,7 @@
     "total_ecv": 21.149745749999997,
     "total_kcal": 4353.386002886003,
     "total_protein": 315.454329004329,
-    "total_fat": 224.81313131313132,
+    "total_fat": 228.31313131313132,
     "is_vege": 0
   },
   {
@@ -57814,7 +57841,10 @@
         "quantity": 400.0,
         "unit": "g",
         "complement": "",
-        "ecv": 1.43976
+        "ecv": 1.43976,
+        "kcal_per_g": 1028.0,
+        "protein_per_g": 92.0,
+        "fat_per_g": 184.0
       },
       {
         "ingredient_name": "magret de canard séché",
@@ -57828,9 +57858,9 @@
       }
     ],
     "total_ecv": 1.923414,
-    "total_kcal": 128.10000000000002,
-    "total_protein": 8.100000000000001,
-    "total_fat": 9.870000000000001,
+    "total_kcal": 1156.1,
+    "total_protein": 100.1,
+    "total_fat": 193.87,
     "is_vege": 0
   },
   {
@@ -58684,7 +58714,7 @@
     "total_ecv": 4.13010225,
     "total_kcal": 2960.708333333333,
     "total_protein": 200.725,
-    "total_fat": 68.66666666666667,
+    "total_fat": 74.66666666666667,
     "is_vege": 0
   },
   {
@@ -59610,7 +59640,7 @@
     "total_ecv": 3.106179736,
     "total_kcal": 2118.9474747474746,
     "total_protein": 69.06878787878787,
-    "total_fat": 148.260101010101,
+    "total_fat": 150.260101010101,
     "is_vege": 0
   },
   {
@@ -60386,7 +60416,7 @@
     "total_ecv": 8.560480201666666,
     "total_kcal": 5535.537037037037,
     "total_protein": 130.95000000000002,
-    "total_fat": 337.05037037037044,
+    "total_fat": 345.05037037037044,
     "is_vege": 0
   },
   {
@@ -61038,7 +61068,7 @@
     "total_ecv": 7.1719725,
     "total_kcal": 4568.872222222222,
     "total_protein": 145.5888888888889,
-    "total_fat": 163.58277777777778,
+    "total_fat": 173.58277777777778,
     "is_vege": 0
   },
   {
@@ -61219,7 +61249,10 @@
         "quantity": 400.0,
         "unit": "g",
         "complement": "",
-        "ecv": 1.43976
+        "ecv": 1.43976,
+        "kcal_per_g": 1028.0,
+        "protein_per_g": 92.0,
+        "fat_per_g": 184.0
       },
       {
         "ingredient_name": "poulet",
@@ -61233,9 +61266,9 @@
       }
     ],
     "total_ecv": 1.7817922499999999,
-    "total_kcal": 123.75,
-    "total_protein": 16.35,
-    "total_fat": 6.0,
+    "total_kcal": 1151.75,
+    "total_protein": 108.35,
+    "total_fat": 190.0,
     "is_vege": 0
   },
   {
@@ -61353,7 +61386,7 @@
     "total_ecv": 12.614577159999998,
     "total_kcal": 10781.555555555555,
     "total_protein": 225.83333333333334,
-    "total_fat": 801.9777777777779,
+    "total_fat": 811.9777777777779,
     "is_vege": 0
   },
   {
@@ -61883,7 +61916,7 @@
     "total_ecv": 3.3082985234999995,
     "total_kcal": 7415.758585858585,
     "total_protein": 130.80878787878788,
-    "total_fat": 158.59454545454545,
+    "total_fat": 178.59454545454545,
     "is_vege": 0
   },
   {
@@ -63415,7 +63448,7 @@
     "total_ecv": 1.6388969000000002,
     "total_kcal": 2079.333333333333,
     "total_protein": 86.16333333333333,
-    "total_fat": 34.37666666666666,
+    "total_fat": 40.37666666666666,
     "is_vege": 0
   },
   {

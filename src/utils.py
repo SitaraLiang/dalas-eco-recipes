@@ -319,7 +319,7 @@ def extract_spec_ingredients(filtered_recipes, max_quantity=16):
     return result
 
 
-def normalize_ingredients(filtered_recipes):
+def normalize_unit_quantity(filtered_recipes):
     """
     Normalize ingredient quantities and units in recipes.
 
@@ -404,7 +404,7 @@ def strip_accents(text):
 # Step 2: basic cleanup and singularization
 def linguistic_normalize(text, nlp):
     text = text.lower().strip()
-    text = strip_accents(text)
+    #text = strip_accents(text)
     text = re.sub(r"\bdes\b", "de", text)
     text = re.sub(r"\bdu\b", "de", text)
     text = re.sub(r"\bd'\b", "de ", text)

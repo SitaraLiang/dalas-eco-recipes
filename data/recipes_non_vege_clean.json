@@ -110,7 +110,7 @@
         "total_ecv": 23.962171833333333,
         "total_kcal": 2975.677777777778,
         "total_protein": 272.4266666666667,
-        "total_fat": 46.12888888888888
+        "total_fat": 51.12888888888888
     },
     {
         "title": "Lasagnes aux fruits de mer légères",
@@ -534,7 +534,7 @@
         "total_ecv": 14.45136682682186,
         "total_kcal": 9907.481781376518,
         "total_protein": 240.72493949617632,
-        "total_fat": 835.0146443994602
+        "total_fat": 840.3041180836707
     },
     {
         "title": "Lapin léger en cocotte",
@@ -910,7 +910,7 @@
         "total_ecv": 1.3154835000000002,
         "total_kcal": 1704.7777777777778,
         "total_protein": 61.66666666666667,
-        "total_fat": 27.38888888888889
+        "total_fat": 32.388888888888886
     },
     {
         "title": "Tartinade légère de saumon fumé",
@@ -1789,7 +1789,7 @@
         "total_ecv": 68.92285074249999,
         "total_kcal": 6762.722222222223,
         "total_protein": 680.2333333333333,
-        "total_fat": 161.69444444444446
+        "total_fat": 171.69444444444446
     },
     {
         "title": "Potée au choux et saucisse de Morteau",
@@ -3122,7 +3122,7 @@
         "total_ecv": 2.9213306297692307,
         "total_kcal": 4292.503418803419,
         "total_protein": 71.8474658119658,
-        "total_fat": 174.17734615384614
+        "total_fat": 184.17734615384614
     },
     {
         "title": "Rôti orloff",
@@ -3754,7 +3754,7 @@
         "total_ecv": 12.416543909999998,
         "total_kcal": 10591.555555555555,
         "total_protein": 221.33333333333334,
-        "total_fat": 800.9777777777779
+        "total_fat": 810.9777777777779
     },
     {
         "title": "Blanquette de veau à l'ancienne",
@@ -4645,7 +4645,7 @@
         "total_ecv": 5.552957631052631,
         "total_kcal": 4925.8450292397665,
         "total_protein": 101.3561403508772,
-        "total_fat": 356.2248538011696
+        "total_fat": 361.51432748538014
     },
     {
         "title": "Langue de boeuf aux petits légumes, sauce Madère",
@@ -6038,7 +6038,7 @@
         "total_ecv": 1.296357,
         "total_kcal": 4125.833333333333,
         "total_protein": 85.7,
-        "total_fat": 16.166666666666668
+        "total_fat": 31.166666666666668
     },
     {
         "title": "Filet mignon de veau au cidre",
@@ -6783,7 +6783,7 @@
         "total_ecv": 1.0922595,
         "total_kcal": 2833.0555555555557,
         "total_protein": 68.03333333333333,
-        "total_fat": 14.777777777777779
+        "total_fat": 24.77777777777778
     },
     {
         "title": "Poulet à la moutarde et au miel",
@@ -6866,7 +6866,7 @@
         "total_ecv": 1.6098935710526316,
         "total_kcal": 1895.6228070175437,
         "total_protein": 83.65280701754385,
-        "total_fat": 34.17929824561403
+        "total_fat": 39.468771929824555
     },
     {
         "title": "Magrets de canard rôtis au miel et au vinaigre de cidre",
@@ -8531,7 +8531,10 @@
                 "quantity": 400.0,
                 "unit": "g",
                 "complement": "",
-                "ecv": 1.43976
+                "ecv": 1.43976,
+                "kcal_per_g": 1028.0,
+                "protein_per_g": 92.0,
+                "fat_per_g": 184.0
             },
             {
                 "ingredient_name": "tomate",
@@ -8555,9 +8558,9 @@
             }
         ],
         "total_ecv": 2.1551044999999998,
-        "total_kcal": 268.8,
-        "total_protein": 33.67,
-        "total_fat": 12.18
+        "total_kcal": 1296.8,
+        "total_protein": 125.67,
+        "total_fat": 196.18
     },
     {
         "title": "Rôti de veau cuisson lente",
@@ -8618,7 +8621,7 @@
         "total_ecv": 41.33454020999999,
         "total_kcal": 5007.955555555555,
         "total_protein": 420.27666666666664,
-        "total_fat": 77.72777777777777
+        "total_fat": 87.72777777777777
     },
     {
         "title": "Lapin à la moutarde au thym et à la crème",
@@ -9692,7 +9695,7 @@
         "total_ecv": 11.429707500000001,
         "total_kcal": 9613.888888888889,
         "total_protein": 653.5333333333334,
-        "total_fat": 134.74444444444444
+        "total_fat": 159.74444444444444
     },
     {
         "title": "Joues de porc au four",
@@ -10642,7 +10645,7 @@
         "total_ecv": 12.334904909999999,
         "total_kcal": 10074.444444444445,
         "total_protein": 214.26666666666668,
-        "total_fat": 800.4222222222222
+        "total_fat": 808.4222222222222
     },
     {
         "title": "Magrets de canard sauce au miel",
@@ -10807,7 +10810,7 @@
         "total_ecv": 2.781875234,
         "total_kcal": 4173.044444444445,
         "total_protein": 71.75999999999999,
-        "total_fat": 145.26000000000002
+        "total_fat": 155.26000000000002
     },
     {
         "title": "Côte de porc à la sauce tomate",
@@ -11283,7 +11286,7 @@
         "total_ecv": 12.794861955769228,
         "total_kcal": 10875.214529914529,
         "total_protein": 224.78079914529914,
-        "total_fat": 830.475123931624
+        "total_fat": 840.475123931624
     },
     {
         "title": "Poulet gingembre citron",
@@ -11986,7 +11989,7 @@
         "total_ecv": 10.081274999999998,
         "total_kcal": 5147.555555555556,
         "total_protein": 197.33333333333334,
-        "total_fat": 200.17777777777778
+        "total_fat": 210.17777777777778
     },
     {
         "title": "Roti de veau aux girolles et à la crême",
@@ -12792,7 +12795,7 @@
         "total_ecv": 2.643511109033401,
         "total_kcal": 2334.0266531713896,
         "total_protein": 131.038512145749,
-        "total_fat": 42.2135290148448
+        "total_fat": 47.50300269905533
     },
     {
         "title": "Magrets de canard laqués aux épices",
@@ -14905,7 +14908,7 @@
         "total_ecv": 6.330740833333332,
         "total_kcal": 1926.0777777777776,
         "total_protein": 85.63666666666667,
-        "total_fat": 11.96888888888889
+        "total_fat": 16.968888888888888
     },
     {
         "title": "Filet de poulet aux champignons",
@@ -15193,7 +15196,7 @@
         "total_ecv": 1.6448668137500002,
         "total_kcal": 889.2833333333333,
         "total_protein": 88.9275,
-        "total_fat": 19.18166666666667
+        "total_fat": 20.68166666666667
     },
     {
         "title": "Sauté de porc au poivron",
@@ -15421,7 +15424,7 @@
         "total_ecv": 12.870152019033398,
         "total_kcal": 9695.02665317139,
         "total_protein": 228.038512145749,
-        "total_fat": 804.4135290148448
+        "total_fat": 809.7030026990553
     },
     {
         "title": "Boulettes à la mozza (polpettes)",
@@ -15811,7 +15814,7 @@
         "total_ecv": 9.874911979999998,
         "total_kcal": 4221.369408369408,
         "total_protein": 160.02922077922076,
-        "total_fat": 253.38030303030305
+        "total_fat": 258.3803030303031
     },
     {
         "title": "Brochette de canard  mariné à l'orange",
@@ -17289,7 +17292,7 @@
         "total_ecv": 10.304351509999998,
         "total_kcal": 2661.833333333333,
         "total_protein": 209.11333333333332,
-        "total_fat": 28.426666666666666
+        "total_fat": 34.42666666666666
     },
     {
         "title": "Magret de canard au gril",
@@ -19080,7 +19083,7 @@
         "total_ecv": 2.1238499849999997,
         "total_kcal": 2110.0,
         "total_protein": 41.6,
-        "total_fat": 133.86666666666667
+        "total_fat": 136.86666666666667
     },
     {
         "title": "Emincé de poulet à la crème de coco",
@@ -19391,7 +19394,7 @@
         "total_ecv": 14.412779999999998,
         "total_kcal": 4884.5165945165945,
         "total_protein": 237.3917748917749,
-        "total_fat": 152.00505050505052
+        "total_fat": 162.00505050505052
     },
     {
         "title": "cuisses de poulet aux haricots",
@@ -20684,7 +20687,7 @@
         "total_ecv": 12.416543909999998,
         "total_kcal": 10591.555555555555,
         "total_protein": 221.33333333333334,
-        "total_fat": 800.9777777777779
+        "total_fat": 810.9777777777779
     },
     {
         "title": "Sauté de veau au citron",
@@ -20756,7 +20759,7 @@
         "total_ecv": 3.2682859799999995,
         "total_kcal": 3368.5555555555557,
         "total_protein": 62.605555555555554,
-        "total_fat": 209.61666666666667
+        "total_fat": 214.61666666666667
     },
     {
         "title": "Poulet basquaise pour cocotte-minute",
@@ -21330,7 +21333,7 @@
         "total_ecv": 2.913771236,
         "total_kcal": 3695.3919191919194,
         "total_protein": 168.5187878787879,
-        "total_fat": 65.03232323232324
+        "total_fat": 75.03232323232324
     },
     {
         "title": "Poulet pané au parmesan, sauce verte minute",
@@ -21753,7 +21756,7 @@
         "total_ecv": 1.4879259999999999,
         "total_kcal": 3129.722222222222,
         "total_protein": 71.63888888888889,
-        "total_fat": 45.62777777777778
+        "total_fat": 55.62777777777778
     },
     {
         "title": "Emincé de poulet aux fanes d'oignons nouveaux",
@@ -22373,7 +22376,7 @@
         "total_ecv": 10.867832370769229,
         "total_kcal": 8734.658974358974,
         "total_protein": 185.0474658119658,
-        "total_fat": 697.5306794871796
+        "total_fat": 703.5306794871796
     },
     {
         "title": "Chevreuil mariné et sauté",
@@ -25424,7 +25427,7 @@
         "total_ecv": 1.5714990999999998,
         "total_kcal": 1731.6944444444446,
         "total_protein": 39.358888888888885,
-        "total_fat": 38.403888888888886
+        "total_fat": 43.403888888888886
     },
     {
         "title": "Rôti de porc au miel et sauce soja sucrée",
@@ -25775,7 +25778,7 @@
         "total_ecv": 11.715970976666664,
         "total_kcal": 3223.7555555555555,
         "total_protein": 141.49333333333334,
-        "total_fat": 18.45777777777778
+        "total_fat": 28.45777777777778
     },
     {
         "title": "Cuisses de poulet provençales",
@@ -26013,7 +26016,7 @@
         "total_ecv": 1.296357,
         "total_kcal": 4125.833333333333,
         "total_protein": 85.7,
-        "total_fat": 16.166666666666668
+        "total_fat": 31.166666666666668
     },
     {
         "title": "Rôti de boeuf brioché",
@@ -26095,7 +26098,7 @@
         "total_ecv": 2.4034627024999997,
         "total_kcal": 2467.3527777777776,
         "total_protein": 74.33966666666667,
-        "total_fat": 16.264388888888888
+        "total_fat": 24.264388888888888
     },
     {
         "title": "Filet de boeuf en croûte au foie gras",
@@ -26930,7 +26933,7 @@
         "total_ecv": 9.936914539999998,
         "total_kcal": 3111.733333333334,
         "total_protein": 170.87,
-        "total_fat": 198.52666666666667
+        "total_fat": 200.02666666666667
     },
     {
         "title": "Poulet Makhani",
@@ -27520,7 +27523,7 @@
         "total_ecv": 12.565854662435894,
         "total_kcal": 6153.770085470085,
         "total_protein": 181.71413247863248,
-        "total_fat": 51.05290170940171
+        "total_fat": 71.05290170940171
     },
     {
         "title": "Poulet rôti farci à la marocaine",
@@ -27674,7 +27677,7 @@
         "total_ecv": 21.149745749999997,
         "total_kcal": 4353.386002886003,
         "total_protein": 315.454329004329,
-        "total_fat": 224.81313131313132
+        "total_fat": 228.31313131313132
     },
     {
         "title": "Rôti de porc au miel ultra-simple",
@@ -27717,7 +27720,10 @@
                 "quantity": 400.0,
                 "unit": "g",
                 "complement": "",
-                "ecv": 1.43976
+                "ecv": 1.43976,
+                "kcal_per_g": 1028.0,
+                "protein_per_g": 92.0,
+                "fat_per_g": 184.0
             },
             {
                 "ingredient_name": "magret de canard séché",
@@ -27731,9 +27737,9 @@
             }
         ],
         "total_ecv": 1.923414,
-        "total_kcal": 128.10000000000002,
-        "total_protein": 8.100000000000001,
-        "total_fat": 9.870000000000001
+        "total_kcal": 1156.1,
+        "total_protein": 100.1,
+        "total_fat": 193.87
     },
     {
         "title": "Salade de poulet au curry simplissime",
@@ -28560,7 +28566,7 @@
         "total_ecv": 4.13010225,
         "total_kcal": 2960.708333333333,
         "total_protein": 200.725,
-        "total_fat": 68.66666666666667
+        "total_fat": 74.66666666666667
     },
     {
         "title": "Emincé de poulet citron-basilic",
@@ -29458,7 +29464,7 @@
         "total_ecv": 3.106179736,
         "total_kcal": 2118.9474747474746,
         "total_protein": 69.06878787878787,
-        "total_fat": 148.260101010101
+        "total_fat": 150.260101010101
     },
     {
         "title": "Poulet aux quatre C (citron, cumin, cannelle, coriandre)",
@@ -30211,7 +30217,7 @@
         "total_ecv": 8.560480201666666,
         "total_kcal": 5535.537037037037,
         "total_protein": 130.95000000000002,
-        "total_fat": 337.05037037037044
+        "total_fat": 345.05037037037044
     },
     {
         "title": "Cuisses de poulet aux olives et estragon",
@@ -30842,7 +30848,7 @@
         "total_ecv": 7.1719725,
         "total_kcal": 4568.872222222222,
         "total_protein": 145.5888888888889,
-        "total_fat": 163.58277777777778
+        "total_fat": 173.58277777777778
     },
     {
         "title": "Magret de canard au cidre",
@@ -31018,7 +31024,10 @@
                 "quantity": 400.0,
                 "unit": "g",
                 "complement": "",
-                "ecv": 1.43976
+                "ecv": 1.43976,
+                "kcal_per_g": 1028.0,
+                "protein_per_g": 92.0,
+                "fat_per_g": 184.0
             },
             {
                 "ingredient_name": "poulet",
@@ -31032,9 +31041,9 @@
             }
         ],
         "total_ecv": 1.7817922499999999,
-        "total_kcal": 123.75,
-        "total_protein": 16.35,
-        "total_fat": 6.0
+        "total_kcal": 1151.75,
+        "total_protein": 108.35,
+        "total_fat": 190.0
     },
     {
         "title": "Poulet  au vin blanc et oignons",
@@ -31148,7 +31157,7 @@
         "total_ecv": 12.614577159999998,
         "total_kcal": 10781.555555555555,
         "total_protein": 225.83333333333334,
-        "total_fat": 801.9777777777779
+        "total_fat": 811.9777777777779
     },
     {
         "title": "Blancs de poulet au poivron rouge",
@@ -31663,7 +31672,7 @@
         "total_ecv": 3.3082985234999995,
         "total_kcal": 7415.758585858585,
         "total_protein": 130.80878787878788,
-        "total_fat": 158.59454545454545
+        "total_fat": 178.59454545454545
     },
     {
         "title": "Poulet sauce à la moutarde et au fromage",
@@ -33149,7 +33158,7 @@
         "total_ecv": 1.6388969000000002,
         "total_kcal": 2079.333333333333,
         "total_protein": 86.16333333333333,
-        "total_fat": 34.37666666666666
+        "total_fat": 40.37666666666666
     },
     {
         "title": "Curry de thon au lait de coco",

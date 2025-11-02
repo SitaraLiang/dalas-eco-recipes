@@ -749,7 +749,7 @@
         "total_ecv": 0.319439618,
         "total_kcal": 744.7292929292929,
         "total_protein": 23.03939393939394,
-        "total_fat": 12.402828282828283
+        "total_fat": 14.402828282828283
     },
     {
         "title": "Tarte végétarienne aux aubergines et courgettes",
@@ -1289,7 +1289,7 @@
         "total_ecv": 0.56541865,
         "total_kcal": 2232.644444444444,
         "total_protein": 31.626666666666665,
-        "total_fat": 2.8022222222222224
+        "total_fat": 10.802222222222223
     },
     {
         "title": "Hachis parmentier végétarien façon Lina",
@@ -1320,7 +1320,7 @@
         "total_ecv": 0.46364430999999995,
         "total_kcal": 2638.7555555555555,
         "total_protein": 36.593333333333334,
-        "total_fat": 3.057777777777778
+        "total_fat": 13.057777777777776
     },
     {
         "title": "Saucisses végétariennes",
@@ -1567,7 +1567,7 @@
         "total_ecv": 0.6839864660000001,
         "total_kcal": 951.769696969697,
         "total_protein": 39.55545454545455,
-        "total_fat": 24.54121212121212
+        "total_fat": 26.04121212121212
     },
     {
         "title": "Nems végétariens aux légumes et aux épices",
@@ -1733,7 +1733,10 @@
                 "quantity": 400.0,
                 "unit": "g",
                 "complement": "",
-                "ecv": 1.43976
+                "ecv": 1.43976,
+                "kcal_per_g": 1028.0,
+                "protein_per_g": 92.0,
+                "fat_per_g": 184.0
             },
             {
                 "ingredient_name": "courgette",
@@ -1757,9 +1760,9 @@
             }
         ],
         "total_ecv": 1.59545229667662,
-        "total_kcal": 517.6666654666666,
-        "total_protein": 5.933333200000001,
-        "total_fat": 1.0999999733333334
+        "total_kcal": 1545.6666654666665,
+        "total_protein": 97.93333319999999,
+        "total_fat": 185.09999997333335
     },
     {
         "title": "Rouleaux de printemps végétariens",
@@ -2099,7 +2102,7 @@
         "total_ecv": 0.5183930007692308,
         "total_kcal": 2006.1444444444446,
         "total_protein": 69.36589743589744,
-        "total_fat": 5.730683760683761
+        "total_fat": 10.2691452991453
     },
     {
         "title": "Riz Tandoori végétarien",
@@ -3172,7 +3175,7 @@
         "total_ecv": 0.46968280250000005,
         "total_kcal": 787.9708333333333,
         "total_protein": 28.713749999999997,
-        "total_fat": 15.950416666666666
+        "total_fat": 17.450416666666666
     },
     {
         "title": "Muffins aux mûres (végétaliens et sans gluten)",
@@ -3440,7 +3443,7 @@
         "total_ecv": 0.40428949999999997,
         "total_kcal": 1429.0977777777775,
         "total_protein": 23.874666666666666,
-        "total_fat": 2.540888888888889
+        "total_fat": 7.5408888888888885
     },
     {
         "title": "Raviolis chinois végétariens",
@@ -3677,7 +3680,7 @@
         "total_ecv": 0.13252617,
         "total_kcal": 314.05555555555554,
         "total_protein": 4.583333333333333,
-        "total_fat": 0.4277777777777778
+        "total_fat": 1.4277777777777776
     },
     {
         "title": "Pâté végétal",
@@ -4230,7 +4233,10 @@
                 "quantity": 250.0,
                 "unit": "g",
                 "complement": "",
-                "ecv": 0.89985
+                "ecv": 0.89985,
+                "kcal_per_g": 642.5,
+                "protein_per_g": 57.5,
+                "fat_per_g": 115.0
             },
             {
                 "ingredient_name": "sauce tomate",
@@ -4244,9 +4250,9 @@
             }
         ],
         "total_ecv": 1.0896153333333334,
-        "total_kcal": 129.22,
-        "total_protein": 5.884666666666666,
-        "total_fat": 1.092
+        "total_kcal": 771.72,
+        "total_protein": 63.38466666666667,
+        "total_fat": 116.092
     },
     {
         "title": "Purée de légumes légère végétarienne",
@@ -4287,7 +4293,7 @@
         "total_ecv": 0.9209691500000001,
         "total_kcal": 1961.3333333333333,
         "total_protein": 43.5,
-        "total_fat": 6.2666666666666675
+        "total_fat": 12.266666666666667
     },
     {
         "title": "Flamiche végétarienne",
@@ -4578,7 +4584,7 @@
         "total_ecv": 0.205189868,
         "total_kcal": 551.5515151515151,
         "total_protein": 18.362727272727273,
-        "total_fat": 11.723939393939393
+        "total_fat": 13.223939393939393
     },
     {
         "title": "Bombine végétarienne",
@@ -4651,7 +4657,7 @@
         "total_ecv": 0.11667856,
         "total_kcal": 441.0333333333333,
         "total_protein": 6.5600000000000005,
-        "total_fat": 0.6966666666666668
+        "total_fat": 2.1966666666666668
     },
     {
         "title": "Saucisses végétariennes rapide",
@@ -4786,7 +4792,7 @@
         "total_ecv": 0.16593950000000002,
         "total_kcal": 343.75555555555553,
         "total_protein": 7.413333333333333,
-        "total_fat": 0.9977777777777779
+        "total_fat": 1.9977777777777779
     },
     {
         "title": "Tomates farcies végétariennes de ma grand-mère",
@@ -5043,7 +5049,7 @@
         "total_ecv": 0.47981119999999994,
         "total_kcal": 1271.5555555555557,
         "total_protein": 17.017777777777777,
-        "total_fat": 25.79111111111111
+        "total_fat": 29.79111111111111
     },
     {
         "title": "Pâté végétal au soja et champignons",
@@ -5168,7 +5174,7 @@
         "total_ecv": 0.0750915775,
         "total_kcal": 401.1333333333333,
         "total_protein": 5.615,
-        "total_fat": 0.4866666666666667
+        "total_fat": 1.9866666666666668
     },
     {
         "title": "Petits farçis à la provençale végétariens",
@@ -5405,7 +5411,7 @@
         "total_ecv": 0.06122925,
         "total_kcal": 387.8333333333333,
         "total_protein": 5.300000000000001,
-        "total_fat": 0.4166666666666667
+        "total_fat": 1.9166666666666667
     },
     {
         "title": "Millefeuille de brique végétarien",
@@ -5788,7 +5794,7 @@
         "total_ecv": 0.46269253267662,
         "total_kcal": 1589.6141402141413,
         "total_protein": 43.18545441212121,
-        "total_fat": 23.910100983434344
+        "total_fat": 28.910100983434344
     },
     {
         "title": "Lasagnes végétariennes aux blettes",
@@ -5842,7 +5848,10 @@
                 "quantity": 400.0,
                 "unit": "g",
                 "complement": "",
-                "ecv": 1.43976
+                "ecv": 1.43976,
+                "kcal_per_g": 1028.0,
+                "protein_per_g": 92.0,
+                "fat_per_g": 184.0
             },
             {
                 "ingredient_name": "sauce tomate",
@@ -5866,9 +5875,9 @@
             }
         ],
         "total_ecv": 1.68866925,
-        "total_kcal": 515.6333333333333,
-        "total_protein": 11.120000000000001,
-        "total_fat": 1.4966666666666668
+        "total_kcal": 1543.6333333333332,
+        "total_protein": 103.11999999999999,
+        "total_fat": 186.99666666666667
     },
     {
         "title": "gloubi boulga végétarien au soja",
@@ -5932,7 +5941,10 @@
                 "quantity": 400.0,
                 "unit": "g",
                 "complement": "",
-                "ecv": 1.43976
+                "ecv": 1.43976,
+                "kcal_per_g": 1028.0,
+                "protein_per_g": 92.0,
+                "fat_per_g": 184.0
             },
             {
                 "ingredient_name": "feta",
@@ -5946,9 +5958,9 @@
             }
         ],
         "total_ecv": 1.91268225,
-        "total_kcal": 198.0,
-        "total_protein": 15.75,
-        "total_fat": 15.75
+        "total_kcal": 1226.0,
+        "total_protein": 107.75,
+        "total_fat": 199.75
     },
     {
         "title": "Nems végétariens sésame coriandre",
@@ -6610,7 +6622,7 @@
         "total_ecv": 0.10832537417662,
         "total_kcal": 413.1333321333333,
         "total_protein": 6.9483332,
-        "total_fat": 0.7533333066666666
+        "total_fat": 2.2533333066666668
     },
     {
         "title": "ragoût végétarien",
@@ -6641,7 +6653,7 @@
         "total_ecv": 0.46364430999999995,
         "total_kcal": 2638.7555555555555,
         "total_protein": 36.593333333333334,
-        "total_fat": 3.057777777777778
+        "total_fat": 13.057777777777776
     },
     {
         "title": "Soupe anatolienne végétarienne au yaourt et à la menthe (soupe yayla)",
@@ -7313,7 +7325,7 @@
         "total_ecv": 0.29580417000000003,
         "total_kcal": 1348.2777777777778,
         "total_protein": 18.71666666666667,
-        "total_fat": 1.5388888888888888
+        "total_fat": 6.53888888888889
     },
     {
         "title": "Dahl de lentilles corail épinards et lait de coco",
@@ -8905,14 +8917,14 @@
                 "complement": "",
                 "ecv": 0.02452527,
                 "kcal_per_g": 73.4,
-                "protein_per_g": 0.0,
-                "fat_per_g": 0.0
+                "protein_per_g": 0.02,
+                "fat_per_g": 0.02
             }
         ],
         "total_ecv": 0.145400415,
         "total_kcal": 324.27500000000003,
-        "total_protein": 10.2075,
-        "total_fat": 9.0075
+        "total_protein": 10.2275,
+        "total_fat": 9.0275
     },
     {
         "title": "Les minis carrots cakes des Goûters d'Aude",
@@ -9857,14 +9869,14 @@
                 "complement": "",
                 "ecv": 0.36787905,
                 "kcal_per_g": 1101.0,
-                "protein_per_g": 0.0,
-                "fat_per_g": 0.0
+                "protein_per_g": 0.3,
+                "fat_per_g": 0.3
             }
         ],
         "total_ecv": 0.6192533375,
         "total_kcal": 1434.5625,
-        "total_protein": 20.50625,
-        "total_fat": 15.45625
+        "total_protein": 20.806250000000002,
+        "total_fat": 15.756250000000001
     },
     {
         "title": "Crumble pommes et fruits rouges vegan",
@@ -10114,7 +10126,7 @@
         "total_ecv": 0.1224585,
         "total_kcal": 775.6666666666666,
         "total_protein": 10.600000000000001,
-        "total_fat": 0.8333333333333334
+        "total_fat": 3.8333333333333335
     },
     {
         "title": "Cookies végan moelleux",
@@ -11210,14 +11222,14 @@
                 "complement": "ou de Liège",
                 "ecv": 0.26977797,
                 "kcal_per_g": 807.4,
-                "protein_per_g": 0.0,
-                "fat_per_g": 0.0
+                "protein_per_g": 0.22,
+                "fat_per_g": 0.22
             }
         ],
         "total_ecv": 0.26977797,
         "total_kcal": 807.4,
-        "total_protein": 0.0,
-        "total_fat": 0.0
+        "total_protein": 0.22,
+        "total_fat": 0.22
     },
     {
         "title": "Cookies vegan aux amandes",
@@ -11345,15 +11357,15 @@
                 "unit": "g",
                 "complement": "(manzana)",
                 "ecv": 0.020409749999999997,
-                "kcal_per_g": 183.5,
-                "protein_per_g": 0.0,
-                "fat_per_g": 0.0
+                "kcal_per_g": 84.27777777777777,
+                "protein_per_g": 0.7666666666666667,
+                "fat_per_g": 0.1388888888888889
             }
         ],
         "total_ecv": 0.020409749999999997,
         "total_kcal": 267.77777777777777,
-        "total_protein": 0.7666666666666667,
-        "total_fat": 0.1388888888888889
+        "total_protein": 0.8166666666666668,
+        "total_fat": 0.18888888888888888
     },
     {
         "title": "Pomme en robe du verger et son caramel au lait",
@@ -12938,14 +12950,14 @@
                 "complement": "(soit 1/2 verre)",
                 "ecv": 0.1532829375,
                 "kcal_per_g": 458.75,
-                "protein_per_g": 0.0,
-                "fat_per_g": 0.0
+                "protein_per_g": 0.125,
+                "fat_per_g": 0.125
             }
         ],
         "total_ecv": 0.1532829375,
         "total_kcal": 458.75,
-        "total_protein": 0.0,
-        "total_fat": 0.0
+        "total_protein": 0.125,
+        "total_fat": 0.125
     },
     {
         "title": "Roulé à la cannelle",
@@ -13568,14 +13580,14 @@
                 "complement": "",
                 "ecv": 0.036787904999999996,
                 "kcal_per_g": 110.1,
-                "protein_per_g": 0.0,
-                "fat_per_g": 0.0
+                "protein_per_g": 0.03,
+                "fat_per_g": 0.03
             }
         ],
         "total_ecv": 0.44214849100000003,
         "total_kcal": 462.86136363636365,
-        "total_protein": 28.080454545454547,
-        "total_fat": 24.534545454545455
+        "total_protein": 28.110454545454548,
+        "total_fat": 24.564545454545456
     },
     {
         "title": "Tarte sucrée à la tomate",
@@ -15203,7 +15215,7 @@
         "total_ecv": 0.06122925,
         "total_kcal": 387.8333333333333,
         "total_protein": 5.300000000000001,
-        "total_fat": 0.4166666666666667
+        "total_fat": 1.9166666666666667
     },
     {
         "title": "Merveilleux fraisier léger",
@@ -17204,7 +17216,7 @@
         "total_ecv": 0.7978114049999999,
         "total_kcal": 2069.35,
         "total_protein": 27.109333333333336,
-        "total_fat": 42.597
+        "total_fat": 48.597
     },
     {
         "title": "Quiche légère asperges / chèvre",
@@ -20864,13 +20876,16 @@
                 "quantity": 400.0,
                 "unit": "g",
                 "complement": "(une pâte brisée allégée convient très bien)",
-                "ecv": 1.43976
+                "ecv": 1.43976,
+                "kcal_per_g": 1028.0,
+                "protein_per_g": 92.0,
+                "fat_per_g": 184.0
             }
         ],
         "total_ecv": 1.43976,
-        "total_kcal": 0,
-        "total_protein": 0,
-        "total_fat": 0
+        "total_kcal": 1028.0,
+        "total_protein": 92.0,
+        "total_fat": 184.0
     },
     {
         "title": "Gâteau chocolat et cannelle léger",
@@ -22093,13 +22108,16 @@
                 "quantity": 400.0,
                 "unit": "g",
                 "complement": "",
-                "ecv": 1.43976
+                "ecv": 1.43976,
+                "kcal_per_g": 1028.0,
+                "protein_per_g": 92.0,
+                "fat_per_g": 184.0
             }
         ],
         "total_ecv": 1.43976,
-        "total_kcal": 0,
-        "total_protein": 0,
-        "total_fat": 0
+        "total_kcal": 1028.0,
+        "total_protein": 92.0,
+        "total_fat": 184.0
     },
     {
         "title": "Flan aux oeufs léger à la cocotte minute",
@@ -24537,7 +24555,7 @@
         "total_ecv": 0.32655599999999996,
         "total_kcal": 2068.4444444444443,
         "total_protein": 28.266666666666666,
-        "total_fat": 2.2222222222222223
+        "total_fat": 10.222222222222221
     },
     {
         "title": "Quiche légère aux carottes",
@@ -24692,7 +24710,7 @@
         "total_ecv": 0.06122925,
         "total_kcal": 387.8333333333333,
         "total_protein": 5.300000000000001,
-        "total_fat": 0.4166666666666667
+        "total_fat": 1.9166666666666667
     },
     {
         "title": "Entremets léger aux pommes",
@@ -24795,7 +24813,7 @@
         "total_ecv": 0.3223395,
         "total_kcal": 450.25555555555553,
         "total_protein": 12.263333333333334,
-        "total_fat": 1.8977777777777778
+        "total_fat": 2.897777777777778
     },
     {
         "title": "Petits pains légers sans pétrissage",
@@ -24867,7 +24885,7 @@
         "total_ecv": 0.12950260667662,
         "total_kcal": 323.75555435555555,
         "total_protein": 6.126666533333333,
-        "total_fat": 0.8244444177777778
+        "total_fat": 1.8244444177777779
     },
     {
         "title": "Bûche de Noël légère sans crème de marrons",
@@ -24919,7 +24937,7 @@
         "total_ecv": 0.429458736,
         "total_kcal": 1577.6141414141414,
         "total_protein": 41.85212121212122,
-        "total_fat": 23.643434343434343
+        "total_fat": 28.643434343434343
     },
     {
         "title": "Galettes légères poireaux et carottes",
@@ -25055,7 +25073,10 @@
                 "quantity": 400.0,
                 "unit": "g",
                 "complement": "",
-                "ecv": 1.43976
+                "ecv": 1.43976,
+                "kcal_per_g": 1028.0,
+                "protein_per_g": 92.0,
+                "fat_per_g": 184.0
             },
             {
                 "ingredient_name": "purée de tomate",
@@ -25069,9 +25090,9 @@
             }
         ],
         "total_ecv": 1.56488,
-        "total_kcal": 85.2,
-        "total_protein": 3.88,
-        "total_fat": 0.7200000000000001
+        "total_kcal": 1113.2,
+        "total_protein": 95.88,
+        "total_fat": 184.72
     },
     {
         "title": "Croque Monsieur super léger",
@@ -26462,7 +26483,7 @@
         "total_ecv": 0.17390986800000002,
         "total_kcal": 530.2515151515152,
         "total_protein": 17.392727272727274,
-        "total_fat": 11.543939393939393
+        "total_fat": 13.043939393939393
     },
     {
         "title": "Muffins légers aux cerises",
@@ -26992,7 +27013,7 @@
         "total_ecv": 0.25850491750000004,
         "total_kcal": 512.1333333333333,
         "total_protein": 7.715,
-        "total_fat": 0.7866666666666666
+        "total_fat": 2.2866666666666666
     },
     {
         "title": "Lasagnes d'aubergine légères",
@@ -27221,7 +27242,10 @@
                 "quantity": 400.0,
                 "unit": "g",
                 "complement": "(déjà prête ou à faire soi-même)",
-                "ecv": 1.43976
+                "ecv": 1.43976,
+                "kcal_per_g": 1028.0,
+                "protein_per_g": 92.0,
+                "fat_per_g": 184.0
             },
             {
                 "ingredient_name": "courgette",
@@ -27235,9 +27259,9 @@
             }
         ],
         "total_ecv": 1.47299379667662,
-        "total_kcal": 11.999998799999998,
-        "total_protein": 1.3333332,
-        "total_fat": 0.26666663999999995
+        "total_kcal": 1039.9999988,
+        "total_protein": 93.3333332,
+        "total_fat": 184.26666664
     },
     {
         "title": "Gratin poireaux-colin tout léger",
@@ -27749,14 +27773,14 @@
                 "complement": "ou d'agave",
                 "ecv": 0.087371274375,
                 "kcal_per_g": 261.4875,
-                "protein_per_g": 0.0,
-                "fat_per_g": 0.0
+                "protein_per_g": 0.07125000000000001,
+                "fat_per_g": 0.07125000000000001
             }
         ],
         "total_ecv": 0.31273251037500005,
         "total_kcal": 546.3238636363636,
-        "total_protein": 24.185454545454547,
-        "total_fat": 22.254545454545454
+        "total_protein": 24.256704545454546,
+        "total_fat": 22.325795454545453
     },
     {
         "title": "Gâteau léger à la compote de fruits",
