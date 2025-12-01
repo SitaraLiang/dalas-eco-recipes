@@ -499,12 +499,12 @@ def calculate_recipe_nutrients(recipes: list, ing_to_fao: dict) -> list:
                     protein_per_g = nutrients.get("protein_per_g", 0)
                     fat_per_g = nutrients.get("fat_per_g", 0)
 
-                    i["kcal_per_g"] = kcal_per_g * qty
-                    i["protein_per_g"] = protein_per_g * qty
-                    i["fat_per_g"] = fat_per_g * qty
+                    kcal_per_g = kcal_per_g * qty
+                    protein_per_g = protein_per_g * qty
+                    fat_per_g = fat_per_g * qty
 
-                    recipe["total_kcal"] += kcal_per_g * qty
-                    recipe["total_protein"] += protein_per_g * qty
-                    recipe["total_fat"] += fat_per_g * qty
+                    recipe["total_kcal"] += kcal_per_g
+                    recipe["total_protein"] += protein_per_g
+                    recipe["total_fat"] += fat_per_g
 
     return recipes
