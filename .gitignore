@@ -4,6 +4,14 @@ __pycache__/
 *$py.class
 .DS_Store
 
+# Data
+data/recipes_non_vege_clean.json
+data/recipes_non_vege_with_ecv.json
+data/recipes_non_vege.json 
+data/recipes_vege.json
+data/recipes_vege_with_ecv.json
+data/recipes_vege_clean.json
+
 # C extensions
 *.so
 
